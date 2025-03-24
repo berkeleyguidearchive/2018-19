@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<p>The Berkeley Academic Guide is UC Berkeley's central catalog, produced by the Office of the Registrar. It allows students, faculty, staff, and the general public to<span> compare programs, find detailed degree requirements, explore classes, and learn more about the unparalleled academic opportunities available at UC Berkeley. </span></p>
+<h3>Degree Programs</h3>
+<p>Browse our degree programs, filtering by interest and academic focus to find programs that spark your curiosity:</p>
+<ul>
+	<li><a href="/2018-19/undergraduate/degree-programs/" target="_blank">Undergraduate Degree Programs</a></li>
+	<li><a href="/2018-19/graduate/degree-programs/" target="_blank">Graduate Degree Programs</a></li>
+</ul>
+<h3>Class Schedule</h3>
+<p>Check out our cutting-edge <a href="http://classes.berkeley.edu/" target="_blank">Class Schedule</a>, which features a robust keyword search as well as filters for classes with open seats, requirements, scheduling, and much more.</p>
+<h3>Course Catalog</h3>
+<p>Go to the <a href="/2018-19/courses/">Course Catalog</a> to see the huge breadth of courses currently approved to be taught at UC Berkeley</p>
+<h3>Archive</h3>
+<p>Visit the <a href="/2018-19/archive/">archive</a> to view past catalogs dating back as far as 1870.</p>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

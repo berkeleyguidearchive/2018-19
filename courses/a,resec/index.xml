@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="a,reseccourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec201" data-toggle="#cb_aresec201">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;201</span> 
+<span class="title">Production, Industrial Organization, and Regulation in Agriculture</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec201">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2015, Fall 2014<br/>
+Basic concepts of micro and welfare economics: partial and general equilibrium. Industrial organization: monopolistic competition, vertical integration, price discrimination, and economics of information with applications to food retailing, cooperatives, fishing, and energy.</span><br />
+ <a href="" class="btn-readmore"><span>Production, Industrial Organization, and Regulation in Agriculture:</span> Read More [+]</a></p>
+<div id="830" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Economics 201A or equivalent or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Production, Industrial Organization, and Regulation in Agriculture:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec202" data-toggle="#cb_aresec202">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;202</span> 
+<span class="title">Issues and Concepts in Agricultural Economics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec202">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+History, institutions, and policies affecting agriculture markets and environmental quality. Producer behavior over time and under uncertainty. Asset fixity and agricultural supply models.</span><br />
+ <a href="" class="btn-readmore"><span>Issues and Concepts in Agricultural Economics:</span> Read More [+]</a></p>
+<div id="573" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Economics 201A-201B or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Issues and Concepts in Agricultural Economics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec210" data-toggle="#cb_aresec210">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;210</span> 
+<span class="title">Probability and Statistics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec210">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+This is an introduction to probability theory and statistical inference. It is primarily intended to prepare students for the graduate econometrics courses 212 and 213. The emphasis of the course is on the principles of statistical reasoning. Probability theory will be discussed mainly as a background for statistical theory and specific models will, for the most part, be considered only to illustrate the general statistical theory as it is dev</span><span class="deschide">eloped.</span><br />
+ <a href="" class="btn-readmore"><span>Probability and Statistics:</span> Read More [+]</a></p>
+<div id="554" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Mahajan</p></div>
+<p><a href="" class="btn-readless"><span>Probability and Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec211" data-toggle="#cb_aresec211">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;211</span> 
+<span class="title">Mathematical Methods for Agricultural and Resource Economists</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec211">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2015, Fall 2014, Fall 2013<br/>
+The goal of this course is to provide entering graduate students with the basic skills required to perform effectively in the graduate program and as professional economists. The lectures place heavy emphasis on intuition, graphical representations, and conceptual understanding. Weekly problem sets provide the opportunity to master mechanical skills and computational techniques. Topics covered include real analysis, linear algebra, multivariable</span><span class="deschide"> calculus, theory of static constrained optimization, and comparative statics.</span><br />
+ <a href="" class="btn-readmore"><span>Mathematical Methods for Agricultural and Resource Economists:</span> Read More [+]</a></p>
+<div id="539" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Mathematical Methods for Agricultural and Resource Economists:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec212" data-toggle="#cb_aresec212">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;212</span> 
+<span class="title">Econometrics: Multiple Equation Estimation</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec212">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Introduction to the estimation and testing of economic models. Includes analysis of the general linear model, asymptotic theory, instrumental variable, and the generalized method of moments. In addition, a survey of time series, analysis, limited dependent variables.</span><br />
+ <a href="" class="btn-readmore"><span>Econometrics: Multiple Equation Estimation:</span> Read More [+]</a></p>
+<div id="171" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 211 or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Econometrics: Multiple Equation Estimation:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec213" data-toggle="#cb_aresec213">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;213</span> 
+<span class="title">Applied Econometrics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec213">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Standard and advanced econometric techniques are applied to topics in agriculture and resource economics. Techniques include limited dependent variables, time series analysis, and nonparametric analysis. Students will use computers to conduct statistical analyses.</span><br />
+ <a href="" class="btn-readmore"><span>Applied Econometrics:</span> Read More [+]</a></p>
+<div id="788" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 211 and 212 or equivalent or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of computer laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Applied Econometrics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec214" data-toggle="#cb_aresec214">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;214</span> 
+<span class="title">New Econometric and Statistical Techniques</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec214">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2012, Spring 2011, Spring 2010<br/>
+Theory and application of new and emerging approaches to estimation and inference. Bayesian, maximum entropy,and other new applications to economic problems will be emphasized. Students will use computers to conduct statistical analyses.</span><br />
+ <a href="" class="btn-readmore"><span>New Econometric and Statistical Techniques:</span> Read More [+]</a></p>
+<div id="319" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 211, 213 or equivalent or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of computer lab per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>New Econometric and Statistical Techniques:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec219a" data-toggle="#cb_aresec219a">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;219A</span> 
+<span class="title">Econometric Project Workshop</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec219a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Techniques for preparing econometric studies, including finding data sources, the reporting of results, and standards for placing research questions with existent literature. With faculty guidance, students prepare approved econometric projects, present projects to the class, provide comments on other student projects, and revise projects in response to faculty and student comments.</span><br />
+ <a href="" class="btn-readmore"><span>Econometric Project Workshop:</span> Read More [+]</a></p>
+<div id="921" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 210, 211, and 212 or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Auffhammer, Sadoulet</p></div>
+<p><a href="" class="btn-readless"><span>Econometric Project Workshop:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec219b" data-toggle="#cb_aresec219b">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;219B</span> 
+<span class="title">Econometric Project Workshop</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec219b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Techniques for preparing econometric studies, including finding data sources, the reporting of results, and standards for placing research questions with existent literature. With faculty guidance, students prepare approved econometric projects, present projects to the class, provide comments on other student projects, and revise projects in response to faculty and student comments.</span><br />
+ <a href="" class="btn-readmore"><span>Econometric Project Workshop:</span> Read More [+]</a></p>
+<div id="271" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 210, 211, and 212 or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Auffhammer, Sadoulet</p></div>
+<p><a href="" class="btn-readless"><span>Econometric Project Workshop:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec232" data-toggle="#cb_aresec232">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;232</span> 
+<span class="title">Empirical International Trade and Investment</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec232">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2010, Spring 2009, Spring 2007<br/>
+Empirical aspects on international trade, foreign investment, and the environment. Issues related to testing various trade models. Topics include: testing trade models (HO, Ricardo, Specific Sector); gravity models; linkages between openness and growth; trade orientation and firm performance; pattern of trade; trade and the environment; labor markets and trade. New topics in international trade with empirical applications, such as trade models</span><span class="deschide"> with heterogeneous firms, outsourcing and foreign investment.</span><br />
+ <a href="" class="btn-readmore"><span>Empirical International Trade and Investment:</span> Read More [+]</a></p>
+<div id="138" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 8 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture per week for eight weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Empirical International Trade and Investment:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec241" data-toggle="#cb_aresec241">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;241</span> 
+<span class="title">Economics and Policy of Production, Technology and Risk in Agricultural and Natural Resources</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec241">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+This course covers alternative models of production, resource and environmental risk management; family production function; adoption and diffusion; innovation and intellectual property rights; agricultural and environmental policies and their impact on production and the environment; water resources; pest control; biotechnology; and optimal control over space and time.</span><br />
+ <a href="" class="btn-readmore"><span>Economics and Policy of Production, Technology and Risk in Agricultural and Natural Resources:</span> Read More [+]</a></p>
+<div id="374" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 201 and 202, or Economics 201A-201B, or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Economics and Policy of Production, Technology and Risk in Agricultural and Natural Resources:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec242" data-toggle="#cb_aresec242">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;242</span> 
+<span class="title">Quantitative Policy Analysis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec242">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Production versus predatory government behavior, rent seeking, social waste, and their trade-offs with the provision of growth-promoting public goods. Three failure types are distinguished: market, government, and organizational. The roles of public versus special interests are modeled to determine degree and extent of organizational failures in collective group behavior. Alternative frameworks are used to evaluate various types of policy</span><span class="deschide"> reform.</span><br />
+ <a href="" class="btn-readmore"><span>Quantitative Policy Analysis:</span> Read More [+]</a></p>
+<div id="933" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 211 or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Quantitative Policy Analysis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec249" data-toggle="#cb_aresec249">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;249</span> 
+<span class="title">Agricultural, Food, and Resource Policy Workshop</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec249">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Presentation and criticism of ongoing research by faculty, staff and students. Not necessarily offered every semester.</span><br />
+ <a href="" class="btn-readmore"><span>Agricultural, Food, and Resource Policy Workshop:</span> Read More [+]</a></p>
+<div id="585" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Agricultural, Food, and Resource Policy Workshop:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresecc251" data-toggle="#cb_aresecc251">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;C251</span> 
+<span class="title">Microeconomics of Development</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresecc251">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Theoretical and empirical analyses of poverty and inequality, household and community behavior, and contract and institutions in the context of developing countries.</span><br />
+ <a href="" class="btn-readmore"><span>Microeconomics of Development:</span> Read More [+]</a></p>
+<div id="64" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Also listed as:</strong> ECON&#160;C270A</p></div>
+<p><a href="" class="btn-readless"><span>Microeconomics of Development:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresecc253" data-toggle="#cb_aresecc253">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;C253</span> 
+<span class="title">International Economic Development Policy</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresecc253">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+This course emphasizes the development and application of policy solutions to developing-world problems related to poverty, macroeconomic policy, and environmental sustainability. Methods of statistical, economic, and policy analysis are applied to a series of case studies. The course is designed to develop practical professional skills for application in the international arena.</span><br />
+ <a href="" class="btn-readmore"><span>International Economic Development Policy:</span> Read More [+]</a></p>
+<div id="830" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Also listed as:</strong> DEVP&#160;C253/PUB&#160;POL&#160;C253</p></div>
+<p><a href="" class="btn-readless"><span>International Economic Development Policy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec259" data-toggle="#cb_aresec259">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;259</span> 
+<span class="title">Rural Economic Development Workshop</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec259">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Presentation and criticism of ongoing research by faculty, staff and students. Not necessarily offered every semester.</span><br />
+ <a href="" class="btn-readmore"><span>Rural Economic Development Workshop:</span> Read More [+]</a></p>
+<div id="959" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Rural Economic Development Workshop:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec261" data-toggle="#cb_aresec261">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;261</span> 
+<span class="title">Environmental and Resource Economics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec261">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Theory of renewable and nonrenewable natural resource use, with applications to forests, fisheries, energy, and climate change. Resources, growth, and sustainability. Economic theory of environmental policy. Externality; the Coasian critique; tax incidence and anomalies; indirect taxes; the double dividend; environmental standards; environmental regulation; impact of uncertainty on taxes and standards; mechanism design; monitoring, penalties, and</span><span class="deschide"> regulatory strategy; emissions markets.</span><br />
+ <a href="" class="btn-readmore"><span>Environmental and Resource Economics:</span> Read More [+]</a></p>
+<div id="887" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Ph.D.-level economic theory or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Environmental and Resource Economics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec262" data-toggle="#cb_aresec262">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;262</span> 
+<span class="title">Non-market Valuation</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec262">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2014, Spring 2012, Spring 2011<br/>
+The economic concept of value; historical evolution of market and non-market valuation; revealed preference methods: single site demand, multi-site demand, corner solution models, and valuation of quality changes; averting behavior; the hedonic method; contingent valuation; other stated preference methods: ranking, choice, conjoint analysis; the value of life and safety; sampling and questionnaire design for valuation surveys.</span><br />
+ <a href="" class="btn-readmore"><span>Non-market Valuation:</span> Read More [+]</a></p>
+<div id="249" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Ph.D.-level economic theory or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Non-market Valuation:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec263" data-toggle="#cb_aresec263">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;263</span> 
+<span class="title">Dynamic Methods in Environmental and Resource Economics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec263">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Spring 2016, Fall 2013<br/>
+This course studies methods of analysis and optimal control of dynamic systems, emphasizing applications in environmental and natural resource economics. Continuous-time deterministic models are studied using phase plane analysis, the calculus of variations, the Maximum Principle, and dynamic programming. Numerical methods are applied to discrete time stochastic and deterministic dynamic models.</span><br />
+ <a href="" class="btn-readmore"><span>Dynamic Methods in Environmental and Resource Economics:</span> Read More [+]</a></p>
+<div id="621" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Ph.D.-level economic theory or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Dynamic Methods in Environmental and Resource Economics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec264" data-toggle="#cb_aresec264">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;264</span> 
+<span class="title">Empirical Energy and Environmental Economics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec264">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This course is designed to help prepare graduate students to conduct empirical research in energy and environmental economics. The course has two broad objectives. The first is to develop an in-depth understanding of specific empirical methods and research designs that are routinely used in the field of energy and environmental economics. The second is to familiarize students with some of the economic theories and institutions that are most</span><span class="deschide"> relevant to empirical work in this area.</span><br />
+ <a href="" class="btn-readmore"><span>Empirical Energy and Environmental Economics:</span> Read More [+]</a></p>
+<div id="361" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 212 and 213; or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Fowlie</p></div>
+<p><a href="" class="btn-readless"><span>Empirical Energy and Environmental Economics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec265" data-toggle="#cb_aresec265">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;265</span> 
+<span class="title">Advanced Topics in Environmental and Resource Economics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec265">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015<br/>
+Advanced topics in environmental and resource economics. Topics vary and include the economics of land, water, fisheries, forestry, pesticides, endangered species, policy instruments for environmental policy, and empirical evaluations of environmental and resource policy.</span><br />
+ <a href="" class="btn-readmore"><span>Advanced Topics in Environmental and Resource Economics:</span> Read More [+]</a></p>
+<div id="381" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Ph.D.-level economic theory and econometrics or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Berck, Sunding</p></div>
+<p><a href="" class="btn-readless"><span>Advanced Topics in Environmental and Resource Economics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec269" data-toggle="#cb_aresec269">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;269</span> 
+<span class="title">Natural Resource Economics Workshop</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec269">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Presentation and criticism of ongoing research by faculty, staff, and students. Not necessarily offered every semester.</span><br />
+ <a href="" class="btn-readmore"><span>Natural Resource Economics Workshop:</span> Read More [+]</a></p>
+<div id="834" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Natural Resource Economics Workshop:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec298" data-toggle="#cb_aresec298">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;298</span> 
+<span class="title">Special Study for Graduate Students</span> 
+<span class="hours">1 - 6 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec298">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+All properly qualified graduate students who wish to pursue a special field of study may do so if their proposed program of study is acceptable to the member here of the staff with whom they work.</span><br />
+ <a href="" class="btn-readmore"><span>Special Study for Graduate Students:</span> Read More [+]</a></p>
+<div id="459" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-6 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-6 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-6 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Individual study.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Study for Graduate Students:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec299" data-toggle="#cb_aresec299">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;299</span> 
+<span class="title">Individual Research</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec299">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/></span><br />
+ <a href="" class="btn-readmore"><span>Individual Research:</span> Read More [+]</a></p>
+<div id="535" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing and consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-12 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Approximately four hours of research per week per unit.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec375" data-toggle="#cb_aresec375">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;375</span> 
+<span class="title">Professional Preparation: Teaching of Environmental Economics and Policy</span> 
+<span class="hours">1 - 6 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec375">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Discussion, problem review and development, guidance of discussion classes, course development, supervised practice teaching.</span><br />
+ <a href="" class="btn-readmore"><span>Professional Preparation: Teaching of Environmental Economics and Policy:</span> Read More [+]</a></p>
+<div id="289" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing, appointment as a graduate student instructor, or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-2 hours of lecture and 1-2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of work per week per unit.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Professional course for teachers or prospective teachers</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p><p><strong>Formerly known as:</strong> Agriculture and Resource Economics 300</p></div>
+<p><a href="" class="btn-readless"><span>Professional Preparation: Teaching of Environmental Economics and Policy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec400" data-toggle="#cb_aresec400">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;400</span> 
+<span class="title">Professional Training in Research Methodology</span> 
+<span class="hours">1 - 6 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec400">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Individual training for graduate students in planning and performing research under the supervision of a faculty adviser, intended to provide academic credit for the experience obtained while holding a research assistantship.</span><br />
+ <a href="" class="btn-readmore"><span>Professional Training in Research Methodology:</span> Read More [+]</a></p>
+<div id="319" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate student researcher appointment</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-6 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Individual research.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Other professional</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Professional Training in Research Methodology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_aresec602" data-toggle="#cb_aresec602">
+<h3 class="courseblocktitle">
+<span class="code">A,RESEC&#160;602</span> 
+<span class="title">Individual Study for Doctoral Students</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_aresec602">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Individual study in consultation with the major field adviser, intended to provide an opportunity for qualified students to prepare themselves for the various examinations required for candidates of the Ph.D. May not be used for unit or residence requirements for the doctoral degree.</span><br />
+ <a href="" class="btn-readmore"><span>Individual Study for Doctoral Students:</span> Read More [+]</a></p>
+<div id="285" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-12 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Individual study.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Agricultural and Resource Economics/Graduate examination preparation</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Study for Doctoral Students:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

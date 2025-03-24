@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<p>The digital and data revolutions have transformed our world. For students of the humanities, these revolutions have made new kinds of study possible. In our Summer Minor in the Digital Humanities, students explore questions about art and culture using digital tools. They learn how to design dynamic projects on digital platforms, using tools like text analysis, visualization, and data mapping. These cutting-edge techniques allow students to investigate subjects in the humanities in new and fascinating ways, and to develop work that is communicable and relevant in today’s digital world. For more information, email summerdigitalhumanities@berkeley.edu.</p>
+<h3>Declaring the Minor</h3>
+<p>There are no prerequisites for the Digital Humanities minor. Students intending to pursue the minor degree can enroll in the required courses at any time.</p>
+<p>Students must submit a Completion of Minor in Digital Humanities form at the start of their final course in the minor sequence.</p>
+]]>
+</abouttheprogramtext>
+<minorretext>
+<![CDATA[
+<h4>General Guidelines</h4>
+<ol>
+	<li> The minor degree consists of a minimum of 5 upper-division courses.</li>
+	<li> All courses taken to fulfill the minor requirements must be taken for graded credit.</li>
+	<li> A minimum grade point average (GPA) of 2.0 is required for courses used to fulfill the minor requirements.</li>
+	<li> All minor requirements must be completed prior to the last day of finals during the semester in which you plan to graduate.</li>
+	<li> The minor is open to enrollment for all Berkeley students.</li>
+</ol>
+<h4>Requirements</h4>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">DIGHUM 100</td><td>Theory and Method in the Digital Humanities</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">DIGHUM 101</td><td>Practicing the Digital Humanities</td><td class="hourscol">3</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Electives (Choose Three)</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">DIGHUM 150A</td><td>Digital Humanities and Archival Design</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">DIGHUM 150B</td><td>Digital Humanities and Visual and Spatial Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">DIGHUM 150C</td><td>Digital Humanities and Text and Language Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol">DIGHUM 160</td><td>Critical Digital Humanities</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+]]>
+</minorretext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

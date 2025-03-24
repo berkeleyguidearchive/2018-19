@@ -1,0 +1,88 @@
+var xmlout = '<?xml version="1.0"?>\n<programpopupinfo>\n';
+
+function escXML(str) {
+	if(typeof str == "undefined")
+		return "";
+	var newStr = str.replace(/\&/g,'&amp;');
+	newStr = newStr.replace(/\"/g,'&quot;');
+	newStr = newStr.replace(/\</g,'&lt;');
+	newStr = newStr.replace(/\>/g,'&gt;');
+
+	return newStr;
+}
+
+for(var i in http)
+	http[i] = http[i].replace(/\+/g, " ");
+
+var id = "";
+var level = "";
+var popImage = "";
+
+if (http["id"])
+	id = decodeURIComponent(http["id"]);
+if (http["level"])
+	level = decodeURIComponent(http["level"]);
+if (http["popimage"])
+	popImage = decodeURIComponent(http["popimage"]);
+
+if (id.length > 0 && level.length > 0) {
+	var db = "fs-" + level;
+	if(http["edition"])
+		db += http["edition"];
+
+	var sql = [
+		"SELECT content_1, content_2, content_3, programs.name as name, programs.url as url, programs.programid as id ",
+		"FROM popup_content LEFT JOIN programs ON popup_content.programid = programs.programid ",
+		"WHERE id='" + dbesc(db, id) + "'"
+	].join('');
+	var res = dbquery(db, sql);
+
+	if (res && res[0]) {
+		var name = escXML(res[0].name);
+		var careers = safehtml(res[0].content_3).split('\n').join('</li><li>');
+		xmlout += [
+			'<program id="' + escXML(id) + '" level="' + escXML(level) + '">',
+			'<![CDATA[',
+				'<div class="cancel">',
+					'<a href="#content" id="btn-close" onclick="hideProgramPreview(); return false;">Close</a>',
+				'</div>',
+				'<div id="program-body" class="clearfix">',
+					'<div id="program-left">',
+						'<img src="' + popImage + '" alt="' + name + '" />',
+						(res[0].content_1.trim().length > 0 ?
+						'<h3 id="programtitle">What is ' + name + '?</h3><p>' + safehtml(res[0].content_1) + '</p>' : ""),
+						(res[0].content_2.trim().length > 0 ?
+						'<h3>Why study at Berkeley?</h3><p>' + safehtml(res[0].content_2) + '</p>' : ""),
+					'</div>',
+					'<div id="program-right">',
+						(res[0].content_3.trim().length > 0 ?
+						'<h3>Potential Careers:</h3><ul><li>' + careers + '</li></ul>' : ""),
+					'</div>',
+				'</div>',
+				'<div class="buttons clearfix">',
+					'<div class="moreinfo">',
+						'<a href="' + escurl(res[0].url) + '" aria-describedby="programtitle">Learn More</a>',
+					'</div>',
+				'</div>',
+			']]>',
+			'</program>'
+		].join('\n');
+	// if program not found, don't display anything
+	} /* else {
+		xmlout += [
+			'<programnf id="' + escXML(id) + '" level="' + escXML(level) + '">',
+			'<![CDATA[',
+				'<div class="cancel">',
+					'<a href="#" onclick="hideProgramPreview(); return false;">Close</a>',
+				'</div>',
+				'<div id="program-nf">',
+					'<p>Program information cannot be found. This program may no longer be offered.</p>',
+					'<p>If you believe there is an error or require more information, please contact the staff.</p>',
+				'</div>',
+			']]>',
+			'</programnf>',
+	    ].join('\n');
+     }*/
+}
+xmlout += "</programpopupinfo>";
+print_doc(xmlout);

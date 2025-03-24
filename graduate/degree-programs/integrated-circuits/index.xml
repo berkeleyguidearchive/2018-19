@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<p><strong>NOTE: This program is no longer accepting new applications.</strong></p>
+<p>The Master of Advanced Study in Integrated Circuits (MAS-IC) is an online, part-time degree program, focused on developing an in-depth and advanced knowledge in the field of integrated circuits, including but not restricted to the digital, mixed-signal, and radio-frequency domains. The program is designed for working professionals who are seeking to advance their careers by gaining in-depth, state-of-the-art knowledge in the field of integrated circuits.</p>
+]]>
+</abouttheprogramtext>
+<admissionstext>
+<![CDATA[
+<p class="Normal1"><strong>NOTE: This program is no longer accepting new applications.</strong></p>
+<h3 class="Normal1">Admission to the University</h3>
+<h4>Uniform minimum requirements for admission</h4>
+<p>The following minimum requirements apply to all programs and will be verified by the Graduate Division:</p>
+<ol>
+	<li>A bachelor’s degree or recognized equivalent from an accredited institution;</li>
+	<li>A minimum grade-point average of B or better (3.0);</li>
+	<li>If the applicant comes from a country or political entity (e.g. Quebec) where English is not the official language, adequate proficiency in English to do graduate work, as evidenced by a TOEFL score of at least 570 on the paper-and-pencil test, 230 on the computer-based test, 90 on the iBT test, or an IELTS Band score of at least 7 (note that individual programs may set higher levels for any of these); and</li>
+	<li>Enough undergraduate training to do graduate work in the given field.</li>
+</ol>
+<h4>Applicants who already hold a graduate degree</h4>
+<p>If you have previously earned a graduate degree, please contact<a href="mailto:gradadmissions@eecs.berkeley.edu"> </a>gradadmissions@eecs.berkeley.edu to determine your eligibility for this program. </p>
+<h4>Required documents for admissions applications</h4>
+<ol>
+	<li><strong>Transcripts:  </strong>Upload unofficial transcripts with the application for the departmental initial review. Official transcripts of all college-level work will be required <strong>if admitted</strong>. Official transcripts must be in sealed envelopes as issued by the school(s) you have attended. Request a current transcript from every post-secondary school that you have attended, including community colleges, summer sessions, and extension programs.
+	<div class="gmail_default">If you have attended Berkeley, upload unofficial transcript with the application for the departmental initial review. Official transcript with evidence of degree conferral <em><strong>will not</strong></em> be required if admitted.</div>
+	</li>
+	<li><strong>Letters of recommendation:</strong> Applicants can request online letters of recommendation through the online application system. Hard copies of recommendation letters must be sent directly to the program, not the Graduate Division.</li>
+	<li><strong>Evidence of English language proficiency:</strong> All applicants from countries in which the official language is not English are required to submit official evidence of English language proficiency. This requirement applies to applicants from Bangladesh, Burma, Nepal, India, Pakistan, Latin America, the Middle East, the People’s Republic of China, Taiwan, Japan, Korea, Southeast Asia, and most European countries. However, applicants who, at the time of application, have already completed at least one year of full-time academic course work with grades of B or better at a U.S. university may submit an official transcript from the U.S. university to fulfill this requirement. The following courses will not fulfill this requirement: 1) courses in English as a Second Language, 2) courses conducted in a language other than English, 3) courses that will be completed after the application is submitted, and 4) courses of a non-academic nature. If applicants have previously been denied admission to Berkeley on the basis of their English language proficiency, they must submit new test scores that meet the current minimum from one of the standardized tests.</li>
+</ol>
+<h3 class="Normal1">Admission to the Program</h3>
+<p>Admission is limited to students who hold the Bachelor's degree, or its equivalent, from an accredited college or university of recognized standing and who have the appropriate preparation for advanced study in the domain of Integrated Circuits including mastery of content equivalent to <span class="sc_courseinline">EL ENG 16A</span> (Designing Information Devices and Systems I) and <span class="sc_courseinline">EL ENG 105</span> (Microelectric Devices and Circuits).</p>
+<p>The following items are required for admission to the Berkeley MAS-IC program in addition to the University’s general graduate admissions requirements:</p>
+<ol>
+	<li><strong>GRE Scores:</strong> All three sections of the GRE are required for applicants with a degree from a non-English speaking institution or not currently working in the US. The GRE is highly recommended (but not required) for domestic applicants.</li>
+	<li><strong>Statement of Purpose:</strong> Why are you applying for this program? What will you do during this degree program? What do you want to do after and how will this help you?</li>
+	<li><strong>Personal History Statement:</strong> What from your past made you decide to go into this field? How will your personal history help you succeed in this program and your future goals?</li>
+</ol>
+<p>Complete the online UC Berkeley graduate application:</p>
+<ol>
+	<li>Start your application through this <a href="http://www.grad.berkeley.edu/" target="_blank">link</a> and fill in each relevant page.</li>
+	<li>Upload the materials above, and send the recommender links several weeks prior to the application deadline to give your recommenders time to submit their letters.</li>
+</ol>
+]]>
+</admissionstext>
+<mastersdegreerequirementstext>
+<![CDATA[
+<p><strong>NOTE: This program is no longer accepting new applications.</strong></p>
+<h3>Unit Requirements</h3>
+<p>A minimum of 24 units is required. </p>
+<p>The Masters of Advanced Study in Integrated Circuits is a two to three year part-time program for full-time, working professionals.</p>
+<h3>Curriculum</h3>
+<p>Students are required to complete all course requirements with a grade of at least a B on the final exam of each course, and the master's project selected as a capstone.</p>
+<p>Students must maintain a minimum cumulative GPA of 3.0.</p>
+<p>Prior to the completion of the degree, any incomplete or in-progress grades in required courses must be rectified.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Base Courses (optional)</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select a maximum of three courses from the following:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W230A</div></td><td>Integrated-Circuit Devices [4]</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W240A</div></td><td>Analog Integrated Circuits [4]</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W241A</div></td><td>Introduction to Digital Integrated Circuits [4]</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W242A</div></td><td>Integrated Circuits for Communications [4]</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Advanced Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select a minimum of three courses from the following:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W230B</div></td><td>Solid State Devices [4]</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W240B</div></td><td>Advanced Analog Integrated Circuits [3]</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W241B</div></td><td>Advanced Digital Integrated Circuits [3]</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W242B</div></td><td>Advanced Integrated Circuits for Communications [3]</td><td class="hourscol"></td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Specialized Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select a minimum of one course from the following:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W240C</div></td><td>Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits [3]</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W244</div></td><td>Fundamental Algorithms for System Modeling, Analysis, and Optimization [4]</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W247B</div></td><td>Introduction to MEMS Design [4]</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent">EL ENG W290C</div></td><td>Advanced Topics in Circuit Design [3]</td><td class="hourscol"></td></tr>
+</tbody></table>
+
+]]>
+</mastersdegreerequirementstext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

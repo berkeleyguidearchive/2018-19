@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng c200" data-toggle="#cb_deveng c200">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG C200</span> 
+<span class="title">Design, Evaluate, and Scale Development Technologies</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng c200">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Spring 2019, Fall 2018, Fall 2017<br/>
+This required course for the Designated Emphasis in Development Engineering will include projects and case studies, many related to projects at UC Berkeley, such as those associated with the Development Impact Labs (DIL). Student teams will work with preliminary data to define the problem. They will then collect and analyze interview and survey data from potential users and begin to design a solution. Students will explore how to use</span><span class="deschide"> novel monitoring technologies and “big data” for product improvement and evaluation. The student teams will use the case studies (with improvements based on user feedback and data analysis) to develop a plan for scaling and evaluation with a rigorous controlled trial.</span><br/>
+ <a href="" class="btn-readmore"><span>Design, Evaluate, and Scale Development Technologies:</span> Read More [+]</a></p>
+<div id="889" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> Students will use multiple qualitative and quantitative methods to learn about user needs, to come up with new concepts and solutions, and to understand how new products and services achieve or fail to achieve their goals in a development setting.</p><p><strong>Student Learning Outcomes:</strong> Students will be able to apply the skills to current challenges in development engineering<br/>
+Students will develop a set of skills that will allow them to flourish in a climate of complex problem solving and design challenges in development engineering<br/>
+Students will learn how to learn from users using qualitative and quantitative tools including surveys, interviews, new monitoring technologies, statistical analyses and experimental designs<br/>
+Students will learn to participate in and lead innovation and creativity in collaborative settings</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Agogino, Levine</p><p><strong>Also listed as:</strong> MEC ENG C200</p></div>
+<p><a href="" class="btn-readless"><span>Design, Evaluate, and Scale Development Technologies:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng 202" data-toggle="#cb_deveng 202">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG 202</span> 
+<span class="title">Critical Systems of Development</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng 202">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+This course is intended to provide students with the necessary background and knowledge to undertake projects and work experience of a global scope. Students will be exposed to a diversity of methodological frameworks, introduced to the skills needed to effectively participate in the sustainable development field (such as systems mapping and landscape analysis), and to understand the history and ethics of global development. Students will be required to complete</span><span class="deschide"> an annotated bibliography and a systems analysis of a problem of interest.</span><br/>
+ <a href="" class="btn-readmore"><span>Critical Systems of Development:</span> Read More [+]</a></p>
+<div id="243" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> To encourage students to research and better understand both the socio-historical and sector-specific contexts of their future development engineering, and to articulate this context in various course assignments.<br/>To engage students in discussions on some of the key ethical and political issues involved in development engineering work.<br/>To expose students to a diversity of methodological frameworks that are important in development engineering work.</p><p><strong>Student Learning Outcomes:</strong> By the end of this class, students can expect to develop the ability to analyze the complex systems dynamics associated with the development contexts that you wish to work within and the changes that you aim to create, and thus to avoid unnecessary unintended consequences of change.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate student standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Critical Systems of Development:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng 203" data-toggle="#cb_deveng 203">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG 203</span> 
+<span class="title">Digital Transformation of Development</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng 203">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+As technology use proliferates globally, there exists significant potential to leverage such technology and associated data streams to further understand and improve the lives and livelihoods of people in low-resource settings. This course introduces students to data-intensive approaches to development. Students will learn methods from development economics, machine learning, information science, and computational social science as a means of gaining insight into</span><span class="deschide"> development challenges and organizational decision-making. Students will gain an introduction to sensors as well as tools and methods for spatial modeling and spatial data analysis.</span><br/>
+ <a href="" class="btn-readmore"><span>Digital Transformation of Development:</span> Read More [+]</a></p>
+<div id="641" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> To increase students’ capacity to use data to make informed decisions around development challenges. <br/>To provide students hands-on experience in digital systems. Students will learn data sourcing, data cleaning, data analysis, and data visualization. <br/>To provide students with a “systems” perspective for understand data and how data is used within a development context. <br/>To strengthen students’ programming and analysis skills.</p><p><strong>Student Learning Outcomes:</strong> Demonstrate skill in critiquing a data-driven research article or report.<br/>
+Develop proficiency in data analysis and data visualization techniques.<br/>
+Understand basic research design, construction of a large data set, and how to analyze towards research outcomes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate student standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Digital Transformation of Development:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng 204" data-toggle="#cb_deveng 204">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG 204</span> 
+<span class="title">Introduction to Social Entrepreneurship</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng 204">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+Social entrepreneurship entails market-oriented approaches to address social problems for sustainable, scalable outcomes. This course will enable students to frame complex problems and devise entrepreneurial approaches for addressing them. Students study the dynamics of societal challenges and the conceptual framework of social innovation and social entrepreneurship from theoretical and practical perspectives. Students also explore technology solutions to addressing</span><span class="deschide"> global social problems with a systems thinking approach. Students additionally learn how to develop appropriate business models and implementation strategies for a social venture.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Social Entrepreneurship:</span> Read More [+]</a></p>
+<div id="703" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> Analyze the impact of technology-based social ventures in various parts of the world and discuss the opportunities, challenges, and tensions encountered by the respective entrepreneurs.<br/>Communicate ideas and solutions to a variety of audiences in a variety of media.<br/>Concisely and precisely articulate ideas to diverse stakeholders using verbal, written, and electronic methods.<br/>Create, test, and refine business plans.<br/>Determine appropriate assessment metrics and identify (or devise) simple instruments to measure social impact and Return on Investment (ROI) on social ventures.<br/>Develop business models and implementation strategies to realize social ventures that are technologically appropriate, environmentally benign, socially acceptable, and economically sustainable.<br/>Explain with appropriate examples the concepts of social innovation and social entrepreneurship from theoretical as well as practical perspectives.<br/>Given a social challenge, determine alternative approaches to affecting social change.</p><p><strong>Student Learning Outcomes:</strong> Students can expect to depart the semester understanding customer-driven design and social entrepreneurship methods, tools and processes. They will also learn how to work on multi-disciplinary teams to address socio-technical challenges.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate student standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Social Entrepreneurship:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng 205" data-toggle="#cb_deveng 205">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG 205</span> 
+<span class="title">Development Engineering Applications</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng 205">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Not yet offered<br/>
+Students engage in professionally oriented independent or group projects. The projects integrate the development engineering goals of creating technology interventions designed to improve human and economic development within complex low-resource settings.</span><br/>
+ <a href="" class="btn-readmore"><span>Development Engineering Applications:</span> Read More [+]</a></p>
+<div id="865" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> Apply a range of leadership skills including motivating others, resolving conflict, developing theories of change, and building greater awareness of self.<br/>Apply a wide variety of methods for creatively framing and solving problems, use a human-centered process to uncover the needs of diverse stakeholders, and engage in divergent and convergent thinking as well as iterative solution testing.<br/>Apply the tenets of entrepreneurship including collaboration, value creation, resilience, and risk-taking to advance the project.<br/>Apply the tenets of systems thinking to understand and influence complex systems, design an innovation that takes into account the larger context surrounding the challenge, its various constitutes, and the interrelationships between system components.<br/>Demonstrate a habit of asking relevant questions to solve complex problems and designing research and methodologies to answer questions.<br/>Demonstrate complex problem-solving skills through the application of knowledge, skills, and responsibilities in the context of progressively more challenging problems and projects.<br/>Demonstrate the ability to function effectively in multidisciplinary, cross-functional teams that include students and mentors from various colleges and representatives from partnering organizations.<br/>Employ empathic listening to understand problems, concisely and precisely express ideas to diverse stakeholders using verbal, written, and electronic methods, and show ability to incorporate feedback to improve project outputs.<br/>Identify all the stakeholders involved in a project, and effectively engage with them to understand and describe their needs and capabilities.</p><p><strong>Student Learning Outcomes:</strong> By the end of this class, students can expect to develop solutions to complex, real-world problems that are either actively implemented or implementation ready.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate student standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Development Engineering Applications:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng 206" data-toggle="#cb_deveng 206">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG 206</span> 
+<span class="title">Ethical Reflection and Portfolio Building</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng 206">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+This course is intended to provide students with a forum for reflection on the Summer Internship component of the Master of Development Engineering as well as projects worked on to date. Topics covered by the course will include issues of power and privilege, civic engagement, political/public policy contexts, tensions between tourism vs. travel, and community service vs. engagement. Students will discuss and produce an op-ed on an issue of interest. Students</span><span class="deschide"> will also develop a portfolio to capture their individual point of view and skill sets developed in the MDevEng.</span><br/>
+ <a href="" class="btn-readmore"><span>Ethical Reflection and Portfolio Building:</span> Read More [+]</a></p>
+<div id="292" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> Articulate in a nuanced and thoughtful manner how development engineering experiences have impacted their motivations, values, skills, and future goals.<br/>Develop the skills to articulate ideas in a non-confrontational, non-controversial and polite manner.<br/>Given a specific real-world situation, identify the most salient facts, stakeholders, consequences, duties, virtues/underlying values, and relationships.<br/>Reflect on and further develop informed, objective perspectives and judgments regarding the praxis of research and entrepreneurship in the development context.<br/>Students will structure and create a significant original portfolio weaving together experiences and outcomes that showcase their identity as a Development Engineer.<br/>Understand the principles of reflection and how these can be integrated into their lives.</p><p><strong>Student Learning Outcomes:</strong> Be prepared to communicate their identity and experiences to a broader audience.<br/>
+Develop an individual identity as a professional in the field of Development Engineering.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate student standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Ethical Reflection and Portfolio Building:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng 210" data-toggle="#cb_deveng 210">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG 210</span> 
+<span class="title">Development Engineering Research and Practice Seminar</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng 210">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Development Engineering represents a new interdisciplinary field that integrates engineering, economics, business, natural resource development and social sciences to develop, implement, and evaluate new technological interventions that address the needs of people living in poverty in developing regions and low-income areas of the United States. This seminar, offered each spring term, will focus on work-in-progress presentations by the students</span><span class="deschide">, as well as faculty and guest lecturers. This seminar is a required course for the Designated Emphasis in Development Engineering.</span><br/>
+ <a href="" class="btn-readmore"><span>Development Engineering Research and Practice Seminar:</span> Read More [+]</a></p>
+<div id="965" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> The objective of the seminar is to prepare students for research and practice in development engineering. Students will give presentations on their research and receive feedback from faculty and peer students in multiple disciplines. The seminar will also provide a community of practice in the new field of development engineering.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Agogino, Brown</p></div>
+<p><a href="" class="btn-readless"><span>Development Engineering Research and Practice Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng 215" data-toggle="#cb_deveng 215">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG 215</span> 
+<span class="title">Global Poverty: Challenges and Hopes in the New Millennium</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng 215">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018<br/>
+This class seeks to provide a rigorous understanding of 20th century development and thus 21st century poverty alleviation. Students will take a look at popular ideas of poverty alleviation, the institutional framework of poverty ideas and practices, and the social and political mobilizations that seek to transform the structures of poverty.</span><br/>
+ <a href="" class="btn-readmore"><span>Global Poverty: Challenges and Hopes in the New Millennium:</span> Read More [+]</a></p>
+<div id="77" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> The graduate students will learn the social-political context constrains and opens opportunities for successful Development Engineering by building on the lectures and readings of the undergraduate course GPP 115, and adding on to it additional readings and a graduate-level discussion seminar.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate level standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 8 hours of lecture and 2.5 hours of discussion per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 6 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week. Six hours of lecture and two hours of discussion per week for 8 weeks. Eight hours of lecture and two and one-half hours of discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> DeLong</p></div>
+<p><a href="" class="btn-readless"><span>Global Poverty: Challenges and Hopes in the New Millennium:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_deveng 290" data-toggle="#cb_deveng 290">
+<h3 class="courseblocktitle">
+<span class="code">DEV ENG 290</span> 
+<span class="title">Advanced Special Topics in Development Engineering</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_deveng 290">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This series covers current topics of research interest in development engineering. The course content may vary semester to semester. Check with the department for current term topics. All topics will address the development engineering goals of developing technology interventions designed to improve human and economic development within complex, low resource settings.</span><br/>
+ <a href="" class="btn-readmore"><span>Advanced Special Topics in Development Engineering:</span> Read More [+]</a></p>
+<div id="613" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> To prepare students to understand critical topics associate with developing economics, development technologies and social impact.</p><p><strong>Student Learning Outcomes:</strong> Varies with the topic. However, all spcial topics courses will teach students skills in integrating multiple disciplines of social sciences, economics, policy and technology into better understanding of development challenges and potential solutions.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> <br/><span style="width: 15px; display: inline-block;"></span>7 weeks - 2.5-6 hours of lecture per week<br/><span style="width: 15px; display: inline-block;"></span>15 weeks - 1-3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One to three hours of lecture per week. Two and one-half to six hours of lecture per week for seven weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Special Topics in Development Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

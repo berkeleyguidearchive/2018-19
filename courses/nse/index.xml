@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="nsecourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_nsec201" data-toggle="#cb_nsec201">
+<h3 class="courseblocktitle">
+<span class="code">NSE&#160;C201</span> 
+<span class="title">Introduction to Nano-Science and Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_nsec201">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2015, Spring 2013, Spring 2012<br/>
+A three-module introduction to the fundamental topics of Nano-Science and Engineering (NSE) theory and research within chemistry, physics, biology, and engineering. This course includes quantum and solid-state physics; chemical synthesis, growth fabrication, and characterization techniques; structures and properties of semiconductors, polymer, and biomedical materials on nanoscales; and devices based on nanostructures. Students must take</span><span class="deschide"> this course to satisfy the NSE Designated Emphasis core requirement.</span><br />
+ <a href="" class="btn-readmore"><span>Introduction to Nano-Science and Engineering:</span> Read More [+]</a></p>
+<div id="916" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Major in physical science such as chemistry, physics, etc., or engineering; consent of advisor or instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Nanoscale Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Gronsky, S.W. Lee, Wu</p><p><strong>Also listed as:</strong> BIO&#160;ENG&#160;C280/MAT&#160;SCI&#160;C261/PHYSICS&#160;C201</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Nano-Science and Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_nsec203" data-toggle="#cb_nsec203">
+<h3 class="courseblocktitle">
+<span class="code">NSE&#160;C203</span> 
+<span class="title">Nanoscale Fabrication</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_nsec203">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2016, Spring 2015, Spring 2013<br/>
+This course discusses various top-down and bottom-up approaches to synthesizing and processing nanostructured materials. The topics include fundamentals of self assembly, nano-imprint lithography, electron beam lithography, nanowire and nanotube synthesis, quantum dot synthesis (strain patterned and colloidal), postsynthesis modification (oxidation, doping, diffusion, surface interactions, and etching techniques). In addition, techniques</span><span class="deschide"> to bridging length scales such as heterogeneous integration will be discussed. We will discuss new electronic, optical, thermal, mechanical, and chemical properties brought forth by the very small sizes.</span><br />
+ <a href="" class="btn-readmore"><span>Nanoscale Fabrication:</span> Read More [+]</a></p>
+<div id="768" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Nanoscale Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Chang-Hasnain</p><p><strong>Also listed as:</strong> EL&#160;ENG&#160;C235</p></div>
+<p><a href="" class="btn-readless"><span>Nanoscale Fabrication:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_nsec237" data-toggle="#cb_nsec237">
+<h3 class="courseblocktitle">
+<span class="code">NSE&#160;C237</span> 
+<span class="title">Computational Nano-mechanics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_nsec237">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018, Spring 2017, Fall 2014<br/>
+Basic mathematics foundations, physical models, computational formulations and algorithms that are used in nanoscale simulations and modelings. They include (1) cohesive finite element methods and discontinuous Galerkin methods; (2) meshfree methods, partition of unity methods, and the eXtended finite element methods (X-FEM); (3) quasicontinuum method; (4) molecular dynamics; (5) multiscale simulations; (6) Boltzmann</span><span class="deschide"> method.</span><br />
+ <a href="" class="btn-readmore"><span>Computational Nano-mechanics:</span> Read More [+]</a></p>
+<div id="371" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week and one hour of laboratory every two weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Nanoscale Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Li</p><p><strong>Also listed as:</strong> CIV&#160;ENG&#160;C237</p></div>
+<p><a href="" class="btn-readless"><span>Computational Nano-mechanics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_nsec242" data-toggle="#cb_nsec242">
+<h3 class="courseblocktitle">
+<span class="code">NSE&#160;C242</span> 
+<span class="title">Computational Nanoscience</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_nsec242">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2009, Spring 2008, Spring 2006<br/>
+A multidisciplinary overview of computational nanoscience for both theorists and experimentalists. This course teaches the main ideas behind different simulation methods; how to decompose a problem into &quot;simulatable&quot; constituents; how to simulate the same thing two different ways; knowing what you are doing and why thinking is still important; the importance of talking to experimentalists; what to do with your data and how to judge</span><span class="deschide"> its validity; why multiscale modeling is both important and nonsense.</span><br />
+ <a href="" class="btn-readmore"><span>Computational Nanoscience:</span> Read More [+]</a></p>
+<div id="376" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Nanoscale Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Also listed as:</strong> PHYSICS&#160;C203</p></div>
+<p><a href="" class="btn-readless"><span>Computational Nanoscience:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_nse290" data-toggle="#cb_nse290">
+<h3 class="courseblocktitle">
+<span class="code">NSE&#160;290</span> 
+<span class="title">Special Topics in Nanoscale Science and Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_nse290">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Lectures and appropriate assignments on fundamental or applied topics of current interest in nanoscale science and engineering.</span><br />
+ <a href="" class="btn-readmore"><span>Special Topics in Nanoscale Science and Engineering:</span> Read More [+]</a></p>
+<div id="407" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing or consent of instructor</p><p><strong>Credit Restrictions:</strong> Subject to home department limitations.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Nanoscale Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Nanoscale Science and Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_nse298" data-toggle="#cb_nse298">
+<h3 class="courseblocktitle">
+<span class="code">NSE&#160;298</span> 
+<span class="title">Group Studies, Seminars, or Group Research</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_nse298">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Advanced studies in various subjects through special seminars on topics to be selected each year. Informal group studies of special problems, group participation in comprehensive design problems, or group research on complete problems for analysis and experimentation.</span><br />
+ <a href="" class="btn-readmore"><span>Group Studies, Seminars, or Group Research:</span> Read More [+]</a></p>
+<div id="547" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Required for participants in Designated Emphasis</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Nanoscale Science and Engineering/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Group Studies, Seminars, or Group Research:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

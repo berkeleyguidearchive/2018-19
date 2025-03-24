@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_crwrit120" data-toggle="#cb_crwrit120">
+<h3 class="courseblocktitle">
+<span class="code">CRWRIT 120</span> 
+<span class="title">Reading and Writing Poetry</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_crwrit120">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2017 Second 6 Week Session, Summer 2016 10 Week Session, Summer 2016 Second 6 Week Session<br/>
+What practical skills does one need in order to speak in poetry’s enchanted chants? What historical background must one understand in order to engage in the subversive conversations of poetry now? This course attends to such fundamental prerequisites by combining an intense training in meter and rhythm, schemes and tropes, stanzaic forms and free verse, with a broad survey of poetry</span><span class="deschide"> written in English. We will share and discuss our own writing in workshops—all the while, exploring the ways in which politics imbues our words and works. We will immerse ourselves in the rich Bay Area poetry scene by attending poetry readings, and by hosting our own end-of-the-semester poetry festival. Students will write and revise a chapbook.</span><br/>
+ <a href="" class="btn-readmore"><span>Reading and Writing Poetry:</span> Read More [+]</a></p>
+<div id="391" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> This course requires advanced English language skills. Applicants should send a writing sample (applicants for the poetry writing course should send up to 5 poems; prose writers should send up to 5 pages of prose)</p><p><strong>Repeat rules:</strong> Course may be repeated for credit under special circumstances: Course may be repeated once for credit with different instructor.Course may be repeated for a maximum of 6 units.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 6-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Six hours of seminar per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Creative Writing/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Reading and Writing Poetry:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_crwrit130" data-toggle="#cb_crwrit130">
+<h3 class="courseblocktitle">
+<span class="code">CRWRIT 130</span> 
+<span class="title">Creative Prose</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_crwrit130">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2017 Second 6 Week Session, Summer 2016 10 Week Session, Summer 2016 Second 6 Week Session<br/>
+This course is a tour of, and workshop in, creative prose forms. Students will read and discuss a wide variety of published work, grouped both by type (e.g., fiction, non-fiction) and by emphasis (e.g., character, time). The greater part of each meeting will be devoted to student writing. Students will build a portfolio of new work and contribute to an archive of resources. They</span><span class="deschide"> will also develop strategies for revision, and learn how to form and participate in independent writing communities.</span><br/>
+ <a href="" class="btn-readmore"><span>Creative Prose:</span> Read More [+]</a></p>
+<div id="162" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> This course requires advanced English language skills. Applicants should send a writing sample (applicants for the poetry writing course should send up to 5 poems; prose writers should send up to 5 pages of prose)</p><p><strong>Repeat rules:</strong> Course may be repeated for credit under special circumstances: Course may be repeated once for credit with different instructor.Course may be repeated for a maximum of 6 units.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 6-6 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Six hours of seminar per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Creative Writing/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Creative Prose:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

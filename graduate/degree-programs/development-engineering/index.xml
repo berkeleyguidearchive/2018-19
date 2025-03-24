@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<p>Through coursework, research mentoring, and professional development, the Designated Emphasis in Development Engineering (DE in DevEng) prepares students to develop, pilot, and evaluate technological interventions designed to improve human and economic development within complex, low-resource settings. </p>
+<p>The DE in DevEng is an interdisciplinary training program for UC Berkeley doctoral students from any department whose dissertation research includes topics related to the application of technology to address the needs of people living in poverty. Students from all departments can <a href="https://blumcenter.berkeley.edu/academics/deveng/apply">apply</a>. </p>
+<p>With support from <a href="https://www.usaid.gov/GlobalDevLab">USAID’s Global Development Lab</a>, the program builds upon ongoing research in technological innovations, human-centered design, development economics, remote sensing and monitoring, data science, and impact analysis at UC Berkeley. The program also features a Traineeship for Innovations at the Nexus of Food, Energy, and Water Systems, <a href="https://blumcenter.berkeley.edu/academics/infews/">InFEWS</a>.</p>
+<p>DevEng students are connected to an ecosystem of researchers and practitioners at Berkeley via the <a href="https://blumcenter.berkeley.edu/academics/deveng/people">Graduate Group in Development Engineering</a>, and also have access to a dynamic global network.</p>
+<p>What is a Designated Emphasis? A “Designated Emphasis” (DE) is a campus-wide system that provides doctoral students with certification in specialties outside their home discipline, to be added to their doctorates.</p>
+]]>
+</abouttheprogramtext>
+<admissionstext>
+<![CDATA[
+<p>To be admitted to the Designated Emphasis in Development Engineering, an applicant must already be accepted into a PhD program at the University of California, Berkeley. Before applying for the DE, interested PhD students should arrange a consultation meeting with one of the development engineering faculty advisers. Students must apply at least one semester before their PhD qualifying examination. Admission to the Designated Emphasis in Development Engineering is determined by the development engineering faculty advisers on a rolling basis throughout the academic year.</p>
+<p>After the initial consultation meeting, a student must submit the application by email to the Graduate Student Affairs Officer (okimoto@ce.berkeley.edu), development engineering faculty adviser, and to the development engineering chair. The application must contain*:</p>
+<ol>
+	<li> Application forms for Admission to the Designated Emphasis in Development Engineering.</li>
+	<li>Letter of intent summarizing research interests and educational or employment background in issues related to development economics or development engineering.</li>
+	<li>A list of courses, if any, taken from the required and designated course list and a timeline when the rest will be taken.</li>
+	<li>Letter of recommendation from a member of the development engineering faculty graduate group or the student’s graduate adviser.</li>
+</ol>
+<p>For the application and detailed information on the Development Engineering Designated Emphasis, please see their <a href="https://blumcenter.berkeley.edu/academics/deveng/" target="_blank">website</a>.</p>
+<p>For further information regarding admission to graduate programs at UC Berkeley, please see the <a href="http://grad.berkeley.edu/admissions/">Graduate Division's Admissions website</a>.  </p>
+<p>* If you have applied to InFEWs, you will have submitted these documents except the timeline and courses.  Please submit that within one year of the InFEWs application.</p>
+]]>
+</admissionstext>
+<designatedemphasisrequirementstext>
+<![CDATA[
+<h3>Coursework/Curriculum</h3>
+<p>The Designated Emphasis in Development Engineering requires a total of five courses, comprised of two core courses and three electives. Electives must be selected from the areas listed below: 1) Problem Identification and Project Design, 2) Evaluation Techniques and Methods for Measuring Social Impact, and 3) Development Technologies. The three electives must span at least two areas.  Of the three electives, only one can be from the student’s home department. Students are encouraged to take one elective prior to the qualifying examination, but this is not required. All course work should be taken for a letter grade.  See <a href="http://deveng.berkeley.edu/">program website</a> for more information.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Required Courses</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">DEV ENG C200</td><td>Design, Evaluate, and Scale Development Technologies</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol">DEV ENG 210</td><td>Development Engineering Research and Practice Seminar</td><td class="hourscol">2</td></tr>
+</tbody></table>
+
+<h4>Development Engineering Electives:  Three electives from at least two of the thematic modules.<br/>
+ </h4>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Problem Identification and Project Design</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">CIV ENG 209</td><td>Design for Sustainable Communities</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">DEVP 225</td><td>Innovation, Product Development, and Marketing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">DEVP C232</td><td>Course Not Available</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">ENE,RES 273</td><td>Research Methods in Social Sciences</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ENE,RES 298</td><td>Doctoral Seminar (Energy and Environmental Justice)</td><td class="hourscol">2</td></tr>
+<tr class="even"><td class="codecol">ESPM 230</td><td>Sociology of Agriculture</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM 261</td><td>Sustainability and Society</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM C282</td><td>Health Implications of Climate Change</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO 213</td><td>User Interface Design and Development</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INFO 214</td><td>User Experience Research</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO 272</td><td>Qualitative Research Methods for Information Systems and Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INFO 283</td><td>Information and Communications Technology for Development</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO 287</td><td>Course Not Available (Information and Communications Technologies for Social Enterprise)</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">MBA 215</td><td>Business Strategies for Emerging Markets: Management, Investment, and Opportunities</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 290H</td><td>Green Product Development: Design for Sustainability</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 290P</td><td>New Product Development: Design Theory and Methods</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PB HLTH 200K</td><td>Environmental Health Sciences Breadth Course</td><td class="hourscol">2</td></tr>
+<tr class="even lastrow"><td class="codecol">PB HLTH 214</td><td>Eat.Think.Design</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Evaluation Techniques and Methods for Measuring Social Impact</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">DEVP 222</td><td>Economics of Sustainable Resource Development</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">DEVP 228</td><td>Strategic Planning and Project Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">DEV ENG 290</td><td>Advanced Special Topics in Development Engineering</td><td class="hourscol">1-3</td></tr>
+<tr class="even"><td class="codecol">ECON 219B</td><td>Applications of Psychology and Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ECON 240A</td><td>Econometrics</td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol">ECON 240B</td><td>Econometrics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON C270A</td><td>Microeconomics of Development</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ECON 270B</td><td>Development Economics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ECON 274</td><td>Global Poverty and Impact Evaluation</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENE,RES 275</td><td>Water and Development</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENE,RES 276</td><td>Climate Change Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 260</td><td>Governance of Global Production</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO 272</td><td>Qualitative Research Methods for Information Systems and Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MBA 292S</td><td>Social Sector Solutions: Social Enterprise</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MBA 296</td><td>Special Topics in Business Administration (Applied Impact Evaluation: How to Learn What Works to Lower Global Poverty)</td><td class="hourscol">1-3</td></tr>
+<tr class="even"><td class="codecol">PB HLTH 235</td><td>Impact Evaluation for Health Professionals</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PB HLTH 252C</td><td>Intervention Trial Design</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol">PUB POL C253</td><td>International Economic Development Policy</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Development Technologies (Appropriate Technologies, Sensors, Data Collection, Data Mining and Analysis)</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">BIO ENG 168L</td><td>Practical Light Microscopy</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV ENG 210</td><td>Control of Water-Related Pathogens</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV ENG 271</td><td>Sensors and Signal Interpretation</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV ENG 290</td><td>Advanced Special Topics in Civil and Environmental Engineering (Control Market and Privacy Tools for Participatory Sensing)</td><td class="hourscol">1-3</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 289A</td><td>Introduction to Machine Learning</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 294</td><td>Special Topics (Behavioral Data Mining)</td><td class="hourscol">1-4</td></tr>
+<tr class="odd"><td class="codecol">ECON 291/ENGIN 298B</td><td>Departmental Seminar (Behavior Management and Change)</td><td class="hourscol">1</td></tr>
+<tr class="even"><td class="codecol">ENE,RES C200</td><td>Energy and Society</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENE,RES C221</td><td>Climate, Energy and Development</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ENE,RES C271</td><td>Energy and Development</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM C234</td><td>Green Chemistry: An Interdisciplonary Approach to Sustainability</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM 261</td><td>Sustainability and Society</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO 271B</td><td>Quantitative Research Methods for Information Systems and Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INFO 283</td><td>Information and Communications Technology for Development</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol">INFO 290</td><td>Special Topics in Information (Data-Intensive International Development)</td><td class="hourscol">1-4</td></tr>
+</tbody></table>
+
+<h3>Qualifying Examination</h3>
+<p>All students must apply and be accepted to the Designated Emphasis in Development Engineering <em>at least one semester before their qualifying examination.</em>  At least one faculty member of development engineering must participate in the qualifying examination committee and will evaluate the exam from relevant perspectives. Satisfactory performance on the qualifying examination for the PhD will be judged according to the established rules in the student’s home department. Online forms must be submitted with approval from both the department and the designated emphasis, at least one month in advance of the exam.  For more details, please see the <a href="http://deveng.berkeley.edu/#quals">website</a>.</p>
+<p>If  none of the faculty advisers/committee members on your qualifying exam or dissertation are in the Graduate Group in Development Engineering, consider encouraging one of them to apply for membership in the Graduate Group in Development Engineering. The faculty should contact the faculty chair (see Contact Information tab on right sidebar). </p>
+<h3>Advancing to Candidacy</h3>
+<p>Students must have a designated emphasis member on the dissertation committee as well as obtaining the approval of the designated emphasis Head Graduate Advisor at the time of applying for candidacy.</p>
+<h3>Dissertation</h3>
+<p>The dissertation must contain themes relevant to the field of Development Engineering (e.g., technology for economic and social development). The student’s dissertation committee must include at least one faculty in development engineering who can evaluate the dissertation from relevant perspectives.</p>
+]]>
+</designatedemphasisrequirementstext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><p class="facitem"><strong>+ </strong>Indicates this faculty member is the recipient of the Distinguished Teaching Award.</p><h4>Faculty</h4><p class="facitem"><strong>Charisma Acey, <i>Assistant Professor</i>. </strong>Water, sanitation, basic services delivery, poverty alleviation, environmental sustainability, environmental justice, urban governance, participatory planning, community-based development, international development, development planning, sustainable development, African studies.<br/><a href="http://vcresearch.berkeley.edu/node/16861"target="_blank">Research Profile</a></p><p class="facitem"><strong>Alice M. Agogino, <i>Professor</i>. </strong>New product development, computer-aided design and databases, theory and methods, intelligent learning systems, information retrieval and data mining, digital libraries, multiobjective and strategic product, nonlinear optimization, probabilistic modeling, supervisory.<br/><a href="http://vcresearch.berkeley.edu/node/14365"target="_blank">Research Profile</a></p><p class="facitem"><strong>Joshua Blumenstock, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>Eric Brewer, <i>Professor</i>. </strong>Operating Systems & Networking (OSNT), Energy (ENE), Security (SEC), Developing regions, Programming languages.<br/><a href="http://vcresearch.berkeley.edu/faculty/eric-brewer"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jenna Burrell, <i>Associate Professor</i>. </strong></p><p class="facitem"><strong>John Canny, <i>Professor</i>. </strong>Computer science, activity-based computing, livenotes, mechatronic devices, flexonics.<br/><a href="http://vcresearch.berkeley.edu/node/14606"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jack Colford, <i>Professor</i>. </strong>Public health, epidemiology, infectious diseases, biostatistics, meta-analysis.<br/><a href="http://vcresearch.berkeley.edu/node/14621"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ashok Gadgil, <i>Professor</i>. </strong>Fuel-efficient stoves, indoor air quality, energy efficiency, developing countries, drinking water, buildings energy efficiency.<br/><a href="http://vcresearch.berkeley.edu/faculty/ashok-gadgil"target="_blank">Research Profile</a></p><p class="facitem"><strong>Paul Gertler, <i>Professor</i>. </strong>Impact evaluation, health economics.<br/><a href="http://facultybio.haas.berkeley.edu/faculty-list/gertler-paul/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Maria Paz Gutierrez, <i>Associate Professor</i>. </strong>Next-generation building systems, self-regulated facades, biologically inspired technologies, multifunctional materials.<br/><a href="http://vcresearch.berkeley.edu/node/14763"target="_blank">Research Profile</a></p><p class="facitem"><strong>Daniel Kammen, <i>Professor</i>. </strong>Climate Change, Engineering, Environment, Energy, Renewable and Clean Energy, Energy Forecasting, Health and Environment, International R&D Policy, Race and Gender, Rural Resource Management.<br/><a href="https://gspp.berkeley.edu/directories/faculty/daniel-kammen"target="_blank">Research Profile</a></p><p class="facitem"><strong>David Levine, <i>Professor</i>. </strong>Organizational learning, economic development, management, workplace, health and education in poor nations.<br/><a href="http://facultybio.haas.berkeley.edu/faculty-list/levine-david/"target="_blank">Research Profile</a></p><p class="facitem"><strong>Kara L. Nelson, <i>Professor</i>. </strong>Water and wastewater treatment, water reuse, detection and inactivation of pathogens in water and sludge, appropriate technologies.<br/><a href="http://vcresearch.berkeley.edu/faculty/kara-l-nelson"target="_blank">Research Profile</a></p><p class="facitem"><strong>+ Kameshwar Poolla, <i>Professor</i>. </strong>Cybersecurity, modeling, control, renewable energy, estimation, integrated circuit design and manufacturing, smart grids.<br/><a href="http://vcresearch.berkeley.edu/node/14273"target="_blank">Research Profile</a></p><p class="facitem"><strong>Matthew D. Potts, <i>Associate Professor</i>. </strong>Forest management, biofuels, plantation agriculture, land use planning, land use policy, biodiversity conservation, ecosystem services, tropical ecology, environmental economics.<br/><a href="http://vcresearch.berkeley.edu/faculty/matthew-potts"target="_blank">Research Profile</a></p><p class="facitem"><strong>Michael Ranney, <i>Professor</i>. </strong>Problem solving, knowledge representation and reorganization, explanatory coherence and inference, conceptual change, societal implications, science instruction, global climate change psychology, numeracy in journalism, naive/informal physics, computational models of cognition, perceptual-cognitive interactions, intelligent tutoring systems, understandings of biological evolution, Reasoning, qualitative and quantitative thinking.<br/><a href="http://vcresearch.berkeley.edu/node/15390"target="_blank">Research Profile</a></p><p class="facitem"><strong>Elisabeth Sadoulet, <i>Professor</i>. </strong>Economics, agriculture, labor management and policy.<br/><a href="http://vcresearch.berkeley.edu/node/15297"target="_blank">Research Profile</a></p><p class="facitem"><strong>S. Shankar Sastry, <i>Professor</i>. </strong>Computer science, robotics, arial robots, cybersecurity, cyber defense, homeland defense, nonholonomic systems, control of hybrid systems, sensor networks, interactive visualization, robotic telesurgery, rapid prototyping.<br/><a href="http://vcresearch.berkeley.edu/node/13862"target="_blank">Research Profile</a></p><p class="facitem"><strong>+ Laura D'Andrea Tyson, <i>Professor</i>. </strong>High-technology competition, US industrial and technology policies, international economy, US trade policy, US competitiveness, emerging market economies, multinational companies in the US economy, gender gap (economic participation, educational attainment, political empowerment and health), research and development tax credit.<br/><a href="http://vcresearch.berkeley.edu/node/14334"target="_blank">Research Profile</a></p><p class="facitem"><strong>Catherine D. Wolfram, <i>Professor</i>. </strong>Climate change, energy efficiency, regulation of business, energy and environmental markets.<br/><a href="http://vcresearch.berkeley.edu/node/15629"target="_blank">Research Profile</a></p><p class="facitem"><strong>David Zilberman, <i>Professor</i>. </strong>Marketing, biotechnology, water, risk management, biofuels, natural resources, agricultural and environmental policy, the economics of innovation.<br/><a href="http://vcresearch.berkeley.edu/node/15655"target="_blank">Research Profile</a></p><h4>Affiliated Faculty</h4><p class="facitem"><strong>Daniel Fletcher, <i>Professor</i>. </strong>Bioengineering, optical and force microscopy, microfabrication, biophysics, mechanical properties of cells.<br/><a href="http://vcresearch.berkeley.edu/faculty/daniel-alden-fletcher"target="_blank">Research Profile</a></p><h4>Lecturers</h4><p class="facitem"><strong>+ Sara Beckman, <i>Senior Lecturer SOE</i>. </strong>Business, innovation, management, product development, operations strategy, environmental supply chain management.<br/><a href="http://vcresearch.berkeley.edu/node/13849"target="_blank">Research Profile</a></p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Clair Brown, <i>Professor Emeritus</i>. </strong>Innovation, management, economics, labor, employment, labor market institutions, semi-conductor industry.<br/><a href="http://vcresearch.berkeley.edu/node/14424"target="_blank">Research Profile</a></p><p class="facitem"><strong>S. Leonard Syme, <i>Professor Emeritus</i>. </strong>Social epidemiology, community interventions.<br/><a href="http://vcresearch.berkeley.edu/node/15518"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+

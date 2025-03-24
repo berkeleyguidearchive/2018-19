@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="icelandcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_iceland1a" data-toggle="#cb_iceland1a">
+<h3 class="courseblocktitle">
+<span class="code">ICELAND&#160;1A</span> 
+<span class="title">Beginning Icelandic I</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_iceland1a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2016<br/>
+An introduction to spoken and written modern Icelandic focusing on basic social situations, everyday needs, and simple social transactions. The first semester deals with a variety of topics and interests using primarily the present tense, with limited use of other tenses. Students also develop introductory writing skills in Icelandic on familiar topics.</span><br />
+ <a href="" class="btn-readmore"><span>Beginning Icelandic I:</span> Read More [+]</a></p>
+<div id="224" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Icelandic/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Beginning Icelandic I:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_iceland1b" data-toggle="#cb_iceland1b">
+<h3 class="courseblocktitle">
+<span class="code">ICELAND&#160;1B</span> 
+<span class="title">Beginning Icelandic II</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_iceland1b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2017<br/>
+A continuation of the introductory sequence of Beginning Icelandic, this course focuses on basic social situations and common needs, continuing to develop speaking and writing competency with an eye toward expressing more complex ideas in a range of tenses. Icelandic cultural life and history will inform our topics of discussion and vocabulary development.</span><br />
+ <a href="" class="btn-readmore"><span>Beginning Icelandic II:</span> Read More [+]</a></p>
+<div id="427" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Icelandic 1A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Icelandic/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Beginning Icelandic II:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="danishcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_danish1a" data-toggle="#cb_danish1a">
+<h3 class="courseblocktitle">
+<span class="code">DANISH&#160;1A</span> 
+<span class="title">Beginning Danish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_danish1a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Students will develop the basic elements of communicative competence in both spoken and written language within a cultural context.</span><br />
+ <a href="" class="btn-readmore"><span>Beginning Danish:</span> Read More [+]</a></p>
+<div id="183" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Danish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Scandinavian 4A</p></div>
+<p><a href="" class="btn-readless"><span>Beginning Danish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_danish1b" data-toggle="#cb_danish1b">
+<h3 class="courseblocktitle">
+<span class="code">DANISH&#160;1B</span> 
+<span class="title">Beginning Danish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_danish1b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Spring 2020, Spring 2018, Spring 2017<br/>
+Students will continue to develop the basic elements of communicative competence in both the spoken and written language within a cultural context.</span><br />
+ <a href="" class="btn-readmore"><span>Beginning Danish:</span> Read More [+]</a></p>
+<div id="950" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 4A or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Danish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Beginning Danish:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

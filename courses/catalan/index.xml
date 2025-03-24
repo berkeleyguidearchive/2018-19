@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<div id="sc_courseblock">
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_catalan101" data-toggle="#cb_catalan101">
+<h3 class="courseblocktitle">
+<span class="code">CATALAN 101</span> 
+<span class="title">Catalan for Advanced Students</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_catalan101">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Spanish and Portuguese<br/>
+Terms offered: Fall 2019, Fall 2018, Spring 2017<br/>
+An intensive course for students with no previous study of Catalan.</span><br/>
+ <a href="" class="btn-readmore"><span>Catalan for Advanced Students:</span> Read More [+]</a></p>
+<div id="315" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Credit for 16-20 units or equivalent of another Romance language, or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Catalan/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Catalan for Advanced Students:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_catalan102" data-toggle="#cb_catalan102">
+<h3 class="courseblocktitle">
+<span class="code">CATALAN 102</span> 
+<span class="title">Readings in Catalan</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_catalan102">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Spanish and Portuguese<br/>
+Terms offered: Spring 2020, Spring 2019, Fall 2017<br/>
+Selected readings in Catalan prose and poetry.</span><br/>
+ <a href="" class="btn-readmore"><span>Readings in Catalan:</span> Read More [+]</a></p>
+<div id="240" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1 and 2 or 101 or equivalent, or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Catalan/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Readings in Catalan:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="catalancourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_catalan101" data-toggle="#cb_catalan101">
+<h3 class="courseblocktitle">
+<span class="code">CATALAN&#160;101</span> 
+<span class="title">Catalan for Advanced Students</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_catalan101">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Spanish and Portuguese<br/>
+Terms offered: Fall 2019, Fall 2018, Spring 2017<br/>
+An intensive course for students with no previous study of Catalan.</span><br />
+ <a href="" class="btn-readmore"><span>Catalan for Advanced Students:</span> Read More [+]</a></p>
+<div id="634" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Credit for 16-20 units or equivalent of another Romance language, or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Catalan/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Catalan for Advanced Students:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_catalan102" data-toggle="#cb_catalan102">
+<h3 class="courseblocktitle">
+<span class="code">CATALAN&#160;102</span> 
+<span class="title">Readings in Catalan</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_catalan102">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Spanish and Portuguese<br/>
+Terms offered: Spring 2020, Spring 2019, Fall 2017<br/>
+Selected readings in Catalan prose and poetry.</span><br />
+ <a href="" class="btn-readmore"><span>Readings in Catalan:</span> Read More [+]</a></p>
+<div id="658" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1 and 2 or 101 or equivalent, or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Catalan/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Readings in Catalan:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="linfostcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_linfostn1" data-toggle="#cb_linfostn1">
+<h3 class="courseblocktitle">
+<span class="code">LINFOST&#160;N1</span> 
+<span class="title">Bib 1: Information Resources: Effectively Utilizing the UC Berkeley Library and Beyond</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_linfostn1">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 1996 10 Week Session<br/>
+The explosive growth of the information world is threatening to overwhelm us all. With so much available, how do you find what you need? The goals of the course are to 1) Learn how to conduct research in the UC Berkeley libraries: students will understand how the enormous and complicated UC Berkeley and University of California library systems are configured and how their collections are interrelated; take advantage of the sophisticated searching capabilities</span><span class="deschide"> of the online catalogs, GLADIS and MELVYL; and use a variety of printed and electronic resources. 2) Learn how to access information beyond the walls of UC Berkeley, including the Internet. 3) Understand the concepts of research: Students will learn how to create a search strategy that can be used to conduct research in any field; understand how information sources are structured and develop the ability to apply that understanding to new tools; learn to critically evaluate information sources. 4) Understand how information is organized and accessed and the role of information in society.</span><br />
+ <a href="" class="btn-readmore"><span>Bib 1: Information Resources: Effectively Utilizing the UC Berkeley Library and Beyond:</span> Read More [+]</a></p>
+<div id="232" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of Lecture per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Library and Information Studies/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Barker, Lee, Maughan, Phillips</p></div>
+<p><a href="" class="btn-readless"><span>Bib 1: Information Resources: Effectively Utilizing the UC Berkeley Library and Beyond:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

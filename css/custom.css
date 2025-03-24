@@ -1,0 +1,99 @@
+@import url("https://use.typekit.net/arm5tkt.css");
+
+#header .courtesy .grid a.ask-oski {
+    position:relative;
+    padding-right: 33px;
+}
+#header .courtesy .grid a.ask-oski svg {
+    position: absolute;
+    right: 6px;
+    top: 10px;
+    height: 19px;
+    width: 19px;
+    margin-left: 5px;
+    fill:#fff;
+    }
+
+#header .courtesy .grid a.ask-oski:hover svg,
+#header .courtesy .grid a.ask-oski:focus svg {
+    fill:#edbb5a;
+}
+
+#content .coursedescs_toggleAll .btn_collapseAll {
+	display: none;
+}
+
+.btn_toggleCoursebody {
+	background: none;
+	width: 100%;
+	text-align: left;
+}
+
+.btn_expandAll,
+.btn_collapseAll {
+	background: none;
+	color: #3b7ea1;
+}
+
+#content .courseblock h3.courseblocktitle {
+	font-size: 1.0em;
+}
+
+.lfjsbubblecontent a.btn-readmore,
+.lfjsbubblecontent a.btn-readless {
+	display:none;
+}
+
+/*
+#header > nav.courtesy > ul > li:nth-child(3) > a > svg {
+    position: absolute;
+    right: 6px;
+    top: 7px;
+    height: 19px;
+    width: auto;
+    margin-left: 5px;
+    position: relative;
+    top: 2px;
+    fill:#fff;
+}
+
+#header .courtesy .grid a.ask-oski img {
+    height: 14px;
+    width: auto;
+    margin-left: 5px;
+    position: relative;
+    top: 2px;
+    fill:#fff;
+}
+
+#header > nav.courtesy > ul > li:nth-child(3) > a > img {
+    height: 14px;
+    width: auto;
+    margin-left: 5px;
+    position: relative;
+    top: 2px;
+    fill:#fff;
+}
+*/
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+
+.contact p {
+	white-space: pre;           /* CSS 2.0 */
+	white-space: pre-wrap;      /* CSS 2.1 */
+	white-space: pre-line;      /* CSS 3.0 */
+	white-space: -pre-wrap;     /* Opera 4-6 */
+	white-space: -o-pre-wrap;   /* Opera 7 */
+	white-space: -moz-pre-wrap; /* Mozilla */
+	white-space: -hp-pre-wrap;  /* HP Printers */
+	word-wrap: break-word;      /* IE 5+ */
+}

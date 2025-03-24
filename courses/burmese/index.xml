@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<h2>Courses</h2>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_burmese1a" data-toggle="#cb_burmese1a">
+<h3 class="courseblocktitle">
+<span class="code">BURMESE 1A</span> 
+<span class="title">Introductory Burmese</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_burmese1a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: South and Southeast Asian Studies<br/>
+Terms offered: Fall 2019, Fall 2017, Fall 2016<br/>
+This introductory course in modern Burmese aims to provide students with a basic knowledge of Burmese by developing core competencies in the Burmese script and the spoken language. The course aims to equip students with foundational vocabulary, grammar, spoken and aural comprehension skills, and basic proficiency in written script.</span><br/>
+ <a href="" class="btn-readmore"><span>Introductory Burmese:</span> Read More [+]</a></p>
+<div id="777" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for BURMESE 1A after passing BURMESE 1B.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Burmese/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introductory Burmese:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_burmese1b" data-toggle="#cb_burmese1b">
+<h3 class="courseblocktitle">
+<span class="code">BURMESE 1B</span> 
+<span class="title">Introductory Burmese</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_burmese1b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: South and Southeast Asian Studies<br/>
+Terms offered: Spring 2020, Spring 2018, Spring 2017<br/>
+This introductory course in modern Burmese is a sequel to Burmese 1A, and aims to build upon the core competencies in the Burmese spoken language and writing system acquired in 1A. The course is designed to further develop student proficiency in reading and writing Burmese script, and in holding conversation. Instruction will include foundational vocabulary, grammar, spoken and aural</span><span class="deschide"> comprehension, and basic proficiency in written expression.</span><br/>
+ <a href="" class="btn-readmore"><span>Introductory Burmese:</span> Read More [+]</a></p>
+<div id="565" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Burmese 1A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Burmese/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introductory Burmese:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_burmese100a" data-toggle="#cb_burmese100a">
+<h3 class="courseblocktitle">
+<span class="code">BURMESE 100A</span> 
+<span class="title">Intermediate Burmese</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_burmese100a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: South and Southeast Asian Studies<br/>
+Terms offered: Fall 2018<br/>
+At the end of Intermediate Burmese (100A, 100B), non-native students will be able to speak Burmese using basic sentence structures, conjunctions, and modifiers to discuss a history, literature, music, and current events. They will also be able to read and write simple literary-style paragraphs describing daily activities, food, travel, family life, home life, and pop culture.</span><br/>
+ <a href="" class="btn-readmore"><span>Intermediate Burmese:</span> Read More [+]</a></p>
+<div id="926" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Burmese/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Burmese:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_burmese100b" data-toggle="#cb_burmese100b">
+<h3 class="courseblocktitle">
+<span class="code">BURMESE 100B</span> 
+<span class="title">Intermediate Burmese</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_burmese100b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: South and Southeast Asian Studies<br/>
+Terms offered: Spring 2019<br/>
+At the end of Intermediate Burmese (100A, 100B), non-native students will be able to speak Burmese using basic sentence structures, conjunctions, and modifiers to discuss a history, literature, music, and current events. They will also be able to read and write simple literary-style paragraphs describing daily activities, food, travel, family life, home life, and pop culture.</span><br/>
+ <a href="" class="btn-readmore"><span>Intermediate Burmese:</span> Read More [+]</a></p>
+<div id="738" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Burmese 1A &amp; 1B, or permission of the instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Burmese/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Burmese:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

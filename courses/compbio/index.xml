@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="compbiocourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_compbio294" data-toggle="#cb_compbio294">
+<h3 class="courseblocktitle">
+<span class="code">COMPBIO&#160;294</span> 
+<span class="title">Comparative Biochemistry Seminar</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_compbio294">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+The objective of this course is to provide an overview of the research activities conducted by faculty members of the Graduate Group in Comparative Biochemistry. The lectures will cover a wide range of interdisciplinary research topics reflecting the breadth of the Group. An important goal of this course is to enhance intellectual and collaborative interactions between students and faculty of the Graduate Group by increasing awareness of the range</span><span class="deschide"> of research projects. The course will be conducted in a seminar format and is required for students new to the Graduate Group. It is also recommended for advanced students currently in the Group.</span><br />
+ <a href="" class="btn-readmore"><span>Comparative Biochemistry Seminar:</span> Read More [+]</a></p>
+<div id="347" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Comparative Biochemistry/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Comparative Biochemistry Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_compbio299" data-toggle="#cb_compbio299">
+<h3 class="courseblocktitle">
+<span class="code">COMPBIO&#160;299</span> 
+<span class="title">Graduate Research</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_compbio299">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Graduate student research.</span><br />
+ <a href="" class="btn-readmore"><span>Graduate Research:</span> Read More [+]</a></p>
+<div id="94" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in the Comparative Biochemistry Graduate Group</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-12 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-30 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-22.5 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of research/laboratory per week per unit.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Comparative Biochemistry/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Graduate Research:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

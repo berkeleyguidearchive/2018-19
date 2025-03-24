@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="dev stdcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_devstd&#160;24" data-toggle="#cb_devstd&#160;24">
+<h3 class="courseblocktitle">
+<span class="code">DEV&#160;STD&#160;24</span> 
+<span class="title">Freshman Seminar</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_devstd&#160;24">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015, Spring 2014<br/>
+The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics vary from department to department and semester to semester. Enrollment is limited to 15 freshmen.</span><br />
+ <a href="" class="btn-readmore"><span>Freshman Seminar:</span> Read More [+]</a></p>
+<div id="878" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><p><strong>Summer:</strong> 8 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Seminar per week for 15 weeks. Two hours of Seminar per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Studies/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_devstd&#160;150" data-toggle="#cb_devstd&#160;150">
+<h3 class="courseblocktitle">
+<span class="code">DEV&#160;STD&#160;150</span> 
+<span class="title">Advanced Studies in Development Studies</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_devstd&#160;150">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2017, Fall 2016, Fall 2015<br/>
+Advanced multidisciplinary research in current issues and topics of development. Seminars will focus on specific geographical areas with appropriate comparative material included. A major research project is required as well as class presentations. Topics change each semester.</span><br />
+ <a href="" class="btn-readmore"><span>Advanced Studies in Development Studies:</span> Read More [+]</a></p>
+<div id="223" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Studies/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Studies in Development Studies:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_devstd&#160;192" data-toggle="#cb_devstd&#160;192">
+<h3 class="courseblocktitle">
+<span class="code">DEV&#160;STD&#160;192</span> 
+<span class="title">Senior Thesis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_devstd&#160;192">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Spring 2010, Spring 2009<br/>
+This course is designed to provide a vehicle for undergraduate students interested in writing a major paper on a development topic. The paper should be approximately 30 pages in length. The student and faculty sponsor should agree upon the topic in advance.</span><br />
+ <a href="" class="btn-readmore"><span>Senior Thesis:</span> Read More [+]</a></p>
+<div id="469" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing and consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Individual weekly meetings.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Studies/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Senior Thesis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_devstd&#160;h195" data-toggle="#cb_devstd&#160;h195">
+<h3 class="courseblocktitle">
+<span class="code">DEV&#160;STD&#160;H195</span> 
+<span class="title">Senior Honors Thesis Seminar</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_devstd&#160;h195">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Honors students are required to research and write a thesis based on the prospectus developed in International and Area Studies 102. The thesis work is reviewed by the honors instructor and a second reader to be selected based on the thesis topic. Weekly progress reports required.</span><br />
+ <a href="" class="btn-readmore"><span>Senior Honors Thesis Seminar:</span> Read More [+]</a></p>
+<div id="358" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> International and Area Studies 102 and consent of instructor; senior standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><p><strong>Summer:</strong> 6 weeks - 5 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of seminar plus one hour of consultation per week. Five hours of seminar plus two and one-half hours of consultation per week for six weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Studies/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Senior Honors Thesis Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_devstd&#160;197" data-toggle="#cb_devstd&#160;197">
+<h3 class="courseblocktitle">
+<span class="code">DEV&#160;STD&#160;197</span> 
+<span class="title">Field Studies</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_devstd&#160;197">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2008, Fall 2005, Summer 2005 10 Week Session<br/>
+Supervised experience relevant to specific aspects of Development Studies in off-campus organizations. Regular individual meetings with faculty sponsor and written reports required.</span><br />
+ <a href="" class="btn-readmore"><span>Field Studies:</span> Read More [+]</a></p>
+<div id="300" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing and consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of fieldwork per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-5 hours of fieldwork per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-4 hours of fieldwork per week</p><!--<p class=""><strong>Additional Format:</strong> Individual meetings.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Studies/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Field Studies:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_devstd&#160;198" data-toggle="#cb_devstd&#160;198">
+<h3 class="courseblocktitle">
+<span class="code">DEV&#160;STD&#160;198</span> 
+<span class="title">Directed Group Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_devstd&#160;198">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2011, Fall 2006, Spring 2006<br/>
+Directed group study (upper division).</span><br />
+ <a href="" class="btn-readmore"><span>Directed Group Study:</span> Read More [+]</a></p>
+<div id="352" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing and consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> Group meetings to be announced.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Studies/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_devstd&#160;199" data-toggle="#cb_devstd&#160;199">
+<h3 class="courseblocktitle">
+<span class="code">DEV&#160;STD&#160;199</span> 
+<span class="title">Supervised Independent Study and Research for Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_devstd&#160;199">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2018, Spring 2010, Fall 2009<br/>
+Enrollment is restricted by regulations of the College.</span><br />
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research for Undergraduates:</span> Read More [+]</a></p>
+<div id="343" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Written proposal must be approved by a faculty advisor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-5 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-4 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Individual meetings.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Development Studies/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research for Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

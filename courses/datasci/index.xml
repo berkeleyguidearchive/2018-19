@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<h3>Please note: DATASCI courses are only available for Information and Data Science (MIDS) students.</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw200" data-toggle="#cb_datasciw200">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W200</span> 
+<span class="title">Introduction to Data Science Programming</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw200">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+This fast-paced course gives students fundamental Python knowledge necessary for advanced work in data science. Students gain frequent practice writing code, building to advanced skills focused on data science applications. We introduce a range of Python objects and control structures, then build on these with classes on object-oriented programming. A major programming project reinforces these concepts, giving</span><span class="deschide"> students insight into how a large piece of software is built and experience managing a full-cycle development project. The last section covers two popular Python packages for data analysis, Numpy and Pandas, and includes an exploratory data analysis.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Data Science Programming:</span> Read More [+]</a></p>
+<div id="642" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Be able to design, reason about, and implement algorithms for solving computational problems.<br/>
+Be able to generate an exploratory analysis of a data set using Python.<br/>
+Be able to navigate a file system, manipulate files, and execute programs using a command line interface.<br/>
+Be able to test and effectively debug programs.<br/>
+Be fluent in Python syntax and familiar with foundational Python object types.<br/>
+Be prepared for further programming challenges in more advanced data science courses.<br/>
+Know how to read, manipulate, describe, and visualize data using the Numpy and Pandas packages.<br/>
+Know how to use Python to extract data from different type of files and other sources.<br/>
+Understand how to manage different versions of a project using Git and how to collaborate with others using Github.<br/>
+Understand the principles of functional programming.<br/>
+Understand the principles of object-oriented design and the process by which large pieces of software are developed.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Laskowski</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Data Science Programming:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw201" data-toggle="#cb_datasciw201">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W201</span> 
+<span class="title">Research Design and Applications for Data and Analysis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw201">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Introduces the data sciences landscape, with a particular focus on learning data science techniques to uncover and answer the questions students will encounter in industry. Lectures, readings, discussions, and assignments will teach how to apply disciplined, creative methods to ask better questions, gather data, interpret results, and convey findings to various audiences. The emphasis throughout is on making</span><span class="deschide"> practical contributions to real decisions that organizations will and should make. Course must be taken for a letter grade to fulfill degree requirements.</span><br/>
+ <a href="" class="btn-readmore"><span>Research Design and Applications for Data and Analysis:</span> Read More [+]</a></p>
+<div id="239" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Data Science students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Weber</p></div>
+<p><a href="" class="btn-readless"><span>Research Design and Applications for Data and Analysis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw203" data-toggle="#cb_datasciw203">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W203</span> 
+<span class="title">Statistics for Data Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw203">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+This course provides students with a foundational understanding of classical statistics within the broader context of data science. Topics include exploratory analysis and descriptive statistics, probability theory and the foundations of statistical modeling, estimators, hypothesis testing, and classical linear regression. Causal inference and reproducibility issues are treated briefly. Students will learn</span><span class="deschide"> to apply the most common statistical procedures correctly, checking assumptions and responding appropriately when they appear violated; to evaluate the design of a study and how the variables being measured relate to research questions; and to analyze real-world data using the open-source language R.</span><br/>
+ <a href="" class="btn-readmore"><span>Statistics for Data Science:</span> Read More [+]</a></p>
+<div id="257" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Data Science students only. Intermediate competency in calculus is required. A college-level linear algebra course is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Cheshire</p></div>
+<p><a href="" class="btn-readless"><span>Statistics for Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw205" data-toggle="#cb_datasciw205">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W205</span> 
+<span class="title">Fundamentals of Data Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw205">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Storing, managing, and processing datasets are foundational processes in data science. This course introduces the fundamental knowledge and skills of data engineering that are required to be effective as a data scientist. This course focuses on the basics of data pipelines, data pipeline flows and associated business use cases, and how organizations derive value from data and data engineering. As these fundamentals</span><span class="deschide"> of data engineering are introduced, learners will interact with data and data processes at various stages in the pipeline, understand key data engineering tools and platforms, and use and connect critical technologies through which one can construct storage and processing architectures that underpin data science applications.</span><br/>
+ <a href="" class="btn-readmore"><span>Fundamentals of Data Engineering:</span> Read More [+]</a></p>
+<div id="760" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Data Science students only. Intermediate competency in Python, C, or Java, and competency in Linux, GitHub, and relevant Python libraries; or permission of instructor. Knowledge of database management including SQL is recommended but not required</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 15 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week. Three hours of web-based lecture per week.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Mims, Martin</p></div>
+<p><a href="" class="btn-readless"><span>Fundamentals of Data Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw207" data-toggle="#cb_datasciw207">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W207</span> 
+<span class="title">Applied Machine Learning</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw207">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Machine learning is a rapidly growing field at the intersection of computer science and statistics concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones. This course provides a broad introduction to the key ideas in machine learning. The emphasis will be on intuition and practical examples</span><span class="deschide"> rather than theoretical results, though some experience with probability, statistics, and linear algebra will be important. Course must be taken for a letter grade to fulfill degree requirements.</span><br/>
+ <a href="" class="btn-readmore"><span>Applied Machine Learning:</span> Read More [+]</a></p>
+<div id="645" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Data Science students only. Data Science W201, W203. Intermediate competency in Python, C, or Java, and competency in Linux, GitHub, and relevant Python libraries; or permission of instructor. Linear algebra is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Hearst</p></div>
+<p><a href="" class="btn-readless"><span>Applied Machine Learning:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw209" data-toggle="#cb_datasciw209">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W209</span> 
+<span class="title">Data Visualization</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw209">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Visualization enhances exploratory analysis as well as efficient communication of data results. This course focuses on the design of visual representations of data in order to discover patterns, answer questions, convey findings, drive decisions, and provide persuasive evidence. The goal is to give you the practical knowledge you need to create effective tools for both exploring and explaining your data. Exercises</span><span class="deschide"> throughout the course provide a hands-on experience using relevant programming libraries and software tools to apply research and design concepts learned.</span><br/>
+ <a href="" class="btn-readmore"><span>Data Visualization:</span> Read More [+]</a></p>
+<div id="16" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Analyze data using exploratory visualization.  <br/>
+Build commonly requested types of visualizations as well as more advanced visualizations using ground-up customization.<br/>
+Constructively critique existing visualizations, identifying issues of integrity as well as excellence.<br/>
+Create useful, performant visualizations from real-world data sources, including large and complex datasets. <br/>
+Design aesthetically pleasing static and interactive visualizations with perceptually appropriate forms and encodings.<br/>
+Improve your own work through usability testing and iteration, with attention to context.<br/>
+Select appropriate tools for building visualizations, and gain skills to evaluate new tools.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Data Science students only. DATASCI W203. Students must take DATASCI W205 concurrently or prior to DATASCI W209. If taken concurrently, students may not drop W205 and remain in W209. Recommended: experience with HTML, CSS, and JavaScript, or ability to learn new programming languages quickly. If Python is the only programming language you know, you will probably benefit from learning the basics of web development with JavaScript in advance</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Data Visualization:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw210" data-toggle="#cb_datasciw210">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W210</span> 
+<span class="title">Capstone</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw210">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+The capstone course will cement skills learned throughout the MIDS program – both core data science skills and “soft skills” like problem-solving, communication, influencing, and management – preparing students for success in the field. The centerpiece is a semester-long group project in which teams of students propose and select project ideas, conduct and communicate their work, receive and provide feedback</span><span class="deschide"> (in informal group discussions as well as formal class presentations), and deliver compelling presentations along with a Web-based final deliverable. Includes relevant readings, case discussions, and real-world examples and perspectives from panel discussions with leading data science experts and industry practitioners.</span><br/>
+ <a href="" class="btn-readmore"><span>Capstone:</span> Read More [+]</a></p>
+<div id="924" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Students must be in their final semester of the MIDS program</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for 15 weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Capstone:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw231" data-toggle="#cb_datasciw231">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W231</span> 
+<span class="title">Behind the Data: Humans and Values</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw231">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Intro to the legal, policy, and ethical implications of data, including privacy, surveillance, security, classification, discrimination, decisional-autonomy, and duties to warn or act. Examines legal, policy, and ethical issues throughout the full data-science life cycle — collection, storage, processing, analysis, and use — with case studies from criminal justice, national security, health, marketing, politics</span><span class="deschide">, education, employment, athletics, and development. Includes legal and policy constraints and considerations for specific domains and data-types, collection methods, and institutions; technical, legal, and market approaches to mitigating and managing concerns; and the strengths and benefits of competing and complementary approaches.</span><br/>
+ <a href="" class="btn-readmore"><span>Behind the Data: Humans and Values:</span> Read More [+]</a></p>
+<div id="558" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MIDS and MPA students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for 15 weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Mulligan</p></div>
+<p><a href="" class="btn-readless"><span>Behind the Data: Humans and Values:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw241" data-toggle="#cb_datasciw241">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W241</span> 
+<span class="title">Experiments and Causal Inference</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw241">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+This course introduces students to experimentation in the social sciences. This topic has<br/>
+increased considerably in importance since 1995, as researchers have learned to think<br/>
+creatively about how to generate data in more scientific ways, and developments in information<br/>
+technology have facilitated the development of better data gathering. Key to this area of inquiry is<br/>
+the insight that correlation</span><span class="deschide"> does not necessarily imply causality. In this course, we learn how to<br/>
+use experiments to establish causal effects and how to be appropriately skeptical of findings<br/>
+from observational data.</span><br/>
+ <a href="" class="btn-readmore"><span>Experiments and Causal Inference:</span> Read More [+]</a></p>
+<div id="707" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Data Science W201 and W203</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 15 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for 15 weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Experiments and Causal Inference:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw251" data-toggle="#cb_datasciw251">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W251</span> 
+<span class="title">Deep Learning in the Cloud and at the Edge</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw251">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+This hands-on course introduces data scientists to technologies related to building and operating live, high throughput Deep Learning applications running on powerful servers in the Cloud as well on smaller and lower power devices at the Edge of the Network. The material of the class is a set of practical approaches, code recipes, and lessons learned. It is based on the latest developments in the Industry and</span><span class="deschide"> industry use cases as opposed to pure theory. It is taught by professionals with decades of industry experience.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Deep Learning in the Cloud and at the Edge:</span> Read More [+]</a></p>
+<div id="7" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Data Science students only. Students must have completed Data Science W201, W203, and W205 before enrolling in this course. They should be able to program in C, Python, or Java and/or be able to pick up a new programming language quickly. A degree of fluency is expected with the basics of operating systems (e.g., Linux and the Internet Technologies</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for 15 weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Deep Learning in the Cloud and at the Edge:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw261" data-toggle="#cb_datasciw261">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W261</span> 
+<span class="title">Machine Learning at Scale</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw261">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+This course teaches the underlying principles required to develop scalable machine learning pipelines for structured and unstructured data at the petabyte scale. Students will gain hands-on experience in Apache Hadoop and Apache Spark.</span><br/>
+ <a href="" class="btn-readmore"><span>Machine Learning at Scale:</span> Read More [+]</a></p>
+<div id="658" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Data Science students only. DATASCI W205, DATASCI W207. Intermediate programming skills in an object-oriented language (e.g., Python)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 15 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for 15 weeks</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Machine Learning at Scale:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw266" data-toggle="#cb_datasciw266">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W266</span> 
+<span class="title">Natural Language Processing with Deep Learning</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw266">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Understanding language is fundamental to human interaction. Our brains have evolved language-specific circuitry that helps us learn it very quickly; however, this also means that we have great difficulty explaining how exactly meaning arises from sounds and symbols. This course is a broad introduction to linguistic phenomena and our attempts to analyze them with machine learning. We will cover a wide range</span><span class="deschide"> of concepts with a focus on practical applications such as information extraction, machine translation, sentiment analysis, and summarization.</span><br/>
+ <a href="" class="btn-readmore"><span>Natural Language Processing with Deep Learning:</span> Read More [+]</a></p>
+<div id="195" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Data Science students only. Data Science W207</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Gillick</p></div>
+<p><a href="" class="btn-readless"><span>Natural Language Processing with Deep Learning:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_datasciw271" data-toggle="#cb_datasciw271">
+<h3 class="courseblocktitle">
+<span class="code">DATASCI W271</span> 
+<span class="title">Statistical Methods for Discrete Response, Time Series, and Panel Data</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_datasciw271">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Information<br/>
+Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+A continuation of Data Science W203 (Exploring and Analyzing Data), this course trains data science students to apply more advanced methods from regression analysis and time series models. Central topics include linear regression, causal inference, identification strategies, and a wide-range of time series models that are frequently used by industry professionals. Throughout the course, we emphasize choosing</span><span class="deschide">, applying, and implementing statistical techniques to capture key patterns and generate insight from data. Students who successfully complete this course will be able to distinguish between appropriate and inappropriate techniques given the problem under consideration, the data available, and the given timeframe.</span><br/>
+ <a href="" class="btn-readmore"><span>Statistical Methods for Discrete Response, Time Series, and Panel Data:</span> Read More [+]</a></p>
+<div id="41" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> DATASCI W203 taken in Fall 2016 or later and completed with a grade of B+ or above; strong familiarity with classical linear regression modeling; strong hands-on experience in R; working knowledge of calculus and linear algebra; familiarity with differential calculus, integral calculus and matrix notations; or instructor approval</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for 15 weeks</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Data Science/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Statistical Methods for Discrete Response, Time Series, and Panel Data:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

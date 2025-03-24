@@ -1,0 +1,85 @@
+
+print_doc('<?xml version="1.0"?>\n<pagewiz>\n');
+function escXML(str) {
+	if(typeof str == "undefined")
+		return "";
+	var newStr = str.replace(/\&/g,'&amp;');
+	newStr = newStr.replace(/\"/g,'&quot;');
+	newStr = newStr.replace(/\</g,'&lt;');
+	newStr = newStr.replace(/\>/g,'&gt;');
+	
+	return newStr;
+}
+function dateToValue(dateStr) {
+	var re1 = /(\d{1,2})(\/|\-)(\d{1,2})(\/|\-)(\d{2,4})/
+	if(re1.test(dateStr)) {
+	
+		var year = dateStr.replace(re1, "$5");
+		if(year.length == 2)
+			year = parseInt("20" + year);
+		else
+			year = parseInt(year);
+		var month = parseInt(dateStr.replace(re1, "$1"));
+		var day = parseInt(dateStr.replace(re1, "$3"));
+		var newDate = new Date(year, month-1, day);
+		dateStr = newDate.valueOf();
+
+	}
+	return dateStr;
+	
+}
+var end = "";
+var start = "";
+var cats = "";
+var max = "";
+for (attr in http) {
+	if(attr == "endDate")
+		end = http[attr];
+	if(attr == "startDate")
+		start = http[attr];
+	if(attr == "cats")
+		cats = unescape(http[attr]);
+	if(attr == "maxnews")
+		max = http[attr];
+		//print_stdout("<li> " + attr + ": " + http[attr] + "\n");
+}
+
+var sql = "SELECT DISTINCT news.* FROM news JOIN newscat ON news.path = newscat.path WHERE 1=1";
+if(cats.length) {
+	sql += " AND newscat.newscategoryname IN ('" + cats.replace(/\,$/,"").replace(/\,/g,"','") + "')";
+}
+if(end.length) {
+		var endVal = dateToValue(end);
+		//print_doc(endVal + "\n");
+		sql += " AND creationDate < " + endVal;
+}
+if(start.length) {
+		var startVal = dateToValue(start);
+		//print_doc(endVal + "\n");
+		sql += " AND creationDate > " + startVal;
+}
+//print_doc(!start.length + " - " + !end.length + "\n");
+if(!start.length && !end.length) {
+	var now = new Date().valueOf();
+	sql += " AND (startRunDate = '' OR startRunDate < " + now + ")";
+	sql += " AND (endRunDate = '' OR endRunDate > " + now + ")";
+}
+sql += " ORDER BY priority DESC, creationDate DESC, startRunDate DESC";
+if(max.length) {
+	sql += " LIMIT " + max;
+}	
+//print_doc(sql);
+var res = query_pagedb(sql);
+for(var i=0; i < res.length; i++) {
+	var curr = res[i];
+	print_doc('\t<news path="' + curr.path + '">\n');
+	print_doc('\t\t<title>' + escXML(curr.title) + '</title>\n');
+	print_doc('\t\t<start>' + curr.startRunDate + '</start>\n');
+	print_doc('\t\t<end>' + curr.endRunDate + '</end>\n');
+	print_doc('\t\t<description>' + escXML(curr.shortDesc) + '</description>\n');
+	print_doc('\t\t<graphic>' + curr.graphic + '</graphic>\n');
+	print_doc('\t\t<priority>' + curr.priority + '</priority>\n');
+	print_doc('\t</news>\n');
+}
+print_doc('</pagewiz>\n');
+

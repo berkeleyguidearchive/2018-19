@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<h2>Courses</h2>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs16a" data-toggle="#cb_eecs16a">
+<h3 class="courseblocktitle">
+<span class="code">EECS 16A</span> 
+<span class="title">Designing Information Devices and Systems I</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs16a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2020 8 Week Session, Spring 2020<br/>
+This course and its follow-on course EECS16B focus on the fundamentals of designing modern information devices and systems that interface with the real world. Together, this course sequence provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design while introducing key linear-algebraic concepts motivated by application contexts. Modeling is emphasized in a way that deepens mathematical</span><span class="deschide"> maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises. The courses are aimed at entering students as well as non-majors seeking a broad foundation for the field.</span><br/>
+ <a href="" class="btn-readmore"><span>Designing Information Devices and Systems I:</span> Read More [+]</a></p>
+<div id="862" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MATH 1A and MATH 1B (1B may be taken concurrently); COMPSCI 61A (encouraged to be taken concurrently)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 2 hours of discussion, and 3 hours of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture, 4 hours of discussion, and 6 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory and two hours of discussion per week. Six hours of lecture and six hours of laboratory and four hours of discussion per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Alon, Arcak, Ayazifar, Maharbiz, Niknejad, Ranade, Sahai, Subramanian, Tomlin</p><p><strong>Formerly known as:</strong> Electrical Engineering 16A</p></div>
+<p><a href="" class="btn-readless"><span>Designing Information Devices and Systems I:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs16b" data-toggle="#cb_eecs16b">
+<h3 class="courseblocktitle">
+<span class="code">EECS 16B</span> 
+<span class="title">Designing Information Devices and Systems II</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs16b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2020 8 Week Session, Spring 2020<br/>
+This course is a follow-on to EECS 16A, and focuses on the fundamentals of designing and building modern information devices and systems that interface with the real world. The course sequence provides a comprehensive introduction to core EECS topics in machine learning, circuit design, control, and signal processing while developing key linear-algebraic concepts motivated by application contexts. Modeling is emphasized in a way that deepens</span><span class="deschide"> mathematical maturity, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper exercises. The courses are aimed at entering students as well as non-majors seeking a broad introduction to the field.</span><br/>
+ <a href="" class="btn-readmore"><span>Designing Information Devices and Systems II:</span> Read More [+]</a></p>
+<div id="92" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EECS 16A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 2 hours of discussion, and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory and two hours of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Alon, Ayazifar, Lustig, Maharbiz, Subramanian, Tomlin</p><p><strong>Formerly known as:</strong> Electrical Engineering 16B</p></div>
+<p><a href="" class="btn-readless"><span>Designing Information Devices and Systems II:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs47d" data-toggle="#cb_eecs47d">
+<h3 class="courseblocktitle">
+<span class="code">EECS 47D</span> 
+<span class="title">Completion of work in Electrical Engineering 16A</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs47d">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+This course allows students who have had a linear algebra and/or basic circuit theory course to complete the work in EE16A and be ready for EE16B or EE47E. The course focuses on the fundamentals of designing modern information devices and systems that interface with the real world and provides a comprehensive foundation for core EECS topics in signal processing, learning, control, and circuit design. Modeling is emphasized in a way that deepens mathematical maturity</span><span class="deschide">, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises.</span><br/>
+ <a href="" class="btn-readmore"><span>Completion of work in Electrical Engineering 16A:</span> Read More [+]</a></p>
+<div id="637" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MATH 1A, MATH 1B, COMPSCI 61A (encouraged to be taken concurrently), college level courses in linear algebra and/or circuit theory, and consent of the instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-8 hours of self-paced per week</p><p><strong>Summer:</strong> 8 weeks - 4-13 hours of self-paced per week</p><!--<p class=""><strong>Additional Format:</strong> Two to eight hours of self-paced per week. Four to thirteen hours of self-paced per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Alon, Arcak, Ayazifar, Maharbiz, Niknejad, Ranade, Sahai, Subramanian, Tomlin</p></div>
+<p><a href="" class="btn-readless"><span>Completion of work in Electrical Engineering 16A:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs47e" data-toggle="#cb_eecs47e">
+<h3 class="courseblocktitle">
+<span class="code">EECS 47E</span> 
+<span class="title">Completion of work in Electrical Engineering 16B</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs47e">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+This course allows students who have had a linear algebra and/or basic circuit theory course to complete the work in EE16B. The course focuses on the fundamentals of designing modern information devices and systems that interface with the real world and provides a comprehensive foundation for core EECS topics in signal processing (DFT), learning (SVD/PCA), feedback control, and circuit design. Modeling is emphasized in a way that deepens mathematical maturity</span><span class="deschide">, and in both labs and homework, students will engage computationally, physically, and visually with the concepts being introduced in addition to traditional paper/pencil exercises.</span><br/>
+ <a href="" class="btn-readmore"><span>Completion of work in Electrical Engineering 16B:</span> Read More [+]</a></p>
+<div id="523" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MATH 1A, MATH 1B, and COMPSCI 61A; and EECS 16A, EECS 47D, or MATH 54; college level courses in linear algebra and/or circuit theory, and consent of the instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-8 hours of self-paced per week</p><p><strong>Summer:</strong> 8 weeks - 6-16 hours of self-paced per week</p><!--<p class=""><strong>Additional Format:</strong> Three to eight hours of self-paced per week. Six to sixteen hours of self-paced per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Alon, Arcak, Ayazifar, Maharbiz, Niknejad, Ranade, Sahai, Subramanian, Tomlin</p></div>
+<p><a href="" class="btn-readless"><span>Completion of work in Electrical Engineering 16B:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs47f" data-toggle="#cb_eecs47f">
+<h3 class="courseblocktitle">
+<span class="code">EECS 47F</span> 
+<span class="title">Completion of work in Computer Science 70</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs47f">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Not yet offered<br/>
+This course allows students who have had a discrete math and/or probability course to complete the work in CS70. Logic, infinity, and induction; applications include undecidability and stable marriage problem. Modular arithmetic and GCDs; applications include primality testing and cryptography. Polynomials; examples include error correcting codes and interpolation. Probability including sample spaces, independence, random variables, law of large numbers; examples</span><span class="deschide"> include load balancing, existence arguments, Bayesian inference.</span><br/>
+ <a href="" class="btn-readmore"><span>Completion of work in Computer Science 70:</span> Read More [+]</a></p>
+<div id="931" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Sophomore mathematical maturity, programming experience equivalent to that gained in COMPSCI 61A, a prior college level course on discrete math and/or probability, and consent of the instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-8 hours of self-paced per week</p><p><strong>Summer:</strong> 8 weeks - 6-16 hours of self-paced per week</p><!--<p class=""><strong>Additional Format:</strong> Three to eight hours of self-paced per week. Six to sixteen hours of self-paced per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Ranade, Rao, Sahai, Seshia, Vazirani, Walrand</p></div>
+<p><a href="" class="btn-readless"><span>Completion of work in Computer Science 70:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecsc106a" data-toggle="#cb_eecsc106a">
+<h3 class="courseblocktitle">
+<span class="code">EECS C106A</span> 
+<span class="title">Introduction to Robotics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecsc106a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course covers forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics, and control. It presents elementary principles on proximity, tactile, and force sensing, vision sensors, camera calibration, stereo construction, and motion detection. The course concludes with current applications</span><span class="deschide"> of robotics in active perception, medical robotics, and other areas.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Robotics:</span> Read More [+]</a></p>
+<div id="639" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EL ENG 120 or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering and Computer Science C106A/Bioengineering C106A after completing EE C106A/BioE C125, Electrical Engineering 206A, or Electrical Engineering and Computer Science 206A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructor:</strong> Bajcsy</p><p><strong>Also listed as:</strong> BIO ENG C106A</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Robotics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecsc106b" data-toggle="#cb_eecsc106b">
+<h3 class="courseblocktitle">
+<span class="code">EECS C106B</span> 
+<span class="title">Robotic Manipulation and Interaction</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecsc106b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This course is a sequel to EECS C106A/Bioengineering C106A, which covers kinematics, dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic manipulators coordinating with each other and interacting with the environment. Concepts will include an introduction to grasping and the constrained manipulation, contacts and force control for interaction with the environment. We will also cover active</span><span class="deschide"> perception guided manipulation, as well as the manipulation of non-rigid objects. Throughout, we will emphasize design and human-robot interactions, and applications to applications in manufacturing, service robotics, tele-surgery, and locomotion.</span><br/>
+ <a href="" class="btn-readmore"><span>Robotic Manipulation and Interaction:</span> Read More [+]</a></p>
+<div id="865" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EECS C106A / BIO ENG C106A, or consent of the instructor</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Electrical Engineering and Computer Science C106B/Bioengineering C106B after completing Electrical Engineering C106B/Bioengineering C125B, Electrical Engineering 206B, or Electrical Engineering and Computer Science 206B.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructors:</strong> Bajcsy, Sastry</p><p><strong>Also listed as:</strong> BIO ENG C106B</p></div>
+<p><a href="" class="btn-readless"><span>Robotic Manipulation and Interaction:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs126" data-toggle="#cb_eecs126">
+<h3 class="courseblocktitle">
+<span class="code">EECS 126</span> 
+<span class="title">Probability and Random Processes</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs126">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This course covers the fundamentals of probability and random processes useful in fields such as networks, communication, signal processing, and control. Sample space, events, probability law. Conditional probability. Independence. Random variables. Distribution, density functions. Random vectors. Law of large numbers. Central limit theorem. Estimation and detection. Markov chains.</span><br/>
+ <a href="" class="btn-readmore"><span>Probability and Random Processes:</span> Read More [+]</a></p>
+<div id="276" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> COMPSCI 70 preferred but not required; Familiarity with linear algebra</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for EECS 126 after completing EE 126.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Ramchandran</p></div>
+<p><a href="" class="btn-readless"><span>Probability and Random Processes:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs127" data-toggle="#cb_eecs127">
+<h3 class="courseblocktitle">
+<span class="code">EECS 127</span> 
+<span class="title">Optimization Models in Engineering</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs127">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization.</span><br/>
+ <a href="" class="btn-readmore"><span>Optimization Models in Engineering:</span> Read More [+]</a></p>
+<div id="801" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EECS 16A and EECS 16B, or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for EECS 127 after taking EECS 227AT or Electrical Engineering 127/227AT.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> El Ghaoui</p><p><strong>Formerly known as:</strong> Electrical Engineering 127</p></div>
+<p><a href="" class="btn-readless"><span>Optimization Models in Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs149" data-toggle="#cb_eecs149">
+<h3 class="courseblocktitle">
+<span class="code">EECS 149</span> 
+<span class="title">Introduction to Embedded Systems</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs149">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+This course introduces students to the basics of modeling, analysis, and design of embedded, cyber-physical systems. Students learn how to integrate computation with physical processes to meet a desired specification. Topics include models of computation, control, analysis and verification, interfacing with the physical world, real-time behaviors, mapping to platforms, and distributed embedded systems. The course has a strong laboratory component</span><span class="deschide">, with emphasis on a semester-long sequence of projects.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Embedded Systems:</span> Read More [+]</a></p>
+<div id="22" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> To develop the skills to realize embedded systems that are safe, reliable, and efficient in their use of resources.<br/>To learn how to model and design the joint dynamics of software, networks, and physical processes.<br/>To learn to think critically about technologies that are available for achieving such joint dynamics.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> COMPSCI 61C and COMPSCI 70; EECS 16A and EECS 16B, or permission of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Instructors:</strong> Seshia, Lee</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Embedded Systems:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs151" data-toggle="#cb_eecs151">
+<h3 class="courseblocktitle">
+<span class="code">EECS 151</span> 
+<span class="title">Introduction to Digital Design and Integrated Circuits</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs151">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+An introduction to digital and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher-levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits).</span><span class="deschide"> The class includes extensive use of industrial grade design automation and verification tools for assignments, labs and projects.<br/>
+The class has two lab options: ASIC Lab (EECS 151LA) and FPGA Lab (EECS 151LB). Students must enroll in at least one of the labs concurrently with the class.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Digital Design and Integrated Circuits:</span> Read More [+]</a></p>
+<div id="210" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> The Verilog hardware description language is introduced and used. Basic digital system design concepts, Boolean operations/combinational logic, sequential elements and finite-state-machines, are described. Design of larger building blocks such as arithmetic units, interconnection networks, input/output units, as well as memory design (SRAM, Caches, FIFOs) and integration are also covered. Parallelism, pipelining and other micro-architectural optimizations are introduced. A number of physical design issues visible at the architecture level are covered as well, such as interconnects, power, and reliability.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EECS 16A and EECS 16B</p><p><strong>Credit Restrictions:</strong> Students must enroll concurrently in at least one the lab flavors EECS151LA or EECS151LB. Students wishing to take a second lab flavor next term can sign-up only for that Lab section and receive a Letter grade. The pre-requisite for “Lab-only” enrollment that term will be EECS151 from previous terms.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Digital Design and Integrated Circuits:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs151la" data-toggle="#cb_eecs151la">
+<h3 class="courseblocktitle">
+<span class="code">EECS 151LA</span> 
+<span class="title">Application Specific Integrated Circuits Laboratory</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs151la">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This lab lays the foundation of modern digital design by first presenting the scripting and hardware description language base for specification of digital systems and interactions with tool flows. The labs are centered on a large design with the focus on rapid design space exploration. The lab exercises culminate with a project design, e.g., implementation of a three-stage RISC-V processor with a register file and caches. The design is mapped</span><span class="deschide"> to simulation and layout specification.</span><br/>
+ <a href="" class="btn-readmore"><span>Application Specific Integrated Circuits Laboratory:</span> Read More [+]</a></p>
+<div id="295" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> Software testing of digital designs is covered leading to a set of exercises that cover the design flow. Digital synthesis, floor-planning, placement and routing are covered, as well as tools to evaluate timing and power consumption. Chip-level assembly is covered, including instantiation of custom blocks: I/O pads, memories, PLLs, etc.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> COMPSCI 61C, EECS 16A, EECS 16B, and EL ENG 105</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+<p><a href="" class="btn-readless"><span>Application Specific Integrated Circuits Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs151lb" data-toggle="#cb_eecs151lb">
+<h3 class="courseblocktitle">
+<span class="code">EECS 151LB</span> 
+<span class="title">Field-Programmable Gate Array Laboratory</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs151lb">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This lab covers the design of modern digital systems with Field-Programmable Gate Array (FPGA) platforms. A series of lab exercises provide the background and practice of digital design using a modern FPGA design tool flow. Digital synthesis, partitioning, placement, routing, and simulation tools for FPGAs are covered in detail. The labs exercises culminate with a large design project, e.g., an implementation of a full three-stage RISC-V processor</span><span class="deschide"> system, with caches, graphics acceleration, and external peripheral components. The design is mapped and demonstrated on an FPGA hardware platform.</span><br/>
+ <a href="" class="btn-readmore"><span>Field-Programmable Gate Array Laboratory:</span> Read More [+]</a></p>
+<div id="268" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EECS 16A, EECS 16B, and COMPSCI 61C; EL ENG 105 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+<p><a href="" class="btn-readless"><span>Field-Programmable Gate Array Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs206a" data-toggle="#cb_eecs206a">
+<h3 class="courseblocktitle">
+<span class="code">EECS 206A</span> 
+<span class="title">Introduction to Robotics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs206a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course will cover forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics and control-position, and force control. Proximity, tactile, and force sensing. Network modeling, stability, and fidelity in teleoperation and medical applications of robotics.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Robotics:</span> Read More [+]</a></p>
+<div id="429" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EE 120 or equivalent, or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for EECS 206A after taking EE C125/Bioengineering C125, EE C106A, or EECS C106A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Bajcsy</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Robotics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs206b" data-toggle="#cb_eecs206b">
+<h3 class="courseblocktitle">
+<span class="code">EECS 206B</span> 
+<span class="title">Robotic Manipulation and Interaction</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs206b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This course is a sequel to EECS C106A/206A, which covers kinematics,<br/>
+dynamics and control of a single robot. This course will cover dynamics and control of groups of robotic<br/>
+manipulators coordinating with each other and interacting with the environment. Concepts will include<br/>
+an introduction to grasping and the constrained manipulation, contacts and force control for interaction<br/>
+with the environment. We will also cover</span><span class="deschide"> active perception guided manipulation, as well as the<br/>
+manipulation of non-rigid objects. Throughout, we will emphasize design and human-robot<br/>
+interactions, and applications to applications in manufacturing, service robotics, tele-surgery, and<br/>
+locomotion.</span><br/>
+ <a href="" class="btn-readmore"><span>Robotic Manipulation and Interaction:</span> Read More [+]</a></p>
+<div id="547" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> EECS C106A/Bioengineering C106A, EECS 206A or consent of the instructor</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for EECS 206B after taking EE C106B/Bioengineering C125B, EECS C106B/BioEngineering C106B, or EE 206B.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and three hours of laboratory and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Bajcsy, Sastry</p></div>
+<p><a href="" class="btn-readless"><span>Robotic Manipulation and Interaction:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs219c" data-toggle="#cb_eecs219c">
+<h3 class="courseblocktitle">
+<span class="code">EECS 219C</span> 
+<span class="title">Formal Methods: Specification, Verification, and Synthesis</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs219c">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Introduction to the theory and practice of formal methods for the design and analysis of systems, with a focus on algorithmic techniques. Covers selected topics in computational logic and automata theory including modeling and specification formalisms, temporal logics, satisfiability solving, model checking, synthesis, learning, and theorem proving. Applications to software and hardware design, cyber-physical systems, robotics, computer security</span><span class="deschide">, and other areas will be explored as time permits.</span><br/>
+ <a href="" class="btn-readmore"><span>Formal Methods: Specification, Verification, and Synthesis:</span> Read More [+]</a></p>
+<div id="901" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing or Consent of instructor; Computer Science 170 or equivalent is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Seshia</p><p><strong>Formerly known as:</strong> Electrical Engineering 219C</p></div>
+<p><a href="" class="btn-readless"><span>Formal Methods: Specification, Verification, and Synthesis:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs225a" data-toggle="#cb_eecs225a">
+<h3 class="courseblocktitle">
+<span class="code">EECS 225A</span> 
+<span class="title">Statistical Signal Processing</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs225a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020<br/>
+This course connects classical statistical signal processing (Hilbert space filtering theory by Wiener and Kolmogorov, state space model, signal representation, detection and estimation, adaptive filtering) with modern statistical and machine learning theory and applications. It focuses on concrete algorithms and combines principled theoretical thinking with real applications.</span><br/>
+ <a href="" class="btn-readmore"><span>Statistical Signal Processing:</span> Read More [+]</a></p>
+<div id="365" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> ELENG 120 and EECS 126</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Jiao, Waller</p><p><strong>Formerly known as:</strong> Electrical Engineering 225A</p></div>
+<p><a href="" class="btn-readless"><span>Statistical Signal Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs225b" data-toggle="#cb_eecs225b">
+<h3 class="courseblocktitle">
+<span class="code">EECS 225B</span> 
+<span class="title">Digital Image Processing</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs225b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020<br/>
+This course deals with computational methods as applied to digital imagery. It focuses on image sensing and acquisition, image sampling and quantization; spatial transformation, linear and nonlinear filtering; introduction to convolutional neural networks, and GANs; applications of deep learning methods to image processing problems; image enhancement, histogram equalization, image restoration, Weiner filtering, tomography, image reconstruction from projections and</span><span class="deschide"> partial Fourier information, Radon transform, multiresolution analysis, continuous and discrete wavelet transform and computation, subband coding, image and video compression, sparse signal approximation, dictionary techniques, image and video compression standards, and more.</span><br/>
+ <a href="" class="btn-readmore"><span>Digital Image Processing:</span> Read More [+]</a></p>
+<div id="347" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Basic knowledge of signals and systems, convolution, and Fourier Transform</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Zakhor</p><p><strong>Formerly known as:</strong> Electrical Engineering 225B</p></div>
+<p><a href="" class="btn-readless"><span>Digital Image Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs227at" data-toggle="#cb_eecs227at">
+<h3 class="courseblocktitle">
+<span class="code">EECS 227AT</span> 
+<span class="title">Optimization Models in Engineering</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs227at">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization.</span><br/>
+ <a href="" class="btn-readmore"><span>Optimization Models in Engineering:</span> Read More [+]</a></p>
+<div id="478" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 54 or equivalent or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for EECS 227AT after taking EECS 127 or Electrical Engineering 127/227AT.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> El Ghaoui</p><p><strong>Formerly known as:</strong> Electrical Engineering 227AT</p></div>
+<p><a href="" class="btn-readless"><span>Optimization Models in Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs251a" data-toggle="#cb_eecs251a">
+<h3 class="courseblocktitle">
+<span class="code">EECS 251A</span> 
+<span class="title">Introduction to Digital Design and Integrated Circuits</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs251a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+An introduction to digital circuit and system design. The material provides a top-down view of the principles, components, and methodologies for large scale digital system design. The underlying CMOS devices and manufacturing technologies are introduced, but quickly abstracted to higher levels to focus the class on design of larger digital modules for both FPGAs (field programmable gate arrays) and ASICs (application specific integrated circuits).</span><span class="deschide"> The class includes extensive use of industrial grade design automation and verification tools for assignments, labs, and projects.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Digital Design and Integrated Circuits:</span> Read More [+]</a></p>
+<div id="467" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> The Verilog hardware description language is introduced and used. Basic digital system design concepts, Boolean operations/combinational logic, sequential elements and finite-state-machines, are described. Design of larger building blocks such as arithmetic units, interconnection networks, input/output units, as well as memory design (SRAM, Caches, FIFOs) and integration are also covered. Parallelism, pipelining and other micro-architectural optimizations are introduced. A number of physical design issues visible at the architecture level are covered as well, such as interconnects, power, and reliability.</p><p><strong>Student Learning Outcomes:</strong> Although the syllabus is the same as EECS151, the assignments and exams for EECS251A will have harder problems that test deeper understanding expected from a graduate level course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Electrical Engineering 16A &amp; 16B; Computer Science 61C; and recommended: Electrical Engineering 105. Students must enroll concurrently in at least one the laboratory flavors Electrical Engineering and Computer Science 251LA or Electrical Engineering and Computer Science 251LB. Students wishing to take a second laboratory flavor next term can sign-up only for that laboratory section and receive a letter grade. The pre-requisite for “Lab-only” enrollment that term will be Electrical Engineering an</p><p><strong>Credit Restrictions:</strong> Students must enroll concurrently in at least one the laboratory flavors Electrical Engineering and Computer Science 251LA or Electrical Engineering and Computer Science 251LB. Students wishing to take a second laboratory flavor next term can sign-up only for that laboratory section and receive a letter grade. The pre-requisite for “Lab-only” enrollment that term will be Electrical Engineering and Computer Science 251A from previous terms.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p><p><strong>Formerly known as:</strong> Electrical Engineering 241A</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Digital Design and Integrated Circuits:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs251la" data-toggle="#cb_eecs251la">
+<h3 class="courseblocktitle">
+<span class="code">EECS 251LA</span> 
+<span class="title">Introduction to Digital Design and Integrated Circuits Lab</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs251la">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This lab lays the foundation of modern digital design by first presenting the scripting and hardware description language base for specification of digital systems and interactions with tool flows. The labs are centered on a large design with the focus on rapid design space exploration. The lab exercises culminate with a project design, e.g. implementation of a 3-stage RISC-V processor with a register file and caches. The design is mapped to</span><span class="deschide"> simulation and layout specification.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Digital Design and Integrated Circuits Lab:</span> Read More [+]</a></p>
+<div id="859" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> Software testing of digital designs is covered leading to a set of exercises that cover the design flow. Digital synthesis, floor-planning, placement and routing are covered, as well as tools to evaluate timing and power consumption. Chip-level assembly is covered, including instantiation of custom blocks: I/O pads, memories, PLLs, etc.</p><p><strong>Student Learning Outcomes:</strong> Although the syllabus is the same as EECS151LA, the assignments and exams for EECS251LA will have harder problems in labs and in the project that test deeper understanding expected from a graduate level course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Electrical Engineering 16A &amp; 16B; Computer Science 61C; and recommended: Electrical Engineering 105</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Digital Design and Integrated Circuits Lab:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eecs251lb" data-toggle="#cb_eecs251lb">
+<h3 class="courseblocktitle">
+<span class="code">EECS 251LB</span> 
+<span class="title">Introduction to Digital Design and Integrated Circuits Lab</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eecs251lb">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This lab covers the design of modern digital systems with Field-Programmable Gate Array (FPGA) platforms. A series of lab exercises provide the background and practice of digital design using a modern FPGA design tool flow. Digital synthesis, partitioning, placement, routing, and simulation tools for FPGAs are covered in detail. The labs exercises culminate with a large design project, e.g., an implementation of a full 3-stage RISC-V processor</span><span class="deschide"> system, with caches, graphics acceleration, and external peripheral components. The design is mapped and demonstrated on an FPGA hardware platform.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Digital Design and Integrated Circuits Lab:</span> Read More [+]</a></p>
+<div id="631" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Although the syllabus is the same as EECS151LB, the assignments and exams for EECS251LB will have harder problems in labs and in the project that test deeper understanding expected from a graduate level course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Electrical Engineering 16A &amp; 16B; Computer Science 61C; and recommended: Electrical Engineering 105</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Electrical Engin and Computer Sci/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Stojanovic, Wawrzynek</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Digital Design and Integrated Circuits Lab:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

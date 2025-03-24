@@ -1,0 +1,1492 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<h3>Bachelor of Arts (BA)</h3>
+<p>The undergraduate major at Berkeley provides a systematic and thorough grounding in applied and theoretical statistics as well as probability. The quality and dedication of the teaching staff and faculty are extremely high. A major in Statistics from Berkeley is an excellent preparation for a career in science or industry, or for further <span class="il">academic</span> study in a wide variety of fields. The department has particular strength in Machine Learning, a key ingredient of the emerging field of Data Science. It is also very useful to combine studies of statistics and probability with other subjects. Our department excels at interdisciplinary science, and more than half of the department's undergraduate students are double or triple majors.</p>
+<p>Students interested in teaching statistics and mathematics in middle or high school should pursue the teaching option within the major. Students interested in teaching should also consider the <a href="http://calteach.berkeley.edu/">Cal Teach Program</a>.</p>
+<h3>Declaring the Major</h3>
+<p>Students should apply in the semester they will complete their prerequisites. For applicants with prerequisites in progress, applications will be reviewed after the grades for all prerequisites are available, 2-3 weeks after finals. For applicants who have completed all prerequisites in a previous term, applications will be reviewed and processed within a week.</p>
+<p>For detailed information regarding the process of declaring the major, please see the <a href="http://statistics.berkeley.edu/programs/undergrad/major#HowtoDeclare">Statistics Department website.</a></p>
+<h3>Minor Program</h3>
+<p>The minor is for students who want to study a significant amount of statistics and probability at the upper division level. For information regarding the requirements, please see the Minor Requirements tab on this page.</p>
+<p>For detailed information regarding the process of declaring the minor, please see the <a href="http://statistics.berkeley.edu/programs/undergrad/minor">Statistics Department website.</a></p>
+]]>
+</abouttheprogramtext>
+<majorrequirementstext>
+<![CDATA[
+<p>In addition to the University, campus, and college requirements, listed on the College Requirements tab, students must fulfill the below requirements specific to their major program.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>All courses taken to fulfill the major requirements below must be taken for graded credit, other than courses listed which are offered on a <em>Pass/No Pass</em> basis only. Other exceptions to this requirement are noted as applicable.</li>
+	<li>No more than one upper division course may be used to simultaneously fulfill requirements for a student's major and minor programs, with the exception of minors offered outside of the College of Letters &amp; Science.</li>
+	<li>A minimum grade point average (GPA) of 2.0 must be maiDntained in both upper and lower division courses used to fulfill the major requirements.</li>
+	<li>The requirements below apply to freshmen entering Berkeley in Fall 2018, and transfer students entering in Fall 2020. Freshmen students admitted to Berkeley prior to Fall 2018 and transfer students admitted prior to Fall 2020 are required to complete the requirements as published in the <a href="/2018-19/archive">2017-18 Berkeley Academic Guide</a>.</li>
+</ol>
+<p>For information regarding residency requirements and unit requirements, please see the College Requirements tab.</p>
+<hr/>
+<h3>Prerequisites</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td colspan="2"><span class="courselistcomment">Students must earn a minimum 3.2 UC grade point average in the lower division math prerequisites with no lower than a C in each.</span> <sup>1</sup></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">MATH 1A</td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 1B</td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 53</td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 54</td><td>Linear Algebra and Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">A minimum C grade in one of the following:</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">STAT C8/COMPSCI C8/INFO C8</td><td>Foundations of Data Science</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or STAT 20</td><td colspan="2"> Introduction to Probability and Statistics</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or STAT 28</td><td colspan="2"> Course Not Available</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">A minimum B- grade in one of the following:</span> <sup>2</sup></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">STAT 134</td><td>Concepts of Probability</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or STAT 140</td><td colspan="2"> Probability for Data Science</td></tr>
+<tr class="odd lastrow"><td class="codecol">STAT 135</td><td>Concepts of Statistics</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<hr/>
+<h3><span>Upper Division Requirements (Nine Courses)</span></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Core Statistics Courses (3)</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">STAT 133</td><td>Concepts in Computing with Data</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">STAT 134</td><td>Concepts of Probability <sup>3</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or STAT 140</td><td colspan="2"> Probability for Data Science</td></tr>
+<tr class="odd"><td class="codecol">STAT 135</td><td>Concepts of Statistics</td><td class="hourscol">4</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Statistics Electives (3)</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select three statistics electives from the following; at least one of the selections must have a lab:</span></td><td class="hourscol">10-12</td></tr>
+<tr class="even"><td class="codecol">STAT 150</td><td>Stochastic Processes</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">STAT 151A</td><td>Linear Modelling: Theory and Applications (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 152</td><td>Sampling Surveys (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">STAT 153</td><td>Introduction to Time Series (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 154</td><td>Modern Statistical Prediction and Machine Learning (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">STAT 155</td><td>Game Theory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">STAT 157</td><td>Seminar on Topics in Probability and Statistics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">STAT 158</td><td>The Design and Analysis of Experiments (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 159</td><td>Reproducible and Collaborative Statistical Data Science (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Applied Cluster Courses (3)</span></td><td class="hourscol"></td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">Select three applied cluster courses. See Cluster Course Information and Approved Cluster Courses below the Teaching Option requirements.</span></td><td class="hourscol">9-12</td></tr>
+</tbody></table>
+
+<h3>Upper Division Requirements: Teaching Option (Nine Courses)</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Core Statistics Courses (3)</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">STAT 133</td><td>Concepts in Computing with Data</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">STAT 134</td><td>Concepts of Probability <sup>3</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or STAT 140</td><td colspan="2"> Probability for Data Science</td></tr>
+<tr class="odd"><td class="codecol">STAT 135</td><td>Concepts of Statistics</td><td class="hourscol">4</td></tr>
+<tr class="even areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Statistics Electives (2)</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Select two of the following; at least one course must include a lab:</span></td><td class="hourscol">7-8</td></tr>
+<tr class="even"><td class="codecol">STAT 150</td><td>Stochastic Processes</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">STAT 151A</td><td>Linear Modelling: Theory and Applications (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 152</td><td>Sampling Surveys (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">STAT 153</td><td>Introduction to Time Series (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 154</td><td>Modern Statistical Prediction and Machine Learning (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">STAT 155</td><td>Game Theory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">STAT 157</td><td>Seminar on Topics in Probability and Statistics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">STAT 158</td><td>The Design and Analysis of Experiments (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 159</td><td>Reproducible and Collaborative Statistical Data Science (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Teaching Track Cluster (4)</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">MATH 110</td><td>Linear Algebra</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 113</td><td>Introduction to Abstract Algebra</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 151</td><td>Mathematics of the Secondary School Curriculum I</td><td class="hourscol">4</td></tr>
+<tr class="odd lastrow"><td class="codecol">MATH 152</td><td>Mathematics of the Secondary School Curriculum II</td><td class="hourscol">4</td></tr>
+<tr class="orclass odd lastrow"><td class="codecol orclass">or MATH 153</td><td colspan="2"> Mathematics of the Secondary School Curriculum III</td></tr>
+</tbody></table>
+
+<h3>Cluster Course Information</h3>
+<p class="p1">The applied cluster is a chance to learn about areas in which statistics can be applied and to learn specialized techniques not taught in the Statistics Department. Students need to design their own applied cluster. The courses should have a unifying theme. Picking their own applied cluster is a valuable exercise that gives students a chance to explore and refine their interests and to develop a coherent course of study. A preapproved list has been provided below. However, it is not exhaustive. Clusters may consist of courses from more than one department, but at least two must be approved courses from the same department. If students would like to use a course that is not on the list or select three courses from three different departments, the Head Undergraduate Major Faculty Adviser must approve the proposed cluster. Cluster courses should meet the following criteria:</p>
+<ol>
+	<li class="p1"><span class="s1">Courses </span><span class="s1">must be upper </span><span class="s1">division courses </span><span class="s1">and at least 3 units.</span></li>
+	<li class="p1"><span class="s1"><span class="s1">Courses</span> <span class="s1">in the biological and physical sciences, chemistry,</span> <span class="s1">and engineering</span> <span class="s1">are</span> <span class="s1">often acceptable.</span></span></li>
+	<li class="p1"><span class="s1"><span class="s1">Courses</span> <span class="s1">in social sciences must be quantitative.</span></span></li>
+	<li class="p1"><span class="s1"><span class="s1">Courses</span> <span class="s1">with</span> <span class="s1">statistics prerequisites</span> <span class="s1">are</span> <span class="s1">often acceptable.</span></span></li>
+	<li class="p1"><span class="s1"><span class="s1">Courses</span> <span class="s1">that are</span> <span class="s1">similar</span> <span class="s1">to courses</span> <span class="s1">offered</span> <span class="s1">in the Statistics Department</span> <span class="s1">are</span> <span class="s1">not acceptable.</span></span></li>
+	<li class="p1"><span class="s1"><span class="s1">Courses</span> <span class="s1">that primarily</span> <span class="s1">teach how</span> <span class="s1">to use a particular</span> <span class="s1">software</span> <span class="s1">package are</span> <span class="s1">not acceptable.</span></span></li>
+	<li class="p1"><span class="s1"><span class="s1">Courses</span> <span class="s1">that focus on the use of spreadsheet</span> <span class="s1">software</span> <span class="s1">(e.g.,</span> <span class="s1"><span class="sc_courseinline">UGBA 104</span>)</span> <span class="s1">are</span> <span class="s1">not acceptable.</span></span></li>
+	<li class="p1"><span class="s1"><span class="s1">Courses</span> <span class="s1">should be taken in the home</span> <span class="s1">department.</span> <span class="s1">For</span> <span class="s1">instance, economics classes should be taken</span> <span class="s1">in</span> <span class="s1">the</span> <span class="s1">economics</span> <span class="s1">or</span> <span class="s1">business</span> <span class="s1">department.</span></span></li>
+	<li class="p1"><span class="s1"><span class="s1">Seminars</span> <span class="s1">and</span> <span class="s1">special</span> <span class="s1">topics</span> <span class="s1">courses</span> <span class="s1">require</span> <span class="s1">approval</span> <span class="s1">by</span> <span class="s1">the</span> <span class="s1">undergraduate</span> <span class="s1">faculty</span> <span class="s1">adviser.</span></span></li>
+</ol>
+<h3 class="p1"><span class="s1">Approved Cluster Courses</span></h3>
+<p class="p1">Of the three applied cluster courses required for the major, at least two must be approved courses from the same department. This is not an exhaustive list.</p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol">ANTHRO C100</td><td>Human Paleontology</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol">ANTHRO C103</td><td>Introduction to Human Osteology</td><td class="hourscol">6</td></tr>
+<tr class="even"><td class="codecol">ANTHRO 115</td><td>Introduction to Medical Anthropology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ANTHRO 121C</td><td>Historical Archaeology: Historical Artifact Identification and Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ANTHRO C124C/INTEGBI C187</td><td>Human Biogeography of the Pacific</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ANTHRO 127A</td><td>Bioarchaeology: Introduction to Skeletal Biology and Bioarchaeology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ANTHRO 127B</td><td>Bioarchaeology: Reconstruction of Life in Bioarchaeology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ASTRON 128</td><td>Astronomy Data Science Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ANTHRO C129D/INTEGBI C155</td><td>Holocene Paleoecology: How Humans Changed the Earth</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ANTHRO 132A</td><td>Analysis of Archaeological Materials: Analysis of Archaeological Ceramics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ANTHRO 135</td><td>Paleoethnobotany: Archaeological Methods and Laboratory Techniques</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ANTHRO 169B</td><td>Research Theory and Methods in Socio-Cultural Anthropology</td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol">ARCH 140</td><td>Energy and Environment</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ARCH 150</td><td>Introduction to Structures</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ARCH 154</td><td>Design and Computer Analysis of Structure</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ASTRON 160</td><td>Stellar Physics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ASTRON C161</td><td>Relativistic Astrophysics and Cosmology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ASTRON C162</td><td>Planetary Astrophysics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">BIO ENG 104</td><td>Biological Transport Phenomena</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">BIO ENG C112</td><td>Molecular Biomechanics and Mechanobiology of the Cell</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">BIO ENG C117</td><td>Structural Aspects of Biomaterials</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">BIO ENG C119</td><td>Orthopedic Biomechanics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">BIO ENG C125</td><td>Introduction to Robotics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">BIO ENG C125B</td><td>Robotic Manipulation and Interaction</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">BIO ENG 131</td><td>Introduction to Computational Molecular and Cell Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">BIO ENG C136L</td><td>Laboratory in the Mechanics of Organisms</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">BIO ENG C137</td><td>Designing for the Human Body</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">BIO ENG 144</td><td>Introduction to Protein Informatics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">BIO ENG C145L</td><td>Introductory Electronic Transducers Laboratory</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">BIO ENG C145M</td><td>Introductory Microcomputer Interfacing Laboratory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">BIO ENG 147</td><td>Principles of Synthetic Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">BIO ENG C165</td><td>Medical Imaging Signals and Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">BIO ENG C181</td><td>The Berkeley Lectures on Energy: Energy from Biomass</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CHM ENG 140</td><td>Introduction to Chemical Process Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">CHM ENG 141</td><td>Chemical Engineering Thermodynamics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CHM ENG C195A</td><td>The Berkeley Lectures on Energy: Energy from Biomass</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CHEM C110L</td><td>General Biochemistry and Molecular Biology Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CHEM 120A</td><td>Physical Chemistry</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CHEM 120B</td><td>Physical Chemistry</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CHEM C130</td><td>Biophysical Chemistry: Physical Principles and the Molecules of Life</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">CHEM C138</td><td>The Berkeley Lectures on Energy: Energy from Biomass</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CY PLAN 101</td><td>Introduction to Urban Data Analytics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">CY PLAN 118AC</td><td>The Urban Community</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CY PLAN 119</td><td>Planning for Sustainability</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV ENG 100</td><td>Elementary Fluid Mechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">CIV ENG 103</td><td>Introduction to Hydrology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV ENG C106</td><td>Air Pollution</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV ENG C116</td><td>Chemistry of Soils</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">CIV ENG C133</td><td>Engineering Analysis Using the Finite Element Method</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">CIV ENG 155</td><td>Transportation Systems Engineering</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">COG SCI C100</td><td>Basic Issues in Cognition</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">COG SCI C101</td><td>Cognitive Linguistics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COG SCI C102</td><td>Scientific Approaches to Consciousness</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">COG SCI C126</td><td>Perception</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">COG SCI C127</td><td>Cognitive Neuroscience</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">COG SCI 131</td><td>Computational Models of Cognition</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COG SCI C140</td><td>Quantitative Methods in Linguistics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COG SCI C147</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">COMPSCI C149</td><td>Course Not Available</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 152</td><td>Computer Architecture and Engineering</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 160</td><td>User Interface Design and Development</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 161</td><td>Computer Security</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 162</td><td>Operating Systems and System Programming</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 164</td><td>Programming Languages and Compilers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 168</td><td>Introduction to the Internet: Architecture and Protocols</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 169</td><td>Software Engineering</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 170</td><td>Efficient Algorithms and Intractable Problems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 172</td><td>Computability and Complexity</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 176</td><td>Algorithms for Computational Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 182</td><td>Designing, Visualizing and Understanding Deep Neural Networks <sup>4</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 184</td><td>Foundations of Computer Graphics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 186</td><td>Introduction to Database Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI W186</td><td>Introduction to Database Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 188</td><td>Introduction to Artificial Intelligence</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 189</td><td>Introduction to Machine Learning <sup>4</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">NOT Compsci C100</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">DEMOG 110</td><td>Introduction to Population Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">DEMOG C175</td><td>Economic Demography</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">DEMOG 180</td><td>Social Networks</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">DEMOG 260</td><td>Special Topics in Demography Seminar</td><td class="hourscol">1-4</td></tr>
+<tr class="even"><td class="codecol">EPS 101</td><td>Field Geology and Digital Mapping</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EPS C129</td><td>Biometeorology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">EPS 130</td><td>Strong Motion Seismology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">EPS C146</td><td>Geological Oceanography</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EPS C162</td><td>Planetary Astrophysics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EPS C180</td><td>Air Pollution</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">EPS C181</td><td>Atmospheric Physics and Dynamics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ECON 101A</td><td>Economic Theory--Micro</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON 101B</td><td>Economic Theory--Macro</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON C102</td><td>Natural Resource Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON C103</td><td>Introduction to Mathematical Economics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON 104</td><td>Advanced Microeconomic Theory</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON 119</td><td>Psychology and Economics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON 121</td><td>Industrial Organization and Public Policy</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON C125</td><td>Environmental Economics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON 131</td><td>Public Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON 136</td><td>Financial Economics <sup>5</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON 138</td><td>Financial and Behavioral Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON 139</td><td>Intermediate Financial Economics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON 141</td><td>Econometric Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON C142</td><td>Applied Econometrics and Public Policy</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON 157</td><td>Health Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON C171</td><td>Economic Development</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ECON 174</td><td>Global Poverty and Impact Evaluation</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON C175</td><td>Economic Demography</td><td class="hourscol">3</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or ECON N175</td><td colspan="2"> Economic Demography</td></tr>
+<tr class="odd"><td class="codecol">ECON C181</td><td>International Trade</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ECON 182</td><td>International Monetary Economics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 100</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">EL ENG 105</td><td>Microelectronic Devices and Circuits</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG C106A</td><td>Introduction to Robotics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG C106B</td><td>Robotic Manipulation and Interaction</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 113</td><td>Power Electronics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 117</td><td>Electromagnetic Fields and Waves</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 118</td><td>Introduction to Optical Engineering</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">EL ENG 120</td><td>Signals and Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 121</td><td>Introduction to Digital Communication Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 122</td><td>Introduction to Communication Networks</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 123</td><td>Digital Signal Processing</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 127</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">EL ENG C128</td><td>Feedback Control Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 129</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 130</td><td>Integrated-Circuit Devices</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 134</td><td>Fundamentals of Photovoltaic Devices</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 137A</td><td>Introduction to Electric Power Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 137B</td><td>Introduction to Electric Power Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 140</td><td>Linear Integrated Circuits</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 142</td><td>Integrated Circuits for Communications</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 143</td><td>Microfabrication Technology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 144</td><td>Fundamental Algorithms for Systems Modeling, Analysis, and Optimization</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG C145B</td><td>Medical Imaging Signals and Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG C145L</td><td>Introductory Electronic Transducers Laboratory</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">EL ENG C145M</td><td>Introductory Microcomputer Interfacing Laboratory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">EL ENG C145O</td><td>Laboratory in the Mechanics of Organisms</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 147</td><td>Introduction to Microelectromechanical Systems (MEMS)</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">EL ENG C149</td><td>Course Not Available</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENE,RES C100</td><td>Energy and Society</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENE,RES 102</td><td>Quantitative Aspects of Global Environmental Problems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENE,RES 175</td><td>Water and Development</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENE,RES C176</td><td>Climate Change Economics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENGIN 115</td><td>Course Not Available</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENGIN 117</td><td>Methods of Engineering Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ENGIN 120</td><td>Principles of Engineering Economics <sup>5</sup></td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ENVECON C101</td><td>Environmental Economics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENVECON C102</td><td>Natural Resource Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENVECON C115</td><td>Modeling and Management of Biological Resources</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENVECON 131</td><td>Globalization and the Natural Environment</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ENVECON 140AC</td><td>Economics of Race, Agriculture, and the Environment</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ENVECON 141</td><td>Agricultural and Environmental Policy</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENVECON 142</td><td>Industrial Organization with Applications to Agriculture and Natural Resources</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENVECON 143</td><td>Economics of Innovation and Intellectual Property</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENVECON 145</td><td>Health and Environmental Economic Policy</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENVECON 147</td><td>Regulation of Energy and the Environment</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENVECON C151</td><td>Economic Development</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENVECON 152</td><td>Advanced Topics in Development and International Trade</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ENVECON 153</td><td>Population, Environment, and Development</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ENVECON 154</td><td>Economics of Poverty and Technology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ENVECON 161</td><td>Advanced Topics in Environmental and Resource Economics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENVECON 162</td><td>Economics of Water Resources</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ENVECON C175</td><td>The Economics of Climate Change</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENVECON C176</td><td>Climate Change Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENVECON C181</td><td>International Trade</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ENVECON C183</td><td>Forest Ecosystem Management</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ENV SCI 100</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">ESPM 102A</td><td>Course Not Available</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 102C</td><td>Resource Management</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM 102D</td><td>Climate and Energy Policy</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM C103</td><td>Principles of Conservation Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM C104</td><td>Modeling and Management of Biological Resources</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM C107</td><td>Biology and Geomorphology of Tropical Islands</td><td class="hourscol">13</td></tr>
+<tr class="odd"><td class="codecol">ESPM 108A</td><td>Trees: Taxonomy, Growth, and Structures</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM 108B</td><td>Environmental Change Genetics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 111</td><td>Ecosystem Ecology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 112</td><td>Microbial Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 114</td><td>Wildlife Ecology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM 115C</td><td>Fish Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 116B</td><td>Grassland and Woodland Ecology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM 116C</td><td>Tropical Forest Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 117</td><td>Urban Garden Ecosystems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 118</td><td>Agricultural Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 120</td><td>Science of Soils</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM 121</td><td>Development and Classification of Soils</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM C126</td><td>Animal Behavior</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM C128</td><td>Chemistry of Soils</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM C129</td><td>Biometeorology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM 131</td><td>Soil Microbiology and Biogeochemistry</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 132</td><td>Spider Biology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM C138</td><td>Introduction to Comparative Virology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM 140</td><td>General Entomology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 142</td><td>Insect Behavior</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 144</td><td>Insect Physiology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM C148</td><td>Pesticide Chemistry and Toxicology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM C149</td><td>Molecular Ecology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 152</td><td>Global Change Biology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM C159</td><td>Human Diet</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 165</td><td>International Rural Development Policy</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM 166</td><td>Natural Resource Policy and Indigenous Peoples</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 172</td><td>Remote Sensing of the Environment</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 173</td><td>Introduction to Ecological Data Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM C177</td><td>GIS and Environmental Spatial Data Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM C180</td><td>Air Pollution</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM 181A</td><td>Fire Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 182</td><td>Forest Operations Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ESPM 183</td><td>Forest Ecosystem Management and Planning</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM C183</td><td>Forest Ecosystem Management</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 185</td><td>Applied Forest Ecology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ESPM 186</td><td>Management and Conservation of Rangeland Ecosystems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">ESPM 187</td><td>Restoration Ecology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">GEOG C136</td><td>Terrestrial Hydrology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">GEOG C139</td><td>Atmospheric Physics and Dynamics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">GEOG 140A</td><td>Physical Landscapes: Process and Form</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">GEOG 142</td><td>Climate Dynamics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">GEOG 143</td><td>Global Change Biogeochemistry</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">GEOG C145</td><td>Geological Oceanography</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">GEOG 148</td><td>Course Not Available</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">GEOG 187</td><td>Geographic Information Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">GEOG C188</td><td>Geographic Information Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">IND ENG 115</td><td>Industrial and Commercial Data Systems</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND ENG 130</td><td>Methods of Manufacturing Improvement</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND ENG 131</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">IND ENG 135</td><td>Applied Data Science with Venture Applications</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND ENG 142</td><td>Introduction to Machine Learning and Data Analytics <sup>4</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND ENG 150</td><td>Production Systems Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND ENG 151</td><td>Service Operations Design and Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND ENG 153</td><td>Logistics Network Design and Supply Chain Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND ENG 160</td><td>Nonlinear and Discrete Optimization</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND ENG 162</td><td>Linear Programming and Network Flows</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND ENG 166</td><td>Decision Analytics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND ENG 170</td><td>Industrial Design and Human Factors</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND ENG 171</td><td>Technology Firm Leadership (through fall 2018)</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND ENG 221</td><td>Introduction to Financial Engineering</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IND ENG 222</td><td>Financial Engineering Systems I</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">NOT Ind Eng 165, Ind Eng 172 or Ind Eng 173</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">INFO 159</td><td>Natural Language Processing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO 188</td><td>Behind the Data: Humans and Values</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INFO 213</td><td>User Interface Design and Development</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INFO 232</td><td>Applied Behavioral Economics for Information Systems</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INFO 247</td><td>Information Visualization and Presentation</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INFO 253</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INFO 256</td><td>Applied Natural Language Processing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO 257</td><td>Database Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INFO 271B</td><td>Quantitative Research Methods for Information Systems and Management</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INFO 272</td><td>Qualitative Research Methods for Information Systems and Management</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 102LF</td><td>Introduction to California Plant Life with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 103LF</td><td>Invertebrate Zoology with Laboratory</td><td class="hourscol">5</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 104LF</td><td>Natural History of the Vertebrates with Laboratory</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 106A</td><td>Physical and Chemical Environment of the Ocean</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI C107L</td><td>Principles of Plant Morphology with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI C109</td><td>Evolution and Ecology of Development</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI C110L</td><td>Biology of Fungi with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 113L</td><td>Paleobiological Perspectives on Ecology and Evolution</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 115</td><td>Introduction to Systems in Biology and Medicine</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 117<br/><span style="margin-left:20px;" class="blockindent">&amp; 117LF</span></td><td>Medical Ethnobotany<br/><span style="margin-left:20px;" class="blockindent">and Medical Ethnobotany Laboratory</span></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 118</td><td>Host-Microbe Interactions</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 119</td><td>Evaluating Scientific Evidence in Medicine</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 123AL</td><td>Exercise and Environmental Physiology with Laboratory</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI C125L</td><td>Introduction to the Biomechanical Analysis of Human Movement</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 128</td><td>Sports Medicine</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI C129L</td><td>Human Physiological Assessment</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 131</td><td>General Human Anatomy</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 132</td><td>Survey of Human Physiology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 135</td><td>The Mechanics of Organisms</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI C135L</td><td>Laboratory in the Mechanics of Organisms</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 137</td><td>Human Endocrinology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 138</td><td>Comparative Endocrinology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 139</td><td>The Neurobiology of Stress</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 140</td><td>Biology of Human Reproduction</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI C142L</td><td>Introduction to Human Osteology</td><td class="hourscol">6</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI C143A</td><td>Biological Clocks: Physiology and Behavior</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI C143B</td><td>Hormones and Behavior</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI C144</td><td>Animal Behavior</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 146LF</td><td>Behavioral Ecology with Laboratory</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 148</td><td>Comparative Animal Physiology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI C149</td><td>Molecular Ecology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 151</td><td>Plant Physiological Ecology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 152</td><td>Environmental Toxicology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 153</td><td>Ecology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 154</td><td>Plant Ecology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI C155</td><td>Holocene Paleoecology: How Humans Changed the Earth</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INTEGBI C156</td><td>Principles of Conservation Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 157LF</td><td>Ecosystems of California</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 158LF</td><td>Biology and Geomorphology of Tropical Islands</td><td class="hourscol">13</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 160</td><td>Evolution</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 161</td><td>Population and Evolutionary Genetics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 162</td><td>Ecological Genetics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 164</td><td>Human Genetics and Genomics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 166</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">INTEGBI 168L</td><td>Systematics of Vascular Plants with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 169</td><td>Evolutionary Medicine</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 173LF</td><td>Mammalogy with Laboratory</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 174LF</td><td>Ornithology with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 175LF</td><td>Herpetology with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 181L</td><td>Paleobotany - The 500-Million Year History of a Greening Planet</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI 183L</td><td>Evolution of the Vertebrates with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI 184L</td><td>Morphology of the Vertebrate Skeleton with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">INTEGBI C185L</td><td>Human Paleontology</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol">INTEGBI C187</td><td>Human Biogeography of the Pacific</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">IAS C175</td><td>The Economics of Climate Change</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">IAS C176</td><td>Climate Change Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">LD ARCH 122</td><td>Hydrology for Planners</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">LD ARCH C177</td><td>GIS and Environmental Spatial Data Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">LD ARCH C188</td><td>Geographic Information Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">L &amp; S C180U</td><td>Wealth and Poverty</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">LEGALST 123</td><td>Data, Prediction &amp; Law</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">LINGUIS 100</td><td>Introduction to Linguistic Science</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">LINGUIS C105</td><td>Cognitive Linguistics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">LINGUIS 110</td><td>Phonetics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">LINGUIS 113</td><td>Experimental Phonetics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">LINGUIS 140</td><td>Field Methods</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">LINGUIS C146</td><td>Language Acquisition</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">LINGUIS C147</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">LINGUIS C160</td><td>Quantitative Methods in Linguistics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH C103</td><td>Introduction to Mathematical Economics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 104</td><td>Introduction to Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH H104</td><td>Honors Introduction to Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 105</td><td>Second Course in Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 110</td><td>Linear Algebra <sup>6</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH H110</td><td>Honors Linear Algebra <sup>6</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 113</td><td>Introduction to Abstract Algebra</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH H113</td><td>Honors Introduction to Abstract Algebra</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 114</td><td>Second Course in Abstract Algebra</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 115</td><td>Introduction to Number Theory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 116</td><td>Cryptography</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 118</td><td>Fourier Analysis, Wavelets, and Signal Processing</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 121A</td><td>Mathematical Tools for the Physical Sciences</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 121B</td><td>Mathematical Tools for the Physical Sciences</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 123</td><td>Ordinary Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 125A</td><td>Mathematical Logic</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 126</td><td>Introduction to Partial Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 127</td><td>Mathematical and Computational Methods in Molecular Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 128A</td><td>Numerical Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 128B</td><td>Numerical Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 130</td><td>The Classical Geometries</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 135</td><td>Introduction to the Theory of Sets</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 136</td><td>Incompleteness and Undecidability</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 140</td><td>Metric Differential Geometry</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 141</td><td>Elementary Differential Topology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 142</td><td>Elementary Algebraic Topology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 143</td><td>Elementary Algebraic Geometry</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 170</td><td>Mathematical Methods for Optimization <sup>7</sup></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 172</td><td>Combinatorics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 185</td><td>Introduction to Complex Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH H185</td><td>Honors Introduction to Complex Analysis</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 189</td><td>Mathematical Methods in Classical and Quantum Mechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 221</td><td>Advanced Matrix Computations</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 101</td><td>Introduction to Lean Manufacturing Systems</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 102A</td><td>Course Not Available</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 102B</td><td>Mechatronics Design</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 104</td><td>Engineering Mechanics II</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 106</td><td>Fluid Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 107</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 108</td><td>Mechanical Behavior of Engineering Materials</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 109</td><td>Heat Transfer</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 110</td><td>Introduction to Product Development</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG C115</td><td>Molecular Biomechanics and Mechanobiology of the Cell</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MEC ENG C117</td><td>Structural Aspects of Biomaterials</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 118</td><td>Introduction to Nanotechnology and Nanoscience</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 119</td><td>Introduction to MEMS (Microelectromechanical Systems)</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 120</td><td>Computational Biomechanics Across Multiple Scales</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 122</td><td>Processing of Materials in Manufacturing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 130</td><td>Design of Planar Machinery</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 131</td><td>Vehicle Dynamics and Control</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 132</td><td>Dynamic Systems and Feedback</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 133</td><td>Mechanical Vibrations</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG C134</td><td>Feedback Control Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 135</td><td>Design of Microprocessor-Based Mechanical Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 138</td><td>Introduction to Micro/Nano Mechanical Systems Laboratory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 140</td><td>Combustion Processes</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 146</td><td>Energy Conversion Principles</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 150A</td><td>Solar-Powered Vehicles: Analysis, Design and Fabrication</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 151</td><td>Advanced Heat Transfer</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 163</td><td>Engineering Aerodynamics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 164</td><td>Marine Statics and Structures</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 165</td><td>Ocean-Environment Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 167</td><td>Microscale Fluid Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 168</td><td>Mechanics of Offshore Systems</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 170</td><td>Engineering Mechanics III</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG 173</td><td>Fundamentals of Acoustics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 175</td><td>Intermediate Dynamics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG C176</td><td>Orthopedic Biomechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG C178</td><td>Designing for the Human Body</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MEC ENG C180</td><td>Engineering Analysis Using the Finite Element Method</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MEC ENG 185</td><td>Introduction to Continuum Mechanics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 100B</td><td>Biochemistry: Pathways, Mechanisms, and Regulation</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI C100A</td><td>Biophysical Chemistry: Physical Principles and the Molecules of Life</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 102</td><td>Survey of the Principles of Biochemistry and Molecular Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI C103</td><td>Bacterial Pathogenesis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 104</td><td>Genetics, Genomics, and Cell Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 110</td><td>Molecular Biology: Macromolecular Synthesis and Cellular Function</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI C110L</td><td>General Biochemistry and Molecular Biology Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI C112</td><td>General Microbiology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI C114</td><td>Introduction to Comparative Virology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI C116</td><td>Microbial Diversity</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 130</td><td>Cell and Systems Biology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 132</td><td>Biology of Human Cancer</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 133L</td><td>Physiology and Cell Biology Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI C134</td><td>Chromosome Biology/Cytogenetics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 135A</td><td>Topics in Cell and Developmental Biology: Molecular Endocrinology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 136</td><td>Physiology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 137L</td><td>Physical Biology of the Cell</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 140</td><td>General Genetics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 140L</td><td>Genetics Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 141</td><td>Developmental Biology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 143</td><td>Evolution of Genomes, Cells, and Development</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI C148</td><td>Microbial Genomics and Genetics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 149</td><td>The Human Genome</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 150</td><td>Molecular Immunology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 150L</td><td>Immunology Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 160</td><td>Cellular and Molecular Neurobiology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 160L</td><td>Neurobiology Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 161</td><td>Circuit, Systems and Behavioral Neuroscience</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 163L</td><td>Mammalian Neuroanatomy Lab</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MCELLBI 165</td><td>Neurobiology of Disease</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MCELLBI 166</td><td>Biophysical Neurobiology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">MUSIC 108</td><td>Music Perception and Cognition</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MUSIC 108M</td><td>Music Perception and Cognition</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MUSIC 109</td><td>Music Cognition: The Mind Behind the Musical Ear</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">MUSIC 109M</td><td>Music Cognition: The Mind Behind the Musical Ear</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">NEUROSC C129</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">NUC ENG 100</td><td>Introduction to Nuclear Energy and Technology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">NUC ENG 130</td><td>Analytical Methods for Non-proliferation</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">NUC ENG 175</td><td>Methods of Risk Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">NUSCTX 103</td><td>Nutrient Function and Metabolism</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">NUSCTX 110</td><td>Toxicology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">NUSCTX C114</td><td>Pesticide Chemistry and Toxicology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">NUSCTX 121</td><td>Computational Toxicology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">NUSCTX C159</td><td>Human Diet</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHILOS 128</td><td>Philosophy of Science</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHILOS 140A</td><td>Intermediate Logic</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHILOS 140B</td><td>Intermediate Logic</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHILOS 142</td><td>Philosophical Logic</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHILOS 143</td><td>Modal Logic</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHILOS 146</td><td>Philosophy of Mathematics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHYS ED C129</td><td>Human Physiological Assessment</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PHYS ED C165</td><td>Introduction to the Biomechanical Analysis of Human Movement</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHYSICS 105</td><td>Analytic Mechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 110A</td><td>Electromagnetism and Optics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHYSICS 110B</td><td>Electromagnetism and Optics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 111A</td><td>Instrumentation Laboratory</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PHYSICS 111B</td><td>Advanced Experimentation Laboratory (only when taken for 3 units)</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 112</td><td>Introduction to Statistical and Thermal Physics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHYSICS 129</td><td>Particle Physics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 130</td><td>Quantum and Nonlinear Optics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PHYSICS 137A</td><td>Quantum Mechanics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 137B</td><td>Quantum Mechanics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PHYSICS 138</td><td>Modern Atomic Physics</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 139</td><td>Special Relativity and General Relativity</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PHYSICS 141A</td><td>Solid State Physics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 141B</td><td>Solid State Physics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PHYSICS 142</td><td>Introduction to Plasma Physics</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 151</td><td>Elective Physics: Special Topics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PHYSICS C161</td><td>Relativistic Astrophysics and Cosmology</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PHYSICS 177</td><td>Principles of Molecular Biophysics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI 101L</td><td>Experimental Plant Biology Laboratory</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI C103</td><td>Bacterial Pathogenesis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI C107L</td><td>Principles of Plant Morphology with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI C109</td><td>Evolution and Ecology of Development</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI C110L</td><td>Biology of Fungi with Laboratory</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI C112</td><td>General Microbiology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PLANTBI 113</td><td>California Mushrooms</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI C114</td><td>Introduction to Comparative Virology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PLANTBI C116</td><td>Microbial Diversity</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI 120<br/><span style="margin-left:20px;" class="blockindent">&amp; 120L</span></td><td>Biology of Algae<br/><span style="margin-left:20px;" class="blockindent">and Laboratory for Biology of Algae</span></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PLANTBI C124</td><td>The Berkeley Lectures on Energy: Energy from Biomass</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI C134</td><td>Chromosome Biology/Cytogenetics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI 135</td><td>Physiology and Biochemistry of Plants</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI C148</td><td>Microbial Genomics and Genetics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PLANTBI 150</td><td>Plant Cell Biology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI 160</td><td>Plant Molecular Genetics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI 165</td><td>Plant-Microbe Interactions</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PLANTBI 185</td><td>Techniques in Light Microscopy</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PLANTBI 190</td><td>Special Topics in Plant and Microbial Biology (only when taken for 3-4 units)</td><td class="hourscol">3-4</td></tr>
+<tr class="odd"><td class="codecol">POL SCI C131A</td><td>Applied Econometrics and Public Policy</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">POL SCI 133</td><td>Selected Topics in Quantitative Methods</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 110</td><td>Introduction to Biological Psychology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH C113</td><td>Biological Clocks: Physiology and Behavior</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 114</td><td>Biology of Learning</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH C116</td><td>Hormones and Behavior</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 117</td><td>Human Neuropsychology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH C120</td><td>Basic Issues in Cognition</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 121</td><td>Animal Cognition</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH 122</td><td>Introduction to Human Learning and Memory</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 125</td><td>The Developing Brain</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH C126</td><td>Perception</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH C127</td><td>Cognitive Neuroscience</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH C129</td><td>Scientific Approaches to Consciousness</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 130</td><td>Clinical Psychology</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH 131</td><td>Developmental Psychopathology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 133</td><td>Psychology of Sleep</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH 140</td><td>Developmental Psychology</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 141</td><td>Development During Infancy</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH C143</td><td>Language Acquisition</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PSYCH 150</td><td>Psychology of Personality</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PSYCH 164</td><td>Social Cognition</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PB HLTH C102</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">PB HLTH 112</td><td>Global Health: A Multidisciplinary Examination</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PB HLTH 126</td><td>Health Economics and Public Policy</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PB HLTH C129</td><td>Course Not Available</td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">PB HLTH 150A</td><td>Introduction to Epidemiology and Human Disease</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PB HLTH 150B</td><td>Introduction to Environmental Health Sciences</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PB HLTH 162A</td><td>Public Health Microbiology</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PB HLTH 170B</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">PB HLTH 250A</td><td>Epidemiologic Methods I</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">PB HLTH 252B</td><td>Modeling the Dynamics of Infectious Disease Processes (only when taken for 3-4 units)</td><td class="hourscol">3-4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">NOT Pb Hlth 141, 142, 142AB, W142, or 145</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">PUB POL 101</td><td>Introduction to Public Policy Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PUB POL C103</td><td>Wealth and Poverty</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">PUB POL C142</td><td>Applied Econometrics and Public Policy</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">PUB POL C184</td><td>Energy and Society</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">RHETOR 107</td><td>Rhetoric of Scientific Discourse</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">RHETOR 170</td><td>Rhetoric of Social Science</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">SOCIOL 105</td><td>Research Design and Sociological Methods</td><td class="hourscol">5</td></tr>
+<tr class="odd"><td class="codecol">SOCIOL 106</td><td>Quantitative Sociological Methods</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">SOCIOL 108</td><td>Advanced Methods: In-depth Interviewing</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">UGBA 101A</td><td>Microeconomic Analysis for Business Decisions</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">UGBA 101B</td><td>Macroeconomic Analysis for Business Decisions</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 102A</td><td>Financial Accounting</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">UGBA 102B</td><td>Managerial Accounting</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 103</td><td>Introduction to Finance <sup>5</sup></td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">UGBA 106</td><td>Marketing <sup>5</sup></td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 118</td><td>International Trade</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">UGBA 119</td><td>Leading Strategy Implementation</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 120AA</td><td>Intermediate Financial Accounting 1</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">UGBA 120AB</td><td>Intermediate Financial Accounting 2</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">UGBA 120B</td><td>Advanced Financial Accounting</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">UGBA 122</td><td>Financial Information Analysis</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">UGBA 126</td><td>Auditing</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">UGBA 131</td><td>Corporate Finance and Financial Statement Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 132</td><td>Financial Institutions and Markets</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">UGBA 133</td><td>Investments</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 134</td><td>Introduction to Financial Engineering</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">UGBA 136F</td><td>Behavioral Finance</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 141</td><td>Production and Operations Management</td><td class="hourscol">2-3</td></tr>
+<tr class="even"><td class="codecol">UGBA 160</td><td>Consumer Behavior</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 161</td><td>Market Research: Tools and Techniques for Data Collection and Analysis</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">UGBA 162</td><td>Brand Management and Strategy</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 165</td><td>Advertising Strategy</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">UGBA 169</td><td>Pricing</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">UGBA 180</td><td>Introduction to Real Estate and Urban Land Economics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">UGBA 183</td><td>Introduction to Real Estate Finance</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol">UGBA 184</td><td>Urban and Real Estate Economics</td><td class="hourscol">3</td></tr>
+</tbody></table>
+
+<table border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol"><sup>1</sup></td><td class="notecol"><p>Students who have completed any of the math prerequisites at a non-UC institution should look at the <a href="http://statistics.berkeley.edu/programs/undergrad/major/faq" target="_blank">Statistics Major Frequently Asked Questions</a> on the Statistics Department website.</p></td></tr><tr><td valign="top" class="symcol"><sup>2</sup></td><td class="notecol"><p>No more than one course repeated between <span class="sc_courseinline">STAT 134</span> (or <span class="sc_courseinline">STAT 140</span>) and <span class="sc_courseinline">STAT 135</span>.</p></td></tr><tr><td valign="top" class="symcol"><sup>3</sup></td><td class="notecol"><p>Other non-statistics UC Berkeley courses, such as <span class="sc_courseinline">IND ENG 172</span>, cannot be used to fulfill this requirement.</p></td></tr><tr><td valign="top" class="symcol"><sup>4</sup></td><td class="notecol"><p>Due to overlap of course content, only one course from <span class="sc_courseinline">STAT 154</span>, <span class="sc_courseinline">COMPSCI 182</span>, <span class="sc_courseinline">COMPSCI 189</span>, and <span class="sc_courseinline">IND ENG 142</span> can be used to satisfy Statistics major requirements.</p></td></tr><tr><td valign="top" class="symcol"><sup>5</sup></td><td class="notecol"><p>Due to overlap of course content, only one course from <span class="sc_courseinline">ECON 136</span>, <span class="sc_courseinline">ENGIN 120</span> and <span class="sc_courseinline">UGBA 103</span> can be used to satisfy Statistics major requirements.</p></td></tr><tr><td valign="top" class="symcol"><sup>6</sup></td><td class="notecol"><p>If <span class="sc_courseinline">MATH 110</span> or <span class="sc_courseinline">MATH H110</span> has been used to satisfy the math prerequisite requirement, course cannot be used for the applied cluster.</p></td></tr><tr><td valign="top" class="symcol"><sup>7</sup></td><td class="notecol"><p><span class="sc_courseinline">MATH 170</span> cannot be combined with either <span class="sc_courseinline">IND ENG 160</span> or <span class="sc_courseinline">IND ENG 162</span>.</p></td></tr></table>
+]]>
+</majorrequirementstext>
+<minorrequirementstext>
+<![CDATA[
+<p>Students who have a strong interest in an area of study outside their major often decide to complete a minor program. These programs have set requirements and are noted officially on the transcript in the memoranda section, but they are not noted on diplomas.</p>
+<h3>General Guidelines</h3>
+<ol>
+	<li>All courses taken to fulfill the minor requirements below must be taken for graded credit.</li>
+	<li>A minimum of three of the upper division courses taken to fulfill the minor requirements must be completed at UC Berkeley.</li>
+	<li>A minimum grade point average (GPA) of 2.0 is required for courses used to fulfill the minor requirements.</li>
+	<li>Courses used to fulfill the minor requirements may be applied toward the Seven-Course Breadth requirement, for Letters &amp; Science students.</li>
+	<li>No more than one upper division course may be used to simultaneously fulfill requirements for a student's major and minor programs.</li>
+	<li>All minor requirements must be completed prior to the last day of finals during the semester in which the student plans to graduate. Students who cannot finish all courses required for the minor by that time should see a College of Letters &amp; Science adviser.</li>
+	<li>All minor requirements must be completed within the unit ceiling. (For further information regarding the unit ceiling, please see the College Requirements tab.)</li>
+</ol>
+<h3>Requirements</h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Lower Division Prerequisites</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">MATH 1A</td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 1B</td><td>Calculus</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 53</td><td>Multivariable Calculus</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">MATH 54</td><td>Linear Algebra and Differential Equations</td><td class="hourscol">4</td></tr>
+<tr class="odd areaheader "><td colspan="2"><span class="courselistcomment areaheader ">Upper Division Requirements</span></td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol">STAT 134</td><td>Concepts of Probability</td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or STAT 140</td><td colspan="2"> Probability for Data Science</td></tr>
+<tr class="odd"><td class="codecol">STAT 135</td><td>Concepts of Statistics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Select three statistics electives from the following; at least one of the selections must have a lab:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">STAT 150</td><td>Stochastic Processes</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">STAT 151A</td><td>Linear Modelling: Theory and Applications (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">STAT 152</td><td>Sampling Surveys (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 153</td><td>Introduction to Time Series (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">STAT 154</td><td>Modern Statistical Prediction and Machine Learning (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 155</td><td>Game Theory</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">STAT 157</td><td>Seminar on Topics in Probability and Statistics</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">STAT 158</td><td>The Design and Analysis of Experiments (LAB COURSE)</td><td class="hourscol">4</td></tr>
+<tr class="odd lastrow"><td class="codecol">STAT 159</td><td>Reproducible and Collaborative Statistical Data Science (LAB COURSE)</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+]]>
+</minorrequirementstext>
+<collegerequirementstext>
+<![CDATA[
+ <p>Undergraduate students must fulfill the following requirements in addition to those required by their major program.</p> <p>For detailed lists of courses that fulfill college requirements, please review the <a href="/2018-19/undergraduate/colleges-schools/letters-science/">College of Letters &amp; Sciences</a> page in this Guide. For College advising appointments, please visit the <a href="https://ls.berkeley.edu/advising/about-undergraduate-advising-services">L&amp;S Advising</a> Pages. </p> <h3>University of California Requirements</h3> <h5><a href="http://writing.berkeley.edu/node/78"><span id="docs-internal-guid-82322469-d403-b6fc-99fe-5be6e0865dad">Entry Level Writing</span></a></h5> <p><span id="docs-internal-guid-82322469-d403-c602-c395-1fb0f53c604b">All students who will enter the University of California as freshmen must demonstrate their command of the English language by fulfilling the Entry Level Writing requirement. Fulfillment of this requirement is also a prerequisite to enrollment in all reading and composition courses at UC Berkeley. </span></p> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/american-history-institutions-requirement/"><span id="docs-internal-guid-82322469-d403-ed90-bc30-8e7c7e9092f7">American History and American Institutions</span></a></h5> <p><span id="docs-internal-guid-82322469-d403-fe3e-933e-7102e097ef4b">The American History and Institutions requirements are based on the principle that a US resident graduated from an American university, should have an understanding of the history and governmental institutions of the United States.</span></p> <h3><span>Berkeley Campus Requirement</span></h3> <h5><a href="http://americancultures.berkeley.edu/students/courses"><span id="docs-internal-guid-82322469-d404-3abc-dc51-fc563caacff1">American Cultures</span></a></h5> <p><span id="docs-internal-guid-82322469-d404-47e1-1ad4-b918d33461cf">All undergraduate students at Cal need to take and pass this course in order to graduate. The requirement offers an exciting intellectual environment centered on the study of race, ethnicity and culture of the United States. AC courses offer students opportunities to be part of research-led, highly accomplished teaching environments, grappling with the complexity of American Culture.</span></p> <h3><span>College of Letters &amp; Science Essential Skills Requirements</span></h3> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/quantitative-reasoning-requirement/"><span id="docs-internal-guid-82322469-d404-a7b1-d295-ee03b476bcfe">Quantitative Reasoning</span></a></h5> <p><span id="docs-internal-guid-82322469-d404-cbac-1c7a-d74abefae398">The Quantitative Reasoning requirement is designed to ensure that students graduate with basic understanding and competency in math, statistics, or computer science. The requirement may be satisfied by exam or by taking an approved course.</span></p> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/foreign-language-requirement/"><span id="docs-internal-guid-82322469-d404-ff23-6ff3-47abec092456">Foreign Language</span></a></h5> <p><span id="docs-internal-guid-82322469-d405-12d9-db19-1b37f6639ef7">The Foreign Language requirement may be satisfied by demonstrating proficiency in reading comprehension, writing, and conversation in a foreign language equivalent to the second semester college level, either by passing an exam or by completing approved course work.</span></p> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/reading-composition-requirement/"><span id="docs-internal-guid-82322469-d405-3e15-2491-27223f91e87d">Reading and Composit</span>ion</a></h5> <p><span id="docs-internal-guid-82322469-d405-4ef4-4b87-0d26195a0d3c">In order to provide </span>a solid foundation in reading, writing, and critical thinking the College requires two semesters of lower division work in composition in sequence. Students must complete parts A &amp; B reading and composition courses by the end of their second semester and a second-level course by the end of their fourth semester.</p> <h3>College of Letters &amp; Science 7 Course Breadth Requirements</h3> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/#breadthrequirementstext"><span id="docs-internal-guid-79a9fe70-d405-7c7e-e34f-837b91cc1d58">Breadth Requirements</span></a></h5> <p><span id="docs-internal-guid-82322469-d405-9db4-c30e-bca05ecf44f3">The undergraduate breadth requirements provide Berkeley students with a rich and varied educational experience outside of their major program. As the foundation of a liberal arts education, breadth courses give students a view into the intellectual life of the University while introducing them to a multitude of perspectives and approaches to research and scholarship. Engaging students in new disciplines and with peers from other majors, the breadth experience strengthens interdisciplinary connections and context that prepares Berkeley graduates to understand and solve the complex issues of their day.</span></p> <h3><span id="docs-internal-guid-abca8c8f-d405-c4ad-0be7-1638c654345c">Unit Requirements</span></h3> <ul> 	<li> 	<p>120 total units</p> 	</li> 	<li> 	<p>Of the 120 units, 36 must be upper division units</p> 	</li> 	<li>Of the 36 upper division units, 6 must be taken in courses offered outside your major department</li> </ul> <h5><span id="docs-internal-guid-2bb674c5-d406-43a4-39ed-40d6e86d6760">Residence Requirements</span></h5> <p><span id="docs-internal-guid-82322469-d406-8d38-492a-067b2e0bac2d">For units to be considered in &quot;residence,&quot; you must be registered in courses on the Berkeley campus as a student in the College of Letters &amp; Science. Most students automatically fulfill the residence requirement by attending classes here for four years. In general, there is no need to be concerned about this requirement, unless you go abroad for a semester or year or want to take courses at another institution or through UC Extension during your senior year. In these cases, you should make an appointment to meet an adviser to determine how you can meet the Senior Residence Requirement.</span></p> <p><span id="docs-internal-guid-82322469-d406-a2e5-35d5-82895d287218">Note: Courses taken through UC Extension do not count toward residence.</span></p> <h5><span id="docs-internal-guid-44b2bced-d406-cb13-a0f5-0c6f75ed8972">Senior Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d406-e3bd-f620-e9bef1331f97">After you become a senior (with 90 semester units earned toward your BA degree), you must complete at least 24 of the remaining 30 units in residence in at least two semesters. To count as residence, a semester must consist of at least 6 passed units. Intercampus Visitor, EAP, and UC Berkeley-Washington Program (UCDC) units are excluded.</span></p> <p><span id="docs-internal-guid-82322469-d406-f7f7-c9da-c2732368bc4e">You may use a Berkeley Summer Session to satisfy one semester of the Senior Residence requirement, provided that you successfully complete 6 units of course work in the Summer Session and that you have been enrolled previously in the college.</span></p> <h5><span id="docs-internal-guid-abb18f5b-d407-0e0f-9d41-83c0ea3c3c7b">Modified Senior Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d407-3956-aeef-b67b71969fca">Participants in the UC Education Abroad Program (EAP), Berkeley Summer Abroad, or the UC Berkeley Washington Program (UCDC) may meet a Modified Senior Residence requirement by completing 24 (excluding EAP) of their final 60 semester units in residence. At least 12 of these 24 units must be completed after you have completed 90 units.</span></p> <h5><span id="docs-internal-guid-62f287bf-d407-4ca6-5bbd-2d1393418d66">Upper Division Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d407-6060-9575-98782777275a">You must complete in residence a minimum of 18 units of upper division courses (excluding UCEAP units), 12 of which must satisfy the requirements for your major.</span></p>
+]]>
+</collegerequirementstext>
+<studentlearninggoalstext>
+<![CDATA[
+<h3>Mission</h3>
+<p>Statisticians help to design data collection plans, analyze data appropriately, and interpret and draw conclusions from those analyses. The central objective of the undergraduate major in Statistics is to equip students with consequently requisite quantitative skills that they can employ and build on in flexible ways.</p>
+<h3>Learning Goals for the Major</h3>
+<p>Majors are expected to learn concepts and tools for working with data and have experience in analyzing real data that goes beyond the content of a service course in statistical methods for non-majors. Majors should understand the following:</p>
+<ol>
+	<li>The fundamentals of probability theory</li>
+	<li>Statistical reasoning and inferential methods</li>
+	<li>Statistical computing</li>
+	<li>Statistical modeling and its limitations </li>
+</ol>
+<h3>Skills</h3>
+<p>Graduates should also have skills in the following:</p>
+<ol>
+	<li>Description, interpretation, and exploratory analysis of data by graphical and other means</li>
+	<li>Effective communication</li>
+</ol>
+]]>
+</studentlearninggoalstext>
+<coursestext>
+<![CDATA[
+<h3>Statistics</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat0px" data-toggle="#cb_stat0px">
+<h3 class="courseblocktitle">
+<span class="code">STAT 0PX</span> 
+<span class="title">Preparatory Statistics</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat0px">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2016 10 Week Session, Summer 2015 10 Week Session, Summer 2014 10 Week Session<br/>
+This course assists entering Freshman students with basic statistical concepts and problem solving. Designed for students who do not meet the prerequisites for 2. Offered through the Student Learning Center.</span><br/>
+ <a href="" class="btn-readmore"><span>Preparatory Statistics:</span> Read More [+]</a></p>
+<div id="401" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 5 hours of lecture and 4.5 hours of workshop per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 5 hours of lecture and 4.5 hours of workshop per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of Lecture and Four and one-half hours of Workshop per week for 8 weeks. Five hours of Lecture and Four and one-half hours of Workshop per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam required. </p><p><strong>Instructor:</strong> Purves</p></div>
+<p><a href="" class="btn-readless"><span>Preparatory Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat2" data-toggle="#cb_stat2">
+<h3 class="courseblocktitle">
+<span class="code">STAT 2</span> 
+<span class="title">Introduction to Statistics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat2">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2020 8 Week Session, Summer 2020 Second 6 Week Session, Spring 2020<br/>
+Population and variables. Standard measures of location, spread and association. Normal approximation. Regression. Probability and sampling. Binomial distribution. Interval estimation. Some standard significance tests.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Statistics:</span> Read More [+]</a></p>
+<div id="380" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students who have taken 2X, 5, 20, 21, 21X, or 25 will receive no credit for 2.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 7.5 hours of lecture and 5 hours of laboratory per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 5 hours of lecture and 4 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of laboratory per week. Five hours of lecture and four hours of laboratory per week for 8 weeks. Seven and one-half hours of lecture and five hours of laboratory per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_statc8" data-toggle="#cb_statc8">
+<h3 class="courseblocktitle">
+<span class="code">STAT C8</span> 
+<span class="title">Foundations of Data Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_statc8">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019, Spring 2019, Summer 2018 8 Week Session, Spring 2018<br/>
+Foundations of data science from three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis</span><span class="deschide"> of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social and legal issues surrounding data analysis, including issues of privacy and data ownership.</span><br/>
+ <a href="" class="btn-readmore"><span>Foundations of Data Science:</span> Read More [+]</a></p>
+<div id="640" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> This course may be taken on its own, but students are encouraged to take it concurrently with a data science connector course (numbered 88 in a range of departments)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-3 hours of lecture and 2-2 hours of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 4 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of laboratory per week. Six hours of lecture and four hours of laboratory per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> COMPSCI C8/INFO C8</p></div>
+<p><a href="" class="btn-readless"><span>Foundations of Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_statc8r" data-toggle="#cb_statc8r">
+<h3 class="courseblocktitle">
+<span class="code">STAT C8R</span> 
+<span class="title">Introduction to Computational Thinking with Data</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_statc8r">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Prior to 2007<br/>
+An introduction to computational thinking and quantitative reasoning, preparing students for further coursework, especially Foundations of Data Science (CS/Info/Stat C8). Emphasizes the use of computation to gain insight about quantitative problems with real data. Expressions, data types, collections, and tables in Python. Programming practices, abstraction, and iteration. Visualizing univariate and bivariate data with bar charts, histograms, plots, and maps. Introduction</span><span class="deschide"> to statistical concepts including averages and distributions, predicting one variable from another, association and causality, probability and probabilistic simulation. Relationship between numerical functions and graphs. Sampling and introduction to inference.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Computational Thinking with Data:</span> Read More [+]</a></p>
+<div id="441" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> C8R also includes quantitative reasoning concepts that aren’t covered in Data 8. These include certain topics in: principles of data visualization; simulation of random processes; and understanding numerical functions through their graphs. This will help prepare students for computational and quantitative courses other than Data 8.<br/>C8R takes advantage of the complementarity of computing and quantitative reasoning to enliven abstract ideas and build students’ confidence in their ability to solve real problems with quantitative tools. Students learn computer science concepts and immediately apply them to plot functions, visualize data, and simulate random events.<br/>
+<br/>Foundations of Data Science (CS/Info/Stat C8, a.k.a. Data 8) is an increasingly popular class for entering students at Berkeley. Data 8 builds students’ computing skills in the first month of the semester, and students rely on these skills as the course progresses. For some students, particularly those with little prior exposure to computing, developing these skills benefits from further time and practice. C8R is a rapid introduction to Python programming, visualization, and data analysis, which will prepare students for success in Data 8.</p><p><strong>Student Learning Outcomes:</strong> Students will be able to perform basic computations in Python, including working with tabular data.<br/>
+Students will be able to understand basic probabilistic simulations.<br/>
+Students will be able to understand the syntactic structure of Python code.<br/>
+Students will be able to use good practices in Python programming.<br/>
+Students will be able to use visualizations to understand univariate data and to identify associations or causal relationships in bivariate data.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students who have taken COMPSCI/INFO/STAT C8 will receive no credit for COMPSCI/STAT C8R.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 6 weeks - 4 hours of lecture, 2 hours of discussion, and 4 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture and four hours of laboratory and two hours of discussion per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Adhikari</p><p><strong>Also listed as:</strong> COMPSCI C8R</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Computational Thinking with Data:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat20" data-toggle="#cb_stat20">
+<h3 class="courseblocktitle">
+<span class="code">STAT 20</span> 
+<span class="title">Introduction to Probability and Statistics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat20">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019<br/>
+For students with mathematical background who wish to acquire basic concepts. Relative frequencies, discrete probability, random variables, expectation. Testing hypotheses. Estimation. Illustrations from various fields.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Probability and Statistics:</span> Read More [+]</a></p>
+<div id="697" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> One semester of calculus</p><p><strong>Credit Restrictions:</strong> Students who have taken 2, 2X, 5, 21, 21X, or 25 will receive no credit for 20.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and Two hours of Laboratory per week for 15 weeks. Six hours of Lecture and Three hours of Laboratory per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Probability and Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat21" data-toggle="#cb_stat21">
+<h3 class="courseblocktitle">
+<span class="code">STAT 21</span> 
+<span class="title">Introductory Probability and Statistics for Business</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat21">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+Descriptive statistics, probability models and related concepts, sample surveys, estimates, confidence intervals, tests of significance, controlled experiments vs. observational studies, correlation and regression.</span><br/>
+ <a href="" class="btn-readmore"><span>Introductory Probability and Statistics for Business:</span> Read More [+]</a></p>
+<div id="85" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> One semester of calculus</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Statistics 21 after completing Statistics 2, 2X, 5, 20, 21X, N21, W21 or 25 . A deficiency in Statistics 21 may be moved by taking W21.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 5 hours of lecture and 4 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and Two hours of Laboratory per week for 15 weeks. Five hours of Lecture and Four hours of Laboratory per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introductory Probability and Statistics for Business:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_statw21" data-toggle="#cb_statw21">
+<h3 class="courseblocktitle">
+<span class="code">STAT W21</span> 
+<span class="title">Introductory Probability and Statistics for Business</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_statw21">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2020 8 Week Session, Summer 2019 8 Week Session, Spring 2019<br/>
+Reasoning and fallacies, descriptive statistics, probability models and related concepts, combinatorics, sample surveys, estimates, confidence intervals, tests of significance, controlled experiments vs. observational studies, correlation and regression.</span><br/>
+ <a href="" class="btn-readmore"><span>Introductory Probability and Statistics for Business:</span> Read More [+]</a></p>
+<div id="935" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> One semester of calculus</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Statistics W21 after completing Statistics 2, 20, 21, N21 or 25. A deficient grade in Statistics 21, N21 maybe removed by taking Statistics W21.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 8 weeks - 7.5 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Web-based lecture per week for 15 weeks. Seven and one-half hours of Web-based lecture per week for 8 weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> N21</p></div>
+<p><a href="" class="btn-readless"><span>Introductory Probability and Statistics for Business:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat24" data-toggle="#cb_stat24">
+<h3 class="courseblocktitle">
+<span class="code">STAT 24</span> 
+<span class="title">Freshman Seminars</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat24">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Fall 2003, Spring 2001<br/>
+The Berkeley Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small-seminar setting. Berkeley seminars are offered in all campus departments, and topics vary from department to department and semester to semester. Enrollment limited to 15 freshmen.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman Seminars:</span> Read More [+]</a></p>
+<div id="444" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman Seminars:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat33a" data-toggle="#cb_stat33a">
+<h3 class="courseblocktitle">
+<span class="code">STAT 33A</span> 
+<span class="title">Introduction to Programming in R</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat33a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019<br/>
+An introduction to the R statistical software for students with minimal prior experience with programming. This course prepares students for data analysis with R. The focus is on the computational model that underlies the R language with the goal of providing a foundation for coding. Topics include data types and structures, such as vectors, data frames and lists; the REPL evaluation model; function calls, argument matching, and environments; writing simple</span><span class="deschide"> functions and control flow. Tools for reading, analyzing, and plotting data are covered, such as data input/output, reshaping data, the formula language, and graphics models.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Programming in R:</span> Read More [+]</a></p>
+<div id="87" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for STAT 33A after completing STAT 33B, or STAT 133. A deficient grade in STAT 33A may be removed by taking STAT 33B, or STAT 133.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 1 hour of laboratory per week</p><p><strong>Summer:</strong> 6 weeks - 2 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture and one hour of laboratory per week. Two hours of lecture and three hours of laboratory per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Programming in R:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat33b" data-toggle="#cb_stat33b">
+<h3 class="courseblocktitle">
+<span class="code">STAT 33B</span> 
+<span class="title">Introduction to Advanced Programming in R</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat33b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019<br/>
+The course is designed primarily for those who are already familiar with programming in another language, such as python, and want to understand how R works, and for those who already know the basics of R programming and want to gain a more in-depth understanding of the language in order to improve their coding. The focus is on the underlying paradigms in R, such as functional programming, atomic vectors, complex data structures, environments, and object</span><span class="deschide"> systems. The goal of this course is to better understand programming principles in general and to write better R code that capitalizes on the language's design.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Advanced Programming in R:</span> Read More [+]</a></p>
+<div id="357" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Compsci 61A or equivalent programming background</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for STAT 33B after completing STAT 133. A deficient grade in STAT 33B may be removed by taking STAT 133.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture and 1 hour of laboratory per week</p><p><strong>Summer:</strong> 6 weeks - 2 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture and one hour of laboratory per week. Two hours of lecture and three hours of laboratory per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Advanced Programming in R:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat39d" data-toggle="#cb_stat39d">
+<h3 class="courseblocktitle">
+<span class="code">STAT 39D</span> 
+<span class="title">Freshman/Sophomore Seminar</span> 
+<span class="hours">2 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat39d">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2008, Fall 2007<br/>
+Freshman and sophomore seminars offer lower division students the opportunity to explore an intellectual topic with a faculty member and a group of peers in a small-seminar setting. These seminars are offered in all campus departments; topics vary from department to department and from semester to semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Freshman/Sophomore Seminar:</span> Read More [+]</a></p>
+<div id="983" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Priority given to freshmen and sophomores</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-4 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Seminar format.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> The grading option will be decided by the instructor when the class is offered. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman/Sophomore Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_statc79" data-toggle="#cb_statc79">
+<h3 class="courseblocktitle">
+<span class="code">STAT C79</span> 
+<span class="title">Societal Risks and the Law</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_statc79">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2013<br/>
+Defining, perceiving, quantifying and measuring risk; identifying risks and estimating their importance; determining whether laws and regulations can protect us from these risks; examining how well existing laws work and how they could be improved; evaluting costs and benefits. Applications may vary by term. This course cannot be used to complete engineering unit or technical elective requirements for students in the College of Engineering.</span><br/>
+ <a href="" class="btn-readmore"><span>Societal Risks and the Law:</span> Read More [+]</a></p>
+<div id="835" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Also listed as:</strong> COMPSCI C79/POL SCI C79</p></div>
+<p><a href="" class="btn-readless"><span>Societal Risks and the Law:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat88" data-toggle="#cb_stat88">
+<h3 class="courseblocktitle">
+<span class="code">STAT 88</span> 
+<span class="title">Probability and Mathematical Statistics in Data Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat88">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+In this connector course we will state precisely and prove results discovered while exploring data in Data 8. Topics include: probability, conditioning, and independence; random variables; distributions and joint distributions; expectation, variance, tail bounds; Central Limit Theorem; symmetries in random permutations; prior and posterior distributions; probabilistic models; bias-variance tradeoff; testing hypotheses; correlation and the regression</span><span class="deschide"> model.</span><br/>
+ <a href="" class="btn-readmore"><span>Probability and Mathematical Statistics in Data Science:</span> Read More [+]</a></p>
+<div id="573" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Prerequisite: one semester of calculus at the level of Math 16A, Math 10A, or Math 1A. Corequisite or Prerequisite: Foundations of Data Science (COMPSCI C8 / DATASCI C8 / INFO C8 / STAT C8)</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for STAT 88 after completing STAT 134, STAT 140, STAT 135, or STAT 102.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Probability and Mathematical Statistics in Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat89a" data-toggle="#cb_stat89a">
+<h3 class="courseblocktitle">
+<span class="code">STAT 89A</span> 
+<span class="title">Linear Algebra for Data Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat89a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+An introduction to linear algebra for data science. The course will cover introductory topics in linear algebra, starting with the basics; discrete probability and how prob- ability can be used to understand high-dimensional vector spaces; matrices and graphs as popular mathematical structures with which to model data (e.g., as models for term-document corpora, high-dimensional regression problems, ranking/classification of web data, adjacency</span><span class="deschide"> properties of social network data, etc.); and geometric approaches to eigendecompositions, least-squares, principal components analysis, etc.</span><br/>
+ <a href="" class="btn-readmore"><span>Linear Algebra for Data Science:</span> Read More [+]</a></p>
+<div id="470" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> One year of calculus. Prerequisite or corequisite: Foundations of Data Science (COMPSCI C8 / INFO C8 / STAT C8)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Linear Algebra for Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat94" data-toggle="#cb_stat94">
+<h3 class="courseblocktitle">
+<span class="code">STAT 94</span> 
+<span class="title">Special Topics in Probability and Statistics</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat94">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015<br/>
+Topics will vary semester to semester.</span><br/>
+ <a href="" class="btn-readmore"><span>Special Topics in Probability and Statistics:</span> Read More [+]</a></p>
+<div id="750" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of lecture and 0-2 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One to three hours of lecture and zero to two hours of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Probability and Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat97" data-toggle="#cb_stat97">
+<h3 class="courseblocktitle">
+<span class="code">STAT 97</span> 
+<span class="title">Field Study in Statistics</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat97">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015, Spring 2012<br/>
+Supervised experience relevant to specific aspects of statistics in off-campus settings. Individual and/or group meetings with faculty.</span><br/>
+ <a href="" class="btn-readmore"><span>Field Study in Statistics:</span> Read More [+]</a></p>
+<div id="9" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of fieldwork per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-7.5 hours of fieldwork per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-5.5 hours of fieldwork per week</p><!--<p class=""><strong>Additional Format:</strong> One to three hours of fieldwork per week. One and one-half to five and one-half hours of fieldwork per week for 8 weeks. Two and one-half to seven and one-half hours of fieldwork per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Field Study in Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat98" data-toggle="#cb_stat98">
+<h3 class="courseblocktitle">
+<span class="code">STAT 98</span> 
+<span class="title">Directed Group Study</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat98">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2014, Fall 2013, Spring 2013<br/>
+Must be taken at the same time as either Statistics 2 or 21. This course assists lower division statistics students with structured problem solving, interpretation and making conclusions.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study:</span> Read More [+]</a></p>
+<div id="249" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-3 hours of directed group study per week</p><p><strong>Summer:</strong> 8 weeks - 4-6 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> Two to three hours of directed group study per week. Four to six hours of directed group study per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_statc100" data-toggle="#cb_statc100">
+<h3 class="courseblocktitle">
+<span class="code">STAT C100</span> 
+<span class="title">Principles &amp; Techniques of Data Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_statc100">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019, Spring 2019<br/>
+In this course, students will explore the data science lifecycle, including question formulation, data collection and cleaning, exploratory data analysis and visualization, statistical inference and prediction​, and decision-making.​ This class will focus on quantitative critical thinking​ and key principles and techniques needed to carry out this cycle. These include languages for transforming, querying and analyzing</span><span class="deschide"> data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.</span><br/>
+ <a href="" class="btn-readmore"><span>Principles &amp; Techniques of Data Science:</span> Read More [+]</a></p>
+<div id="133" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Computer Science/Information/Statistics C8; and either Computer Science 61A, Computer Science 88 or Engineering 7. Corequisite: Mathematics 54 or Electrical Engineering 16A. Computer Science C8 Computer Science 61A Computer Science 88 Engineering 7 Mathematics 54 Electrical Engineering 16A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 1 hour of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture, 2 hours of discussion, and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion and one hour of laboratory per week. Six hours of lecture and two hours of discussion and two hours of laboratory per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> COMPSCI C100</p></div>
+<p><a href="" class="btn-readless"><span>Principles &amp; Techniques of Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat102" data-toggle="#cb_stat102">
+<h3 class="courseblocktitle">
+<span class="code">STAT 102</span> 
+<span class="title">Data, Inference, and Decisions</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat102">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2001<br/>
+This course develops the probabilistic foundations of inference in data science, and builds a comprehensive view of the modeling and decision-making life cycle in data science including its human, social, and ethical implications. Topics include: frequentist and Bayesian decision-making, permutation testing, false discovery rate, probabilistic interpretations of models, Bayesian hierarchical models, basics of experimental design, confidence</span><span class="deschide"> intervals, causal inference, Thompson sampling, optimal control, Q-learning, differential privacy, clustering algorithms, recommendation systems and an introduction to machine learning tools including decision trees, neural networks and ensemble methods.</span><br/>
+ <a href="" class="btn-readmore"><span>Data, Inference, and Decisions:</span> Read More [+]</a></p>
+<div id="316" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 54 or Mathematics 110 or Statistics 89A or Physics 89 or both of Electrical Engineering and Computer Science 16A and Electrical Engineering and Computer Science 16B; Statistics/Computer Science C100; and any of Electrical Engineering and Computer Science 126, Statistics 140, Statistics 134, Industrial Engineering and Operations Research 172. Statistics 140 or Electrical Engineering and Computer Science 126 are preferred</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for STAT 102 after completing STAT 102. A deficient grade in STAT 102 may be removed by taking STAT 102.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 1 hour of discussion, and 1 hour of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion and one hour of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Data, Inference, and Decisions:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat131a" data-toggle="#cb_stat131a">
+<h3 class="courseblocktitle">
+<span class="code">STAT 131A</span> 
+<span class="title">Statistical Methods for Data Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat131a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This course teaches a broad range of statistical methods that are used to solve data problems. Topics include group comparisons and ANOVA, standard parametric statistical models, multivariate data visualization, multiple linear regression, logistic regression and classification, regression trees and random forests. An important focus of the course is on statistical computing and reproducible statistical analysis. The course and lab include</span><span class="deschide"> hands-on experience in analyzing real world data from the social, life, and physical sciences. The R statistical language is used.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Statistical Methods for Data Science:</span> Read More [+]</a></p>
+<div id="790" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Statistics/Computer Science/Information C8 or Statistics 20; and Mathematics 1A, Mathematics 16A, or Mathematics 10A/10B. Strongly recommended corequisite: Statistics 33A or Statistics 133</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Statistical Methods for Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat133" data-toggle="#cb_stat133">
+<h3 class="courseblocktitle">
+<span class="code">STAT 133</span> 
+<span class="title">Concepts in Computing with Data</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat133">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results.</span><br/>
+ <a href="" class="btn-readmore"><span>Concepts in Computing with Data:</span> Read More [+]</a></p>
+<div id="815" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><p><strong>Summer:</strong> 10 weeks - 4 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of computer laboratory per week. Four hours of lecture and three hours of computer laboratory per week for ten weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Concepts in Computing with Data:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat134" data-toggle="#cb_stat134">
+<h3 class="courseblocktitle">
+<span class="code">STAT 134</span> 
+<span class="title">Concepts of Probability</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat134">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019<br/>
+An introduction to probability, emphasizing concepts and applications. Conditional expectation, independence, laws of large numbers. Discrete and continuous random variables. Central limit theorem. Selected topics such as the Poisson process, Markov chains, characteristic functions.</span><br/>
+ <a href="" class="btn-readmore"><span>Concepts of Probability:</span> Read More [+]</a></p>
+<div id="716" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> One year of calculus</p><p><strong>Credit Restrictions:</strong> Students will not receive credit for 134 after taking 140 or 201A.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of discussion per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 4 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of discussion per week. Six hours of lecture and four hours of discussion per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Concepts of Probability:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat135" data-toggle="#cb_stat135">
+<h3 class="courseblocktitle">
+<span class="code">STAT 135</span> 
+<span class="title">Concepts of Statistics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat135">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019<br/>
+A comprehensive survey course in statistical theory and methodology. Topics include descriptive statistics, maximum likelihood estimation, non-parametric methods, introduction to optimality, goodness-of-fit tests, analysis of variance, bootstrap and computer-intensive methods and least squares estimation. The laboratory includes computer-based data-analytic applications to science and engineering.</span><br/>
+ <a href="" class="btn-readmore"><span>Concepts of Statistics:</span> Read More [+]</a></p>
+<div id="609" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> STAT 134 or STAT 140; and MATH 54, EL ENG 16A, STAT 89A, MATH 110 or equivalent linear algebra. Strongly recommended corerequisite: STAT 133</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture and 4 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and Two hours of Laboratory per week for 15 weeks. Six hours of Lecture and Four hours of Laboratory per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Concepts of Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat140" data-toggle="#cb_stat140">
+<h3 class="courseblocktitle">
+<span class="code">STAT 140</span> 
+<span class="title">Probability for Data Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat140">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+An introduction to probability, emphasizing the combined use of mathematics and programming to solve problems. Random variables, discrete and continuous families of distributions. Bounds and approximations. Dependence, conditioning, Bayes methods. Convergence, Markov chains. Least squares prediction. Random permutations, symmetry, order statistics. Use of numerical computation, graphics, simulation, and computer algebra.</span><br/>
+ <a href="" class="btn-readmore"><span>Probability for Data Science:</span> Read More [+]</a></p>
+<div id="905" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> The emphasis on simulation and the bootstrap in Data 8 gives students a concrete sense of randomness and sampling variability. Stat 140 will capitalize on this, abstraction and computation complementing each other throughout.<br/>
+<br/>The syllabus has been designed to maintain a mathematical level at least equal to that in Stat 134. So Stat 140 will start faster than Stat 134 (due to the Data 8 prerequisite), avoid approximations that are unnecessary when SciPy is at hand, and replace some of the routine calculus by symbolic math done in SymPy. This will create time for a unit on the convergence and reversibility of Markov Chains as well as added focus on conditioning and Bayes methods.<br/>With about a thousand students a year taking Foundations of Data Science (Stat/CS/Info C8, a.k.a. Data 8), there is considerable demand for follow-on courses that build on the skills acquired in that class. Stat 140 is a probability course for Data 8 graduates who have also had a year of calculus and wish to go deeper into data science.</p><p><strong>Student Learning Outcomes:</strong> Understand the difference between math and simulation, and appreciate the power of both<br/>
+Use a variety of approaches to problem solving<br/>
+Work with probability concepts algebraically, numerically, and graphically</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Statistics/Computer Science/Information C8, or Statistics/Computer Science C100, or both Stat 20 and Computer Science 61A; and one year of calculus at the level of Mathematics 1A-1B or higher. Corequisite: Mathematics 54, Electrical Engineering 16A, Statistics 89A, Mathematics 110 or equivalent linear algebra</p><p><strong>Credit Restrictions:</strong> Students who have earned credit for Stat 134 will not receive credit for Stat 140.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture, 2 hours of discussion, and 1 hour of supplement per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of discussion and one hour of supplement per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Probability for Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat150" data-toggle="#cb_stat150">
+<h3 class="courseblocktitle">
+<span class="code">STAT 150</span> 
+<span class="title">Stochastic Processes</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat150">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Random walks, discrete time Markov chains, Poisson processes. Further topics such as: continuous time Markov chains, queueing theory, point processes, branching processes, renewal theory, stationary processes, Gaussian processes.</span><br/>
+ <a href="" class="btn-readmore"><span>Stochastic Processes:</span> Read More [+]</a></p>
+<div id="15" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101 or 103A or 134</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Stochastic Processes:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat151a" data-toggle="#cb_stat151a">
+<h3 class="courseblocktitle">
+<span class="code">STAT 151A</span> 
+<span class="title">Linear Modelling: Theory and Applications</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat151a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+A coordinated treatment of linear and generalized linear models and their application. Linear regression, analysis of variance and covariance, random effects, design and analysis of experiments, quality improvement, log-linear models for discrete multivariate data, model selection, robustness, graphical techniques, productive use of computers, in-depth case studies.</span><br/>
+ <a href="" class="btn-readmore"><span>Linear Modelling: Theory and Applications:</span> Read More [+]</a></p>
+<div id="245" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> STAT 102 or STAT 135. STAT 133 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and Two hours of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Linear Modelling: Theory and Applications:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat152" data-toggle="#cb_stat152">
+<h3 class="courseblocktitle">
+<span class="code">STAT 152</span> 
+<span class="title">Sampling Surveys</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat152">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Theory and practice of sampling from finite populations. Simple random, stratified, cluster, and double sampling. Sampling with unequal probabilities. Properties of various estimators including ratio, regression, and difference estimators. Error estimation for complex samples.</span><br/>
+ <a href="" class="btn-readmore"><span>Sampling Surveys:</span> Read More [+]</a></p>
+<div id="915" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101 or 134. 133 and 135 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and Two hours of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Sampling Surveys:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat153" data-toggle="#cb_stat153">
+<h3 class="courseblocktitle">
+<span class="code">STAT 153</span> 
+<span class="title">Introduction to Time Series</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat153">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra.</span><br/>
+ <a href="" class="btn-readmore"><span>Introduction to Time Series:</span> Read More [+]</a></p>
+<div id="765" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101, 134 or consent of instructor. 133 or 135 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and Two hours of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Time Series:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat154" data-toggle="#cb_stat154">
+<h3 class="courseblocktitle">
+<span class="code">STAT 154</span> 
+<span class="title">Modern Statistical Prediction and Machine Learning</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat154">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Theory and practice of statistical prediction. Contemporary methods as extensions of classical methods. Topics: optimal prediction rules, the curse of dimensionality, empirical risk, linear regression and classification, basis expansions, regularization, splines, the bootstrap, model selection, classification and regression trees, boosting, support vector machines. Computational efficiency versus predictive performance. Emphasis on experience</span><span class="deschide"> with real data and assessing statistical assumptions.</span><br/>
+ <a href="" class="btn-readmore"><span>Modern Statistical Prediction and Machine Learning:</span> Read More [+]</a></p>
+<div id="56" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 53 or equivalent; Mathematics 54, Electrical Engineering 16A, Statistics 89A, Mathematics 110 or equivalent linear algebra; Statistics 135 or equivalent; experience with some programming language. Recommended prerequisite: Mathematics 55 or equivalent exposure to counting arguments</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><p><strong>Summer:</strong> 10 weeks - 4.5 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of laboratory per week. Four and one-half hours of lecture and three hours of laboratory per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Modern Statistical Prediction and Machine Learning:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat155" data-toggle="#cb_stat155">
+<h3 class="courseblocktitle">
+<span class="code">STAT 155</span> 
+<span class="title">Game Theory</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat155">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2020 8 Week Session, Spring 2020, Fall 2019<br/>
+General theory of zero-sum, two-person games, including games in extensive form and continuous games, and illustrated by detailed study of examples.</span><br/>
+ <a href="" class="btn-readmore"><span>Game Theory:</span> Read More [+]</a></p>
+<div id="416" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101 or 134</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks. Six hours of Lecture per week for 8 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Game Theory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat157" data-toggle="#cb_stat157">
+<h3 class="courseblocktitle">
+<span class="code">STAT 157</span> 
+<span class="title">Seminar on Topics in Probability and Statistics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat157">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Substantial student participation required. The topics to be covered each semester that the course may be offered will be announced by the middle of the preceding semester; see departmental bulletins. Recent topics include: Bayesian statistics, statistics and finance, random matrix theory, high-dimensional statistics.</span><br/>
+ <a href="" class="btn-readmore"><span>Seminar on Topics in Probability and Statistics:</span> Read More [+]</a></p>
+<div id="414" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Mathematics 53-54, Statistics 134, 135. Knowledge of scientific computing environment (R or Matlab) often required. Prerequisites might vary with instructor and topics</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Seminar on Topics in Probability and Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat158" data-toggle="#cb_stat158">
+<h3 class="courseblocktitle">
+<span class="code">STAT 158</span> 
+<span class="title">The Design and Analysis of Experiments</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat158">
+
+<p class="courseblockdesc"><span class="descshow ">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+An introduction to the design and analysis of experiments. This course covers planning, conducting, and analyzing statistically designed experiments with an emphasis on hands-on experience. Standard designs studied include factorial designs, block designs, latin square designs, and repeated measures designs. Other topics covered include the principles of design, randomization, ANOVA, response surface methodoloy, and computer experiments.</span><span class="deschide"></span><br/>
+ <a href="" class="btn-readmore"><span>The Design and Analysis of Experiments:</span> Read More [+]</a></p>
+<div id="47" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Statistics 134 and 135 or consent of instructor. Statistics 135 may be taken concurrently. Statistics 133 is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>The Design and Analysis of Experiments:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat159" data-toggle="#cb_stat159">
+<h3 class="courseblocktitle">
+<span class="code">STAT 159</span> 
+<span class="title">Reproducible and Collaborative Statistical Data Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat159">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2017, Fall 2016<br/>
+A project-based introduction to statistical data analysis. Through case studies, computer laboratories, and a term project, students will learn practical techniques and tools for producing statistically sound and appropriate, reproducible, and verifiable computational answers to scientific questions. Course emphasizes version control, testing, process automation, code review, and collaborative programming. Software tools may include Bash, Git,</span><span class="deschide"> Python, and LaTeX.</span><br/>
+ <a href="" class="btn-readmore"><span>Reproducible and Collaborative Statistical Data Science:</span> Read More [+]</a></p>
+<div id="524" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Statistics 133, Statistics 134, and Statistics 135 (or equivalent)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p></div>
+<p><a href="" class="btn-readless"><span>Reproducible and Collaborative Statistical Data Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stath195" data-toggle="#cb_stath195">
+<h3 class="courseblocktitle">
+<span class="code">STAT H195</span> 
+<span class="title">Special Study for Honors Candidates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stath195">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2015, Fall 2014, Fall 2010<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Special Study for Honors Candidates:</span> Read More [+]</a></p>
+<div id="716" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-5 hours of independent study per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-4 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Zero hours of Independent study per week for 15 weeks. One to Four hour of Independent study per week for 8 weeks. One to Five hour of Independent study per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Special Study for Honors Candidates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat197" data-toggle="#cb_stat197">
+<h3 class="courseblocktitle">
+<span class="code">STAT 197</span> 
+<span class="title">Field Study in Statistics</span> 
+<span class="hours">0.5 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat197">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2017, Fall 2015, Summer 2015 10 Week Session<br/>
+Supervised experience relevant to specific aspects of statistics in on-campus or off-campus settings. Individual and/or group meetings with faculty.</span><br/>
+ <a href="" class="btn-readmore"><span>Field Study in Statistics:</span> Read More [+]</a></p>
+<div id="729" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2-9 hours of fieldwork per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 3-22 hours of fieldwork per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 2-16 hours of fieldwork per week<br/><span style="width: 15px; display: inline-block;"></span>10 weeks - 2-12 hours of fieldwork per week</p><!--<p class=""><strong>Additional Format:</strong> Two to nine hours of fieldwork per week. Two to twelve hours of fieldwork per week for 10 weeks. Two to sixteen hours of fieldwork per week for 8 weeks. Three to twenty two hours of fieldwork per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Field Study in Statistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat198" data-toggle="#cb_stat198">
+<h3 class="courseblocktitle">
+<span class="code">STAT 198</span> 
+<span class="title">Directed Study for Undergraduates</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat198">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2018, Spring 2016, Fall 2015<br/>
+Special tutorial or seminar on selected topics.</span><br/>
+ <a href="" class="btn-readmore"><span>Directed Study for Undergraduates:</span> Read More [+]</a></p>
+<div id="250" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of directed group study per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-7.5 hours of directed group study per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 1.5-5.5 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Three hour of Directed group study per week for 15 weeks. One and one-half to Five and one-half hours of Directed group study per week for 8 weeks. Two and one-half to Seven and one-half hours of Directed group study per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Study for Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_stat199" data-toggle="#cb_stat199">
+<h3 class="courseblocktitle">
+<span class="code">STAT 199</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_stat199">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Spring 2017<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research:</span> Read More [+]</a></p>
+<div id="558" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-3 hours of independent study per week</p><p><strong>Summer:</strong> <br/><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-4 hours of independent study per week<br/><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-3 hours of independent study per week<br/><span style="width: 15px; display: inline-block;"></span>10 weeks - 1-3 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to three hours of independent study per week. One to three hours of independent study per week for 10 weeks. One to three hours of independent study per week for 8 weeks. One to four hours of independent study per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Statistics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+]]>
+</coursestext>
+<faculty>
+<![CDATA[
+<h2>Faculty and Instructors</h2><p class="facitem"><strong>+ </strong>Indicates this faculty member is the recipient of the Distinguished Teaching Award.</p><h4>Faculty</h4><p class="facitem"><strong>David Aldous, <i>Professor</i>. </strong>Mathematical probability, applied probability, analysis of algorithms, phylogenetic trees, complex networks, random networks, entropy, spatial networks.<br/><a href="http://vcresearch.berkeley.edu/node/14271"target="_blank">Research Profile</a></p><p class="facitem"><strong>Peter L. Bartlett, <i>Professor</i>. </strong>Statistics, machine learning, statistical learning theory, adaptive control.<br/><a href="http://vcresearch.berkeley.edu/node/14413"target="_blank">Research Profile</a></p><p class="facitem"><strong>David R. Brillinger, <i>Professor</i>. </strong>Risk analysis, statistical methods, data analysis, animal and fish motion trajectories, statistical applications in engineering and science, sports statistics.<br/><a href="http://vcresearch.berkeley.edu/node/14352"target="_blank">Research Profile</a></p><p class="facitem"><strong>James Bentley Brown, <i>Assistant Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Peng Ding, <i>Assistant Professor</i>. </strong><br/><a href="http://vcresearch.berkeley.edu/faculty/peng-ding"target="_blank">Research Profile</a></p><p class="facitem"><strong>Sandrine Dudoit, <i>Professor</i>. </strong>Genomics, classification, statistical computing, biostatistics, cross-validation, density estimation, genetic mapping, high-throughput sequencing, loss-based estimation, microarray, model selection, multiple hypothesis testing, prediction, RNA-Seq.<br/><a href="http://vcresearch.berkeley.edu/node/14232"target="_blank">Research Profile</a></p><p class="facitem"><strong>Noureddine El Karoui, <i>Associate Professor</i>. </strong>Applied statistics, theory and applications of random matrices, large dimensional covariance estimation and properties of covariance matrices, connections with mathematical finance.<br/><a href="http://vcresearch.berkeley.edu/node/15021"target="_blank">Research Profile</a></p><p class="facitem"><strong>Steven N. Evans, <i>Professor</i>. </strong>Genetics, random matrices, superprocesses and other measure-valued processes, probability on algebraic structures -particularly local fields, applications of stochastic processes to biodemography, mathematical finance, phylogenetics and historical linguistics.<br/><a href="http://vcresearch.berkeley.edu/node/14291"target="_blank">Research Profile</a></p><p class="facitem"><strong>Will Fithian, <i>Assistant Professor</i>. </strong><br/><a href="http://vcresearch.berkeley.edu/faculty/will-fithian"target="_blank">Research Profile</a></p><p class="facitem"><strong>Shirshendu Ganguly, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>Lisa Goldberg, <i>Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Adityanand Guntuboyina, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>Alan Hammond, <i>Associate Professor</i>. </strong></p><p class="facitem"><strong>Haiyan Huang, <i>Associate Professor</i>. </strong>Applied statistics, functional genomics, translational bioinformatics, high dimensional and integrative genomic/genetic data analysis, network modeling, hierarchical multi-lable classification.<br/><a href="http://vcresearch.berkeley.edu/node/14871"target="_blank">Research Profile</a></p><p class="facitem"><strong>Nicholas P. Jewell, <i>Professor</i>. </strong>AIDS, statistics, epidemiology, infectious diseases, Ebola Virus Disease, SARS, H1N1 influenza, adverse cardiovascular effects of pharmaceuticals, counting civilian casualties during conflicts.<br/><a href="http://vcresearch.berkeley.edu/node/14892"target="_blank">Research Profile</a></p><p class="facitem"><strong>Michael I. Jordan, <i>Professor</i>. </strong>Computer science, artificial intelligence, bioinformatics, statistics, machine learning, electrical engineering, applied statistics, optimization.<br/><a href="http://vcresearch.berkeley.edu/node/13970"target="_blank">Research Profile</a></p><p class="facitem"><strong>Michael J. Klass, <i>Professor</i>. </strong>Statistics, mathematics, probability theory, combinatorics independent random variables, iterated logarithm, tail probabilities, functions of sums.<br/><a href="http://vcresearch.berkeley.edu/node/14990"target="_blank">Research Profile</a></p><p class="facitem"><strong>Michael William Mahoney, <i>Associate Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Jon Mcauliffe, <i>Associate Adjunct Professor</i>. </strong>Bioinformatics, machine learning, nonparametrics, convex optimization, statistical computing, prediction, supervised learning.<br/><a href="http://vcresearch.berkeley.edu/node/15334"target="_blank">Research Profile</a></p><p class="facitem"><strong>Rasmus Nielsen, <i>Professor</i>. </strong>Statistical and computational aspects of evolutionary theory and genetics.<br/><a href="http://vcresearch.berkeley.edu/node/15178"target="_blank">Research Profile</a></p><p class="facitem"><strong>+ Deborah Nolan, <i>Professor</i>. </strong>Statistics, empirical process, high-dimensional modeling, technology in education.<br/><a href="http://vcresearch.berkeley.edu/node/14572"target="_blank">Research Profile</a></p><p class="facitem"><strong>Christopher Paciorek, <i>Adjunct Professor</i>. </strong></p><p class="facitem"><strong>Sam Pimentel, <i>Assistant Professor</i>. </strong></p><p class="facitem"><strong>James W. Pitman, <i>Professor</i>. </strong>Fragmentation, statistics, mathematics, Brownian motion, distribution theory, path transformations, stochastic processes, local time, excursions, random trees, random partitions, processes of coalescence.<br/><a href="http://vcresearch.berkeley.edu/node/13987"target="_blank">Research Profile</a></p><p class="facitem"><strong>Elizabeth Purdom, <i>Assistant Professor</i>. </strong>Computational biology, bioinformatics, statistics, data analysis, sequencing, cancer genomics.<br/><a href="http://vcresearch.berkeley.edu/node/14345"target="_blank">Research Profile</a></p><p class="facitem"><strong>Jasjeet S. Sekhon, <i>Professor</i>. </strong>Program evaluation, statistical and computational methods, causal inference, elections, public opinion, American politics .</p><p class="facitem"><strong>Alistair Sinclair, <i>Professor</i>. </strong>Algorithms, applied probability, statistics, random walks, Markov chains, computational applications of randomness, Markov chain Monte Carlo, statistical physics, combinatorial optimization.<br/><a href="http://vcresearch.berkeley.edu/node/15454"target="_blank">Research Profile</a></p><p class="facitem"><strong>Yun Song, <i>Associate Professor</i>. </strong>Computational biology, population genomics, applied probability and statistics.<br/><a href="http://vcresearch.berkeley.edu/node/14178"target="_blank">Research Profile</a></p><p class="facitem"><strong>Philip B. Stark, <i>Professor</i>. </strong>Astrophysics, law, statistics, litigation, causal inference, inverse problems, geophysics, elections, uncertainty quantification, educational technology.<br/><a href="http://vcresearch.berkeley.edu/node/15490"target="_blank">Research Profile</a></p><p class="facitem"><strong>Bernd Sturmfels, <i>Professor</i>. </strong>Mathematics, combinatorics, computational algebraic geometry.<br/><a href="http://vcresearch.berkeley.edu/node/15683"target="_blank">Research Profile</a></p><p class="facitem"><strong>Nike Sun, <i>Assistant Professor</i>. </strong><br/><a href="http://vcresearch.berkeley.edu/faculty/nike-sun"target="_blank">Research Profile</a></p><p class="facitem"><strong>Mark J. Van Der Laan, <i>Professor</i>. </strong>Statistics, computational biology and genomics, censored data and survival analysis, medical research, inference in longitudinal studies.<br/><a href="http://vcresearch.berkeley.edu/node/15566"target="_blank">Research Profile</a></p><p class="facitem"><strong>Martin Wainwright, <i>Professor</i>. </strong>Statistical machine learning, High-dimensional statistics, information theory, Optimization and algorithmss.<br/><a href="http://vcresearch.berkeley.edu/node/15701"target="_blank">Research Profile</a></p><p class="facitem"><strong>Bin Yu, <i>Professor</i>. </strong>Neuroscience, remote sensing, networks, statistical machine learning, high-dimensional inference, massive data problems, document summarization.<br/><a href="http://vcresearch.berkeley.edu/node/14282"target="_blank">Research Profile</a></p><h4>Lecturers</h4><p class="facitem"><strong>+ Ani Adhikari, <i>Senior Lecturer SOE</i>. </strong></p><p class="facitem"><strong>Fletcher H. Ibser, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Cari Kaufman, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Adam R. Lucas, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Gaston Sanchez Trujillo, <i>Lecturer</i>. </strong></p><p class="facitem"><strong>Shobhana Stoyanov, <i>Lecturer</i>. </strong></p><h4>Visiting Faculty</h4><p class="facitem"><strong>Merle Behr, <i>Visiting Assistant Professor</i>. </strong></p><p class="facitem"><strong>Oscar Madrid Padilla, <i>Visiting Assistant Professor</i>. </strong></p><h4>Emeritus Faculty</h4><p class="facitem"><strong>Peter J. Bickel, <i>Professor Emeritus</i>. </strong>Statistics, machine learning, semiparametric models, asymptotic theory, hidden Markov models, applications to molecular biology.<br/><a href="http://vcresearch.berkeley.edu/node/13924"target="_blank">Research Profile</a></p><p class="facitem"><strong>Ching-Shui Cheng, <i>Professor Emeritus</i>. </strong>Statistics, statistical design of experiments, combinatorial problems, efficient experimental design.<br/><a href="http://vcresearch.berkeley.edu/node/14522"target="_blank">Research Profile</a></p><p class="facitem"><strong>Kjell A. Doksum, <i>Professor Emeritus</i>. </strong>Statistics, curve estimation, nonparametric regression, correlation curves, survival analysis, semiparametric, nonparametric settings, regression quantiles, analysis of financial data.<br/><a href="http://vcresearch.berkeley.edu/node/13925"target="_blank">Research Profile</a></p><p class="facitem"><strong>Leo Goodman, <i>Professor Emeritus</i>. </strong>Sociology, statistics, log-linear models, correspondence analysis models, mathematical demography, categorical data analysis, survey data analysis, logit models, log-bilinear models, association models.<br/><a href="http://vcresearch.berkeley.edu/node/14731"target="_blank">Research Profile</a></p><p class="facitem"><strong>Pressley W. Millar, <i>Professor Emeritus</i>. </strong>Statistics, Martingales, Markov processes, Gaussian processes, excursion theory, asymptotic statistical decision theory, nonparametrics, robustness, stochastic procedures, asymptotic minimas theory, bootstrap theory.<br/><a href="http://vcresearch.berkeley.edu/node/13971"target="_blank">Research Profile</a></p><p class="facitem"><strong>Roger A. Purves, <i>Professor Emeritus</i>. </strong>Statistics, foundations of probability, measurability.<br/><a href="http://vcresearch.berkeley.edu/node/15246"target="_blank">Research Profile</a></p><p class="facitem"><strong>John A. Rice, <i>Professor Emeritus</i>. </strong>Transportation, astronomy, statistics, functional data analysis, time series analysis.<br/><a href="http://vcresearch.berkeley.edu/node/13988"target="_blank">Research Profile</a></p><p class="facitem"><strong>Terence P. Speed, <i>Professor Emeritus</i>. </strong>Genomics, statistics, genetics and molecular biology, protein sequences.<br/><a href="http://vcresearch.berkeley.edu/node/14262"target="_blank">Research Profile</a></p><p class="facitem"><strong>Charles J. Stone, <i>Professor Emeritus</i>. </strong>Statistical modeling with splines, statistical education.<br/><a href="http://vcresearch.berkeley.edu/node/15680"target="_blank">Research Profile</a></p><p class="facitem"><strong>Kenneth Wachter, <i>Professor Emeritus</i>. </strong>Mathematical demography stochastic models, simulation, biodemography, federal statistical system.<br/><a href="http://vcresearch.berkeley.edu/node/14563"target="_blank">Research Profile</a></p>]]>
+</faculty>
+</courseleaf>
+

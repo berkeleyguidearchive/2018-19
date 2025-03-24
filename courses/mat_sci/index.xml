@@ -1,0 +1,1322 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="mat scicourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;24" data-toggle="#cb_matsci&#160;24">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;24</span> 
+<span class="title">Freshman Seminar</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;24">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+The Freshman Seminar Program has been designed to provide new students with the opportunity to explore an intellectual topic with a faculty member in a small seminar setting. Freshman seminars are offered in all campus departments, and topics vary from department to department and semester to semester. Enrollment limited to 20 freshmen.</span><br />
+ <a href="" class="btn-readmore"><span>Freshman Seminar:</span> Read More [+]</a></p>
+<div id="565" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of lecture/discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Freshman Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;45" data-toggle="#cb_matsci&#160;45">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;45</span> 
+<span class="title">Properties of Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;45">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Application of basic principles of physics and chemistry to the engineering properties of materials. Emphasis on establishing structure, property, processing, and performance interrelationships in metals, ceramics, and polymers. While core concepts are fully covered each semester, examples and contextualization in Fall editions focuses on metals, ceramics, and functional/electronic properties and in Spring editions on polymers and soft-mat</span><span class="deschide">erials.</span><br />
+ <a href="" class="btn-readmore"><span>Properties of Materials:</span> Read More [+]</a></p>
+<div id="786" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Students should have completed high school AP or honors chemistry and physics</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Martin, Messersmith</p></div>
+<p><a href="" class="btn-readless"><span>Properties of Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;45l" data-toggle="#cb_matsci&#160;45l">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;45L</span> 
+<span class="title">Properties of Materials Laboratory</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;45l">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+This course presents laboratory applications of the basic principles introduced in the lecture-based course MSE45 – Properties of Materials.</span><br />
+ <a href="" class="btn-readmore"><span>Properties of Materials Laboratory:</span> Read More [+]</a></p>
+<div id="805" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for MSE 45L after taking E45L</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Martin, Messersmith</p></div>
+<p><a href="" class="btn-readless"><span>Properties of Materials Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;102" data-toggle="#cb_matsci&#160;102">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;102</span> 
+<span class="title">Bonding, Crystallography, and Crystal Defects</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;102">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Bonding in solids; classification of metals, semiconductors, and insulators; crystal systems; point, line, and planar defects in crystals; examples of crystallographic and defect analysis in engineering materials; relationship to physical and mechanical properties.</span><br />
+ <a href="" class="btn-readmore"><span>Bonding, Crystallography, and Crystal Defects:</span> Read More [+]</a></p>
+<div id="602" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;45</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Chrzan</p></div>
+<p><a href="" class="btn-readless"><span>Bonding, Crystallography, and Crystal Defects:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;103" data-toggle="#cb_matsci&#160;103">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;103</span> 
+<span class="title">Phase Transformations and Kinetics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;103">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+The nature, mechanisms, and kinetics of phase transformations and microstructural changes in the solid state. Atom diffusion in solids. Phase transformations through the nucleation and growth of new matrix or precipitate phases. Martensitic transformations, spinodal decomposition. The use of phase transformations to control microstructure.</span><br />
+ <a href="" class="btn-readmore"><span>Phase Transformations and Kinetics:</span> Read More [+]</a></p>
+<div id="836" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;102 and ENGIN&#160;40</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Phase Transformations and Kinetics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;104" data-toggle="#cb_matsci&#160;104">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;104</span> 
+<span class="title">Materials Characterization</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;104">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This 3-unit course will cover basic principles and techniques used for the characterization of engineering materials. The course is designed to introduce undergraduate students to the basic principles of structural, chemical and property characterization techniques. The course is grounded in modern x-ray diffraction and electron microscopy techniques for characterization of the chemical and structural properties of a material. The course</span><span class="deschide"> introduces the fundamental theoretical framework for diffraction, spectrometry and imaging methods.</span><br />
+ <a href="" class="btn-readmore"><span>Materials Characterization:</span> Read More [+]</a></p>
+<div id="264" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> Materials characterization lies at the heart of understanding the property-structure-processing relationships of materials. The goal of the course is to prepare undergraduate students from materials science to understand the basic principles behind material characterization tools and techniques. More specifically, this class will provide students (1) a thorough introduction to the principles and practice of diffraction, (2) introductory exposure to a range of common characterization methods for the determination of structure and composition of solids. A successful student will learn (1) the theory of x-ray and electron diffraction, (2) basic elements of electron microscopy, (3) basic aspects of optical and scanning probe techniques.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;102. A basic knowledge of structure, bonding and crystallography will be assumed</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Scott, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Materials Characterization:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;104l" data-toggle="#cb_matsci&#160;104l">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;104L</span> 
+<span class="title">Materials Characterization Laboratory</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;104l">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020<br/>
+This 1-unit laboratory course covers X-ray diffraction (XRD), scanning electron microscopy (SEM), and transmission electron microscopy (TEM), as well as lab writeup protocols and academic integrity. Students will get hands-on experience using the XRD, SEM and TEM equipment to perform microstructural characterization of materials. Students will also design and run their own project on a topic of their choosing.</span><br />
+ <a href="" class="btn-readmore"><span>Materials Characterization Laboratory:</span> Read More [+]</a></p>
+<div id="729" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> Practical experience on the most common materials characterization equipment for structural and chemical analysis of materials. Introduction to laboratory procedures and independent projects.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;102; and MAT&#160;SCI&#160;104 must be taken concurrently. A basic knowledge of structure, bonding and crystallography will be assumed. Undergraduate student in engineering, physics or chemistry</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1.5 hours of laboratory and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of discussion and one and one-half hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructors:</strong> Scott, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Materials Characterization Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;111" data-toggle="#cb_matsci&#160;111">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;111</span> 
+<span class="title">Properties of Electronic Materials</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;111">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Introduction to the physical principles underlying the electric properties of modern solids with emphasis on semiconductors; control of defects and impurities through physical purification, bulk and thin film crystal growth and doping processes, materials basis of electronic and optoelectronic devices (diodes, transistors, semiconductor lasers) and optical fibers; properties of metal and oxide superconductors and their applications.</span><br />
+ <a href="" class="btn-readmore"><span>Properties of Electronic Materials:</span> Read More [+]</a></p>
+<div id="814" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> PHYSICS&#160;7A, PHYSICS&#160;7B, and PHYSICS&#160;7C; or PHYSICS&#160;7A, PHYSICS&#160;7B and consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Dubon, Wu, Yao</p></div>
+<p><a href="" class="btn-readless"><span>Properties of Electronic Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;112" data-toggle="#cb_matsci&#160;112">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;112</span> 
+<span class="title">Corrosion (Chemical Properties)</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;112">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Electrochemical theory of corrosion. Mechanisms and rates in relation to physiochemical and metallurgical factors. Stress corrosion and mechanical influences on corrosion. Corrosion protection by design, inhibition, cathodic protection, and coatings.</span><br />
+ <a href="" class="btn-readmore"><span>Corrosion (Chemical Properties):</span> Read More [+]</a></p>
+<div id="34" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;45 and ENGIN&#160;40</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Devine</p></div>
+<p><a href="" class="btn-readless"><span>Corrosion (Chemical Properties):</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;113" data-toggle="#cb_matsci&#160;113">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;113</span> 
+<span class="title">Mechanical Behavior of Engineering Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;113">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+This course covers elastic and plastic deformation under static and dynamic loads. Prediction and prevention of failure by yielding, fracture, fatigue, wear and environmental factors are addressed. Design issues pertaining to materials selection for load bearing applications are discussed. Case studies of engineering failures are presented. Topics include engineering materials, structure-property relationships, materials selection for design, mechanical</span><span class="deschide"> behavior of polymers and design of plastic components, complex states of stress and strain, elastic deformation and multiaxial loading, plastic deformation and yield criteria, dislocation plasticity and strengthening mechanisms, creep, effects of stress concentrations, fracture, fatigue, and contact stresses.</span><br />
+ <a href="" class="btn-readmore"><span>Mechanical Behavior of Engineering Materials:</span> Read More [+]</a></p>
+<div id="891" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> C30/Mechanical Engineering C85 and Engineering 45</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for 113 after taking C113 or Mechanical Engineering C124. Deficiency in C113 or Mechanical Engineering C124 maybe removed by taking 113.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Ritchie</p></div>
+<p><a href="" class="btn-readless"><span>Mechanical Behavior of Engineering Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;117" data-toggle="#cb_matsci&#160;117">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;117</span> 
+<span class="title">Properties of Dielectric and Magnetic Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;117">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2017, Spring 2011, Fall 2010<br/>
+Introduction to the physical principles underlying the dielectric and magnetic properties of solids. Processing-microstructure-property relationships of dielectric materials, including piezoelectric, pryoelectric, and ferroelectric oxides, and of magnetic materials, including hard- and soft ferromagnets, ferrites and magneto-optic and -resistive materials. The course also covers the properties of grain boundary devices (including varistors)</span><span class="deschide"> as well as ion-conducting and mixed conducting materials for applications in various devices such as sensors, fuel cells, and electric batteries.</span><br />
+ <a href="" class="btn-readmore"><span>Properties of Dielectric and Magnetic Materials:</span> Read More [+]</a></p>
+<div id="328" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> PHYSICS&#160;7A, PHYSICS&#160;7B, and PHYSICS&#160;7C; or PHYSICS&#160;7A, PHYSICS&#160;7B, and consent of instructor. MAT&#160;SCI&#160;111 is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Properties of Dielectric and Magnetic Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c118" data-toggle="#cb_matsci&#160;c118">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C118</span> 
+<span class="title">Biological Performance of Materials</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c118">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+This course is intended to give students the opportunity to expand their knowledge of topics related to biomedical materials selection and design. Structure-property relationships of biomedical materials and their interaction with biological systems will be addressed. Applications of the concepts developed include blood-materials compatibility, biomimetic materials, hard and soft tissue-materials interactions, drug delivery, tissue engineering</span><span class="deschide">, and biotechnology.</span><br />
+ <a href="" class="btn-readmore"><span>Biological Performance of Materials:</span> Read More [+]</a></p>
+<div id="623" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> The course is separated into four parts spanning the principles of synthetic materials and surfaces, principles of biological materials, biological performance of materials and devices, and state-of-the-art materials design. Students are required to attend class and master the material therein. In addition, readings from the clinical, life and materials science literature are assigned. Students are encouraged to seek out additional reference material to complement the readings assigned. A mid-term examination is given on basic principles (parts 1 and 2 of the outline). A comprehensive final examination is given as well. <br />The purpose of this course is to introduce students to problems associated with the selection and function of biomaterials. Through class lectures and readings in both the physical and life science literature, students will gain broad knowledge of the criteria used to select biomaterials, especially in devices where the material-tissue or material-solution interface dominates performance. Materials used in devices for medicine, dentistry, tissue engineering, drug delivery, and the biotechnology industry will be addressed.<br/>
+<br />This course also has a significant design component (~35%). Students will form small teams (five or less) and undertake a semester-long design project related to the subject matter of the course. The project includes the preparation of a paper and a 20 minute oral presentation critically analyzing a current material-tissue or material-solution problem. Students will be expected to design improvements to materials and devices to overcome the problems identified in class with existing materials.<br/></p><p><strong>Student Learning Outcomes:</strong> <br/>
+Apply math, science &amp; engineering principles to the understanding of soft materials, surface chemistry, DLVO theory, protein adsorption kinetics, viscoelasticity, mass diffusion, and molecular (i.e., drug) delivery kinetics.<br/>
+<br/>
+•<br/>
+Design experiments and analyze data from the literature in the context of the class design project.<br/>
+Apply core concepts in materials science to solve engineering problems related to the selection biomaterials, especially in devices where the material-tissue or material-solution interface dominates performance.<br/>
+Develop an understanding of the social, safety and medical consequences of biomaterial use and regulatory issues associated with the selection of biomaterials in the context of the silicone breast implant controversy and subsequent biomaterials crisis.<br/>
+Work independently and function on a team, and develop solid communication skills (oral, graphic &amp; written) through the class design project.<br/>
+•<br/>
+Understanding of the origin of surface forces and interfacial free energy, and how they contribute to the development of the biomaterial interface and ultimately biomaterial performance.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;45 and BIO&#160;ENG&#160;103. BIO&#160;ENG&#160;102 and BIO&#160;ENG&#160;104 are recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Healy</p><p><strong>Also listed as:</strong> BIO&#160;ENG&#160;C118</p></div>
+<p><a href="" class="btn-readless"><span>Biological Performance of Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;120" data-toggle="#cb_matsci&#160;120">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;120</span> 
+<span class="title">Materials Production</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;120">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Economic and technological significance of metals and other materials. Elementary geology (composition of lithosphere, mineralization). Short survey of mining and mineral processing techniques. Review of chemical thermodynamics and reaction kinetics. Principles of process engineering including material, heat, and mechanical energy balances. Elementary heat transfer, fluid flow, and mass transfer. Electrolytic production and refining of metals.</span><span class="deschide"> Vapor techniques for production of metals and coatings.</span><br />
+ <a href="" class="btn-readmore"><span>Materials Production:</span> Read More [+]</a></p>
+<div id="520" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> ENGIN&#160;40, MEC&#160;ENG&#160;40, CHM&#160;ENG&#160;141, CHEM&#160;120B, or equivalent thermodynamics course</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Materials Production:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;121" data-toggle="#cb_matsci&#160;121">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;121</span> 
+<span class="title">Metals Processing</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;121">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2019, Spring 2015, Spring 2014<br/>
+The principles of metals processing with emphasis on the use of processing to establish microstructures which impart desirable engineering properties. The techniques discussed include solidification, thermal and mechanical processing, powder processing, welding and joining, and surface treatments.</span><br />
+ <a href="" class="btn-readmore"><span>Metals Processing:</span> Read More [+]</a></p>
+<div id="564" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;45</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Gronsky</p></div>
+<p><a href="" class="btn-readless"><span>Metals Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;122" data-toggle="#cb_matsci&#160;122">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;122</span> 
+<span class="title">Ceramic Processing</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;122">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2012, Fall 2011, Fall 2010<br/>
+Powder fabrication by grinding and chemical methods, rheological behavior of powder-fluid suspensions, forming methods, drying, sintering, and grain growth. Relation of processing steps to microstructure development.</span><br />
+ <a href="" class="btn-readmore"><span>Ceramic Processing:</span> Read More [+]</a></p>
+<div id="27" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;45 and ENGIN&#160;40</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Ceramic Processing:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;123" data-toggle="#cb_matsci&#160;123">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;123</span> 
+<span class="title">ELECTRONIC MATERIALS PROCESSING</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;123">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Fall 2018<br/>
+This 4-unit course starts with a brief review of the fundamentals of solid-state physics including bands and defects in semiconductors and oxides, and then moves to bulk semiconductor crystals growth and processing including doping, diffusion and implantation, and then to thin film deposition and processing methods, and finishes with a discussion of materials analysis and characterization. Recent advances in nanomaterials research will also</span><span class="deschide"> be introduced.</span><br />
+ <a href="" class="btn-readmore"><span>ELECTRONIC MATERIALS PROCESSING:</span> Read More [+]</a></p>
+<div id="575" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> To prepare students a) for work in semiconductor processing facilities and b) for graduate studies related to thin film processing and relevant materials science topics. <br />To present the relevant materials science issues in semiconductor and oxide processing. <br />To provide an introduction into the principles of thin film processing and related technologies.</p><p><strong>Student Learning Outcomes:</strong> Basic knowledge of gas kinetics and vacuum technology, including ideal gas, gas transport theory, definition, creation and measurement of vacuum.<br/>
+Knowledge of electrical and optical properties of thin films.<br/>
+Knowledge of the formation of p-n junction to explain the diode operation and its I-V characteristics. Understanding of the mechanisms of Hall Effect, transport, and C-V measurements, so that can calculate carrier concentration, mobility and conductivity given raw experimental data.<br/>
+The ability to describe major growth techniques of bulk, thin film, and nanostructured semiconductors, with particular emphasis on thin film deposition technologies, including evaporation, sputtering, chemical vapor deposition and epitaxial growths.<br/>
+To have basic knowledge of doping, purification, oxidation, gettering, diffusion, implantation, metallization, lithography and etching in semiconductor processing.<br/>
+To have basic knowledge of electronic material characterization methods: x-ray diffraction, SEM and TEM, EDX, Auger, STM and AFM, Rutherford Back Scattering and SIMS, as well as optical methods including photoluminescence, absorption and Raman scattering.<br/>
+To understand the concepts of bands, bandgap, to distinguish direct and indirect bandgap semiconductors. Understanding of free electron and hole doping of semiconductors to determine Fermi level position.<br/>
+To understand the effect of defects in semiconductors, so that can describe their electronic and optical behaviors, and the methods to eliminate and control them in semiconductors.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MAT&#160;SCI&#160;111, PHYSICS&#160;7C, or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructors:</strong> Wu, Yao</p></div>
+<p><a href="" class="btn-readless"><span>ELECTRONIC MATERIALS PROCESSING:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;125" data-toggle="#cb_matsci&#160;125">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;125</span> 
+<span class="title">Thin-Film Materials Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;125">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Spring 2016, Spring 2015<br/>
+Deposition, processing, and characterization of thin films and their technological applications. Physical and chemical vapor deposition methods. Thin-film nucleation and growth. Thermal and ion processing. Microstructural development in epitaxial, polycrystalline, and amorphous films. Thin-film characterization techniques. Applications in information storage, integrated circuits, and optoelectronic devices. Laboratory demonstrations.</span><br />
+ <a href="" class="btn-readmore"><span>Thin-Film Materials Science:</span> Read More [+]</a></p>
+<div id="478" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division or graduate standing in engineering, physics, chemistry, and chemical engineering; Engineering 45 required; 111 or Physics 141A recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Dubon</p></div>
+<p><a href="" class="btn-readless"><span>Thin-Film Materials Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;130" data-toggle="#cb_matsci&#160;130">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;130</span> 
+<span class="title">Experimental Materials Science and Design</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;130">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+This course provides a culminating experience for students approaching completion of the materials science and engineering curriculum. Laboratory experiments are undertaken in a variety of areas from the investigations on semiconductor materials to corrosion science and elucidate the relationships among structure, processing, properties, and performance. The principles of materials selection in engineering design are reviewed.</span><br />
+ <a href="" class="btn-readmore"><span>Experimental Materials Science and Design:</span> Read More [+]</a></p>
+<div id="614" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Senior standing or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture and Three hours of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Experimental Materials Science and Design:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;136" data-toggle="#cb_matsci&#160;136">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;136</span> 
+<span class="title">Materials in Energy Technologies</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;136">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2017, Fall 2015<br/>
+In many, if not all, technologies, it is materials that play a crucial, enabling role. This course examines potentially sustainable technologies, and the materials properties that enable them. The science at the basis of selected energy technologies are examined and considered in case studies.</span><br />
+ <a href="" class="btn-readmore"><span>Materials in Energy Technologies:</span> Read More [+]</a></p>
+<div id="481" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Junior or above standing in Materials Science and Engineering or related field</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Materials Science and Engineering 126</p></div>
+<p><a href="" class="btn-readless"><span>Materials in Energy Technologies:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;140" data-toggle="#cb_matsci&#160;140">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;140</span> 
+<span class="title">Nanomaterials for Scientists and Engineers</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;140">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2015, Spring 2013<br/>
+This course introduces the fundamental principles needed to understand the behavior of materials at the nanometer length scale and the different classes of nanomaterials with applications ranging from information technology to biotechnology. Topics include introduction to different classes of nanomaterials, synthesis and characterization of nanomaterials, and the electronic, magnetic, optical, and mechanical properties of nanomaterials.</span><br />
+ <a href="" class="btn-readmore"><span>Nanomaterials for Scientists and Engineers:</span> Read More [+]</a></p>
+<div id="443" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> PHYSICS&#160;7C and MAT&#160;SCI&#160;45. MAT&#160;SCI&#160;102 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Minor</p></div>
+<p><a href="" class="btn-readless"><span>Nanomaterials for Scientists and Engineers:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c150" data-toggle="#cb_matsci&#160;c150">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C150</span> 
+<span class="title">Introduction to Materials Chemistry</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c150">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018, Spring 2015<br/>
+The application of basic chemical principles to problems in materials discovery, design, and characterization will be discussed. Topics covered will include inorganic solids, nanoscale materials, polymers, and biological materials, with specific focus on the ways in which atomic-level interactions dictate the bulk properties of matter.</span><br />
+ <a href="" class="btn-readmore"><span>Introduction to Materials Chemistry:</span> Read More [+]</a></p>
+<div id="17" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 104A; 104B is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Also listed as:</strong> CHEM&#160;C150</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Materials Chemistry:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;151" data-toggle="#cb_matsci&#160;151">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;151</span> 
+<span class="title">Polymeric Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;151">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This course is designed for upper division undergraduate and graduate students to gain a fundamental understanding of the science of polymeric materials. Beginning with a treatment of ideal polymeric chain conformations, it develops the thermodynamics of polmyer blends and solutions, the modeling of polymer networks and gelations, the dynamics of polymer chains, and the morphologies of thin films and other dimensionally-restricted structures</span><span class="deschide"> relevant to nanotechnology.</span><br />
+ <a href="" class="btn-readmore"><span>Polymeric Materials:</span> Read More [+]</a></p>
+<div id="359" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> CHEM&#160;1A or MAT&#160;SCI&#160;45. MAT&#160;SCI&#160;103 is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Xu</p></div>
+<p><a href="" class="btn-readless"><span>Polymeric Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;h194" data-toggle="#cb_matsci&#160;h194">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;H194</span> 
+<span class="title">Honors Undergraduate Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;h194">
+
+<p class="courseblockdesc"><span class="descshow ">Terms offered: Fall 2016, Spring 2016, Fall 2015<br/>
+Students who have completed a satisfactory number of advanced courses with a grade-point average of 3.3 or higher may pursue original research under the direction of one of the members of the staff. A maximum of 3 units of H194 may be used to fulfill technical elective requirements in the Materials Science and Engineering program or double majors (unlike 198 or 199, which do not satisfy technical elective requirements). Final report required</span><span class="deschide">.</span><br />
+ <a href="" class="btn-readmore"><span>Honors Undergraduate Research:</span> Read More [+]</a></p>
+<div id="263" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division technical GPA of 3.3 or higher and consent of instructor and adviser</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> 8 weeks - 1.5-7.5 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Variable format.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Honors Undergraduate Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;195" data-toggle="#cb_matsci&#160;195">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;195</span> 
+<span class="title">Special Topics for Advanced Undergraduates</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;195">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2012, Spring 2011, Spring 2010<br/>
+Group study of special topics in materials science and engineering. Selection of topics for further study of underlying concepts and relevent literature, in consultion with appropriate faculty members.</span><br />
+ <a href="" class="btn-readmore"><span>Special Topics for Advanced Undergraduates:</span> Read More [+]</a></p>
+<div id="933" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing and good academic standing. (2.0 gpa and above)</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of directed group study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Special Topics for Advanced Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;198" data-toggle="#cb_matsci&#160;198">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;198</span> 
+<span class="title">Directed Group Studies for Advanced Undergraduates</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;198">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2019, Fall 2018, Spring 2016<br/>
+Group studies of selected topics.</span><br />
+ <a href="" class="btn-readmore"><span>Directed Group Studies for Advanced Undergraduates:</span> Read More [+]</a></p>
+<div id="857" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing in Engineering</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Directed group study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Studies for Advanced Undergraduates:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;199" data-toggle="#cb_matsci&#160;199">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;199</span> 
+<span class="title">Supervised Independent Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;199">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Supervised independent study. Enrollment restrictions apply; see the Introduction to Courses and Curricula section of this catalog.</span><br />
+ <a href="" class="btn-readmore"><span>Supervised Independent Study:</span> Read More [+]</a></p>
+<div id="651" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor and major adviser</p><p><strong>Credit Restrictions:</strong> Course may be repeated for a maximum of four units per semester.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-5 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-4 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Individual conferences.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;200a" data-toggle="#cb_matsci&#160;200a">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;200A</span> 
+<span class="title">Survey of Materials Science</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;200a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+A survey of Materials Science at the beginning graduate level, intended for those who did not major in the field as undergraduates. Focus on the nature of microstructure and its manipulation and control to determine engineering properties. Reviews bonding, structure and microstructure, the chemical, electromagnetic and mechanical properties of materials, and introduces the student to microstructural engineering.</span><br />
+ <a href="" class="btn-readmore"><span>Survey of Materials Science:</span> Read More [+]</a></p>
+<div id="491" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Survey of Materials Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;201a" data-toggle="#cb_matsci&#160;201a">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;201A</span> 
+<span class="title">Thermodynamics and Phase Transformations in Solids</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;201a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+The laws of thermodynamics, fundamental equations for multicomponent elastic solids and electromagnetic media, equilibrium criteria. Application to solution thermodynamics, point defects in solids, phase diagrams. Phase transitions, Landau rule, symmetry rules. Interfaces, nucleation theory, elastic effects. Kinetics: diffusion of heat, mass and charge; coupled flows.</span><br />
+ <a href="" class="btn-readmore"><span>Thermodynamics and Phase Transformations in Solids:</span> Read More [+]</a></p>
+<div id="36" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 102, 103, Engineering 115, or consent of instructor. 201A is prerequisite to 201B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Thermodynamics and Phase Transformations in Solids:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;202" data-toggle="#cb_matsci&#160;202">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;202</span> 
+<span class="title">Crystal Structure and Bonding</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;202">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2018, Spring 2017<br/>
+Regular, irregular arrays of points, spheres; lattices, direct, reciprocal; crystallographic point and space groups; atomic structure; bonding in molecules; bonding in solids; ionic (Pauling rules), covalent, metallic bonding; structure of elements, compounds, minerals, polymers.</span><br />
+ <a href="" class="btn-readmore"><span>Crystal Structure and Bonding:</span> Read More [+]</a></p>
+<div id="17" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Chrzan</p></div>
+<p><a href="" class="btn-readless"><span>Crystal Structure and Bonding:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;204" data-toggle="#cb_matsci&#160;204">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;204</span> 
+<span class="title">Materials Characterization</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;204">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2018, Fall 2017<br/>
+This 3-unit course will cover basic principles and techniques used for the characterization of engineering materials. The course is designed to introduce graduate students to the basic principles of structural, chemical and property characterization techniques. The course is grounded in modern x-ray diffraction and electron microscopy techniques for characterization of the chemical and structural properties of a material. The course introduces</span><span class="deschide"> the fundamental theoretical framework for diffraction, spectrometry and imaging methods.</span><br />
+ <a href="" class="btn-readmore"><span>Materials Characterization:</span> Read More [+]</a></p>
+<div id="620" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> Materials characterization lies at the heart of understanding the property-structure-processing relationships of materials. The goal of the course is to prepare graduate students from materials science to understand the basic principles behind material characterization tools and techniques. More specifically, this class will provide students (1) a thorough introduction to the principles and practice of diffraction, (2) introductory exposure to a range of common characterization methods for the determination of structure and composition of solids.</p><p><strong>Student Learning Outcomes:</strong> A successful student will learn (1) the theory of x-ray and electron diffraction, (2) basic elements of electron microscopy, (3) basic aspects of spectroscopy.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MSE 102- a basic knowledge of structure, bonding and crystallography will be assumed</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Scott, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Materials Characterization:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;204d" data-toggle="#cb_matsci&#160;204d">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;204D</span> 
+<span class="title">Materials Characterization</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;204d">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020<br/>
+This 1-unit course will introduce specialized techniques used for the characterization of engineering materials beyond routine x-ray diffraction and electron microscopy. The course is designed to complement a basic course in x-ray diffraction and electron microscopy by introducing graduate students to characterization methods such as ion beam analysis, magnetic measurements, synchrotron techniques, scanning probe techniques, neutron scattering, optical spectroscopy</span><span class="deschide"> and dynamic characterization.</span><br />
+ <a href="" class="btn-readmore"><span>Materials Characterization:</span> Read More [+]</a></p>
+<div id="117" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> Materials characterization lies at the heart of understanding the property-structure-processing relationships of materials. The goal of the course is to prepare graduate students from materials science and related disciplines to understand the basic principles behind ion beam analysis, magnetic measurements, synchrotron techniques, scanning probe techniques, neutron scattering, optical spectroscopy and dynamic characterization.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in engineering, physics or chemistry. MSE 102 (or equivalent) and concurrent enrollment in MSE 204</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Scott, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Materials Characterization:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;205" data-toggle="#cb_matsci&#160;205">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;205</span> 
+<span class="title">Defects in Solids</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;205">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2014, Spring 2013<br/>
+Many properties of solid state materials are determined by lattice defects. This course treats in detail the structure of crystal defects, defect formation and annihilation processes, and the influence of lattice defects on the physical and optical properties of crystalline materials.</span><br />
+ <a href="" class="btn-readmore"><span>Defects in Solids:</span> Read More [+]</a></p>
+<div id="590" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Physics 7C or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Ramesh</p></div>
+<p><a href="" class="btn-readless"><span>Defects in Solids:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c208" data-toggle="#cb_matsci&#160;c208">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C208</span> 
+<span class="title">Biological Performance of Materials</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c208">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+This course is intended to give students the opportunity to expand their knowledge of topics related to biomedical materials selection and design. Structure-property relationships of biomedical materials and their interaction with biological systems will be addressed. Applications of the concepts developed include blood-materials compatibility, biomimetic materials, hard and soft tissue-materials interactions, drug delivery, tissue engineering</span><span class="deschide">, and biotechnology.</span><br />
+ <a href="" class="btn-readmore"><span>Biological Performance of Materials:</span> Read More [+]</a></p>
+<div id="946" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> The course is separated into four parts spanning the principles of synthetic materials and surfaces, principles of biological materials, biological performance of materials and devices, and state-of-the-art materials design. Students are required to attend class and master the material therein. In addition, readings from the clinical, life and materials science literature are assigned. Students are encouraged to seek out additional reference material to complement the readings assigned. A mid-term examination is given on basic principles (parts 1 and 2 of the outline). A comprehensive final examination is given as well. <br />The purpose of this course is to introduce students to problems associated with the selection and function of biomaterials. Through class lectures and readings in both the physical and life science literature, students will gain broad knowledge of the criteria used to select biomaterials, especially in devices where the material-tissue or material-solution interface dominates performance. Materials used in devices for medicine, dentistry, tissue engineering, drug delivery, and the biotechnology industry will be addressed.<br/>
+<br />This course also has a significant design component (~35%). Students will form small teams (five or less) and undertake a semester-long design project related to the subject matter of the course. The project includes the preparation of a paper and a 20 minute oral presentation critically analyzing a current material-tissue or material-solution problem. Students will be expected to design improvements to materials and devices to overcome the problems identified in class with existing materials.</p><p><strong>Student Learning Outcomes:</strong> Work independently and function on a team, and develop solid communication skills (oral, graphic &amp; written) through the class design project.<br/>
+•<br/>
+Develop an understanding of the social, safety and medical consequences of biomaterial use and regulatory issues associated with the selection of biomaterials in the context of the silicone breast implant controversy and subsequent biomaterials crisis.<br/>
+•<br/>
+Design experiments and analyze data from the literature in the context of the class design project.<br/>
+<br/>
+•<br/>
+Understanding of the origin of surface forces and interfacial free energy, and how they contribute to the development of the biomaterial interface and ultimately biomaterial performance.<br/>
+•<br/>
+Apply math, science &amp; engineering principles to the understanding of soft materials, surface chemistry, DLVO theory, protein adsorption kinetics, viscoelasticity, mass diffusion, and molecular (i.e., drug) delivery kinetics.<br/>
+•<br/>
+Apply core concepts in materials science to solve engineering problems related to the selection biomaterials, especially in devices where the material-tissue or material-solution interface dominates performance.<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Engineering 45; Chemistry C130/Molecular and Cell Biology C100A or Engineering 115 or equivalent; Bioengineering 102 and 104 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Healy</p><p><strong>Also listed as:</strong> BIO&#160;ENG&#160;C208</p></div>
+<p><a href="" class="btn-readless"><span>Biological Performance of Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c211" data-toggle="#cb_matsci&#160;c211">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C211</span> 
+<span class="title">Mechanics of Solids</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c211">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Mechanical response of materials: Simple tension in elastic, plastic and viscoelastic members. Continuum mechanics: The stress and strain tensors, equilibrium, compatibility. Three-dimensional elastic, plastic and viscoelastic problems. Thermal, transformation, and dealloying stresses. Applications: Plane problems, stress concentrations at defects, metal forming problems.</span><br />
+ <a href="" class="btn-readmore"><span>Mechanics of Solids:</span> Read More [+]</a></p>
+<div id="788" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Govindjee</p><p><strong>Also listed as:</strong> CIV&#160;ENG&#160;C231</p></div>
+<p><a href="" class="btn-readless"><span>Mechanics of Solids:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c212" data-toggle="#cb_matsci&#160;c212">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C212</span> 
+<span class="title">Deformation and Fracture of Engineering Materials</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c212">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This course covers deformation and fracture behavior of engineering materials for both monotonic and cyclic loading conditions.</span><br />
+ <a href="" class="btn-readmore"><span>Deformation and Fracture of Engineering Materials:</span> Read More [+]</a></p>
+<div id="591" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Civil Engineering 130, Engineering 45</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Ritchie, Pruitt, Komvopoulos</p><p><strong>Formerly known as:</strong> Materials Science and Engineering C212, Mechanical Engineering C225</p><p><strong>Also listed as:</strong> MEC&#160;ENG&#160;C225</p></div>
+<p><a href="" class="btn-readless"><span>Deformation and Fracture of Engineering Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;213" data-toggle="#cb_matsci&#160;213">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;213</span> 
+<span class="title">Environmental Effects on Materials Properties and Behavior</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;213">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2014, Fall 2013, Fall 2012<br/>
+Review of electrochemical aspects of corrosion; pitting and crevice corrosion; active/passive transition; fracture mechanics approach to corrosion; stress corrosion cracking; hydrogen embrittlement; liquid metal embrittlement; corrosion fatigue; testing methods.</span><br />
+ <a href="" class="btn-readmore"><span>Environmental Effects on Materials Properties and Behavior:</span> Read More [+]</a></p>
+<div id="173" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MSE 112 or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Devine</p></div>
+<p><a href="" class="btn-readless"><span>Environmental Effects on Materials Properties and Behavior:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c214" data-toggle="#cb_matsci&#160;c214">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C214</span> 
+<span class="title">Micromechanics</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c214">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2018, Spring 2016, Spring 2014<br/>
+Basic theories, analytical techniques, and mathematical foundations of micromechanics. It includes 1. physical micromechanics, such as mathematical theory of dislocation, and cohesive fracture models; 2. micro-elasticity that includes Eshelby's eigenstrain theory, comparison variational principles, and micro-crack/micro-cavity based damage theory; 3. theoretical composite material that includes the main methodologies in evaluating overall</span><span class="deschide"> material properties; 4. meso-plasticity that includes meso-damage theory, and the crystal plasticity; 5. homogenization theory for materials with periodic structures.</span><br />
+ <a href="" class="btn-readmore"><span>Micromechanics:</span> Read More [+]</a></p>
+<div id="671" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Govindjee, Li</p><p><strong>Also listed as:</strong> CIV&#160;ENG&#160;C236</p></div>
+<p><a href="" class="btn-readless"><span>Micromechanics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;215" data-toggle="#cb_matsci&#160;215">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;215</span> 
+<span class="title">Computational Materials Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;215">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Spring 2019, Fall 2017<br/>
+Introduction to computational materials science. Development of atomic scale simulations for materials science applications. Application of kinetic Monte Carlo, molecular dynamics, and total energy techniques to the modeling of surface diffusion processes, elastic constants, ideal shear strengths, and defect properties. Introduction to simple numerical methods for solving coupled differential equations and for studying correlations.</span><br />
+ <a href="" class="btn-readmore"><span>Computational Materials Science:</span> Read More [+]</a></p>
+<div id="996" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in engineering or sciences, or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Chrzan, Asta, Ceder, Sherburne</p></div>
+<p><a href="" class="btn-readless"><span>Computational Materials Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c216" data-toggle="#cb_matsci&#160;c216">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C216</span> 
+<span class="title">Macromolecular Science in Biotechnology and Medicine</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c216">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2015<br/>
+Overview of the problems associated with the selection and function of polymers used in biotechnology and medicine. Principles of polymer science, polymer synthesis, and structure-property-performance relationships of polymers. Particular emphasis is placed on the performance of polymers in biological environments. Interactions between macromolecular and biological systems for therapy and diagnosis. Specific applications</span><span class="deschide"> will include drug delivery, gene therapy, tissue engineering, and surface engineering.</span><br />
+ <a href="" class="btn-readmore"><span>Macromolecular Science in Biotechnology and Medicine:</span> Read More [+]</a></p>
+<div id="72" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Bioengineering 115 or equivalent; open to seniors with consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Healy</p><p><strong>Also listed as:</strong> BIO&#160;ENG&#160;C216</p></div>
+<p><a href="" class="btn-readless"><span>Macromolecular Science in Biotechnology and Medicine:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;217" data-toggle="#cb_matsci&#160;217">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;217</span> 
+<span class="title">Properties of Dielectric and Magnetic Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;217">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2017<br/>
+Introduction to the physical principles underlying the dielectric and magnetic properties of solids. Processing-microstructure-property relationships of dielectric materials, including piezoelectric, pyroelectric, and ferroelectric oxides, and of magnetic materials, including hard- and soft ferromagnets, ferrites and magneto-optic and -resistive materials. The course also covers the properties of grain boundary devices (including varistors) as well as ion-conducting</span><span class="deschide"> and mixed conducting materials for applications in various devices such as sensors, fuel cells, and electric batteries.</span><br />
+ <a href="" class="btn-readmore"><span>Properties of Dielectric and Magnetic Materials:</span> Read More [+]</a></p>
+<div id="673" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Physics 7A-7B-7C (or equivalent); Physics 7A-7B (or equivalent) and consent of instructor; MSE 111 (or equivalent) is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Martin</p></div>
+<p><a href="" class="btn-readless"><span>Properties of Dielectric and Magnetic Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;218" data-toggle="#cb_matsci&#160;218">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;218</span> 
+<span class="title">Optical Materials and Devices</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;218">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019<br/>
+This course provides an overview of the fundamental physics, processing and device applications of optical materials, including conventional and van der Waals semiconductors, plasmonic materials,<br/>
+metamaterials, etc. This course gives graduate students an introduction of the recent developments in the research fields of optical materials and nanophotonics. Topics covered include:<br/>
+Basic concepts on light-matter interactions. Excitons, biexcitons and trions.</span><span class="deschide"> Polaritons: plasmons, phonons and magnons. Plasmonic materials and their applications. Near field optics and its application in plasmonics. Raman spectroscopy and surface/tip enhanced Raman (SERS/TERS). Metamaterials: negative refraction, super-resolution imaging and optical invisibility.</span><br />
+ <a href="" class="btn-readmore"><span>Optical Materials and Devices:</span> Read More [+]</a></p>
+<div id="648" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> This course is designed to give graduate students an introduction of the recent developments in the research fields of optical materials and nanophotonics.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in engineering, physics or chemistry</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Yao</p></div>
+<p><a href="" class="btn-readless"><span>Optical Materials and Devices:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;223" data-toggle="#cb_matsci&#160;223">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;223</span> 
+<span class="title">Semiconductor Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;223">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Semiconductor purification and crystal growth techniques. Doping, radiation damage, and annealing. Metal-semiconductor interfaces and reactions. Interaction between defects and impurities during processing of devices. Major electronic and optical methods for the analysis of semiconductors.</span><br />
+ <a href="" class="btn-readmore"><span>Semiconductor Materials:</span> Read More [+]</a></p>
+<div id="139" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Physics 7C or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Dubon, Wu</p></div>
+<p><a href="" class="btn-readless"><span>Semiconductor Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;224" data-toggle="#cb_matsci&#160;224">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;224</span> 
+<span class="title">Magnetism and Magnetic Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;224">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2018, Fall 2016, Fall 2014<br/>
+This course covers the fundamentals of magnetism and magnetic materials in the first two-thirds of the class. Topics include magnetic moments in classical versus quantum mechanical pictures, diamagnetism, paramagnetism, crystal field environments, dipolar and exchange interactions, ferromagnetism, antiferromagnetism, magnetic domains, magnetic anisotropy, and magnetostriction. Magnetic materials covered include transition metals, their alloys and</span><span class="deschide"> oxides, rare earths and their oxides, organic and molecular magnets. Throughout the course, experimental techniques in magnetic characterization will be discussed. The second part of the course will focus on particular magnetic materials and devices that are of technological interest (e.g., magnetoresistive and magneto-optical materials and devices). Additional topics include biomagnetism and spin glasses.</span><br />
+ <a href="" class="btn-readmore"><span>Magnetism and Magnetic Materials:</span> Read More [+]</a></p>
+<div id="401" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 111 or equivalent or consent of instructor; 117 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Magnetism and Magnetic Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c225" data-toggle="#cb_matsci&#160;c225">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C225</span> 
+<span class="title">Thin-Film Science and Technology</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c225">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018, Spring 2017<br/>
+Thin-film nucleation and growth, microstructural evolution and reactions. Comparison of thin-film deposition techniques. Characterization techniques. Processing of thin films by ion implantation and rapid annealing. Processing-microstructure-property-performance relationships in the context of applications in information storage, ICs, micro-electromechanical systems and optoelectronics.</span><br />
+ <a href="" class="btn-readmore"><span>Thin-Film Science and Technology:</span> Read More [+]</a></p>
+<div id="979" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in engineering, physics, chemistry, or chemical engineering</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Wu, Dubon</p><p><strong>Also listed as:</strong> AST&#160;C225</p></div>
+<p><a href="" class="btn-readless"><span>Thin-Film Science and Technology:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c226" data-toggle="#cb_matsci&#160;c226">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C226</span> 
+<span class="title">Photovoltaic Materials; Modern Technologies in the Context of a Growing Renewable Energy Market</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c226">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2015, Spring 2013, Spring 2011<br/>
+This technical course focuses on the fundamentals of photovoltaic energy conversion with respect to the physical principals of operation and design of efficient semiconductor solar cell devices. This course aims to equip students with the concepts and analytical skills necessary to assess the utility and viability of various modern photovoltaic technologies in the context of a growing global renewable energy market.</span><br />
+ <a href="" class="btn-readmore"><span>Photovoltaic Materials; Modern Technologies in the Context of a Growing Renewable Energy Market:</span> Read More [+]</a></p>
+<div id="190" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Material Science and Mineral Engineering 111 or 123 or equivalent. Should have a firm foundation in electronic and optical props of semiconductors and basic semiconductor device physics</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Also listed as:</strong> ENE,RES&#160;C226</p></div>
+<p><a href="" class="btn-readless"><span>Photovoltaic Materials; Modern Technologies in the Context of a Growing Renewable Energy Market:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;241" data-toggle="#cb_matsci&#160;241">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;241</span> 
+<span class="title">Electron Microscopy Laboratory</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;241">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This course covers the basic principles of techniques used in the characterization of engineering<br/>
+materials by electron microscopy, diffraction, and spectroscopy. In addition to lectures on the<br/>
+theory of electron diffraction and microscopy, there is a hands-on laboratory that offers<br/>
+detailed practical training in the operation of the transmission electron microscope (TEM) in all<br/>
+of its major functional diffraction and</span><span class="deschide"> imaging modes.</span><br />
+ <a href="" class="btn-readmore"><span>Electron Microscopy Laboratory:</span> Read More [+]</a></p>
+<div id="535" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MATSCI 104 or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of laboratory and 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and four hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Gronsky, Minor</p></div>
+<p><a href="" class="btn-readless"><span>Electron Microscopy Laboratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;242" data-toggle="#cb_matsci&#160;242">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;242</span> 
+<span class="title">Advanced Spectroscopy</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;242">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2017<br/>
+Advanced structural and functional characterization of materials using spectroscopic methods. Techniques to be discussed include state of the art optical, x-ray and ion-beam spectroscopies used for characterization of advanced materials and devices.</span><br />
+ <a href="" class="btn-readmore"><span>Advanced Spectroscopy:</span> Read More [+]</a></p>
+<div id="625" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 204 or 205 or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture and 3 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Lecture and Three hours of Laboratory per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Advanced Spectroscopy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c250" data-toggle="#cb_matsci&#160;c250">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C250</span> 
+<span class="title">Nanomaterials in Medicine</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c250">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+The course is designed for graduate students interested in the emerging field of nanomedicine. The course will involve lectures, literature reviews and proposal writing. Students will be required to formulate a nanomedicine research project and write an NIH-style proposal during the course. The culmination of this project will involve a mock review panel in which students will serve as peer reviewers to read and evaluate the proposals.</span><br />
+ <a href="" class="btn-readmore"><span>Nanomaterials in Medicine:</span> Read More [+]</a></p>
+<div id="84" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> To review the current literature regarding the use of nanomaterials in medical applications; (2) To describe approaches to nanomaterial synthesis and surface modification; (3) To understand the interaction of nanomaterials with proteins, cells and biological systems; (4) To familiarize students with proposal writing and scientific peer review.</p><p><strong>Student Learning Outcomes:</strong> Students should be able to (1) identify the important properties of metal, polymer and ceramic nanomaterials used in healthcare; (2) understand the role of size, shape and surface chemistry of nanomaterials in influencing biological fate and performance; (3) understand common methods employed for surface modification of nanomaterials; (4) comprehend the range of cell-nanomaterial interactions and methods for assaying these interactions; (5) read and critically review the scientific literature relating to nanomedicine; (6) formulate and design an experimental nanomedicine research project; (7) understand the principles of the peer review system.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate Standing</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Messersmith</p><p><strong>Also listed as:</strong> BIO&#160;ENG&#160;C250</p></div>
+<p><a href="" class="btn-readless"><span>Nanomaterials in Medicine:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;251" data-toggle="#cb_matsci&#160;251">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;251</span> 
+<span class="title">Polymer Surfaces and Interfaces</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;251">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2017, Fall 2016<br/>
+The course is designed for graduate students to gain a fundamental understanding of the surface and interfacial science of polymeric materials. Beginning with a brief introduction of the principles governing polymer phase behavior in bulk, it develops the thermodynamics of polymers in thin films and at interfaces, the characterization techniques to assess polymer behavior in thin films and at interfaces, and the morphologies of polymer thin films</span><span class="deschide"> and other dimensionally-restricted structures relevant to nanotechnology and biotechnology. Field trips to national user facilities, laboratory demonstrations and hands-on experiments, and guest lectures will augment the courses lectures.</span><br />
+ <a href="" class="btn-readmore"><span>Polymer Surfaces and Interfaces:</span> Read More [+]</a></p>
+<div id="526" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Chemistry 1A or Engineering 5; Material Science and Engineering 151 recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Xu</p></div>
+<p><a href="" class="btn-readless"><span>Polymer Surfaces and Interfaces:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;260" data-toggle="#cb_matsci&#160;260">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;260</span> 
+<span class="title">Surface Properties of Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;260">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2019, Spring 2018, Spring 2015<br/>
+Thermodynamics of surfaces and phase boundaries, surface tension of solids and liquids, surface activity, adsorption, phase equilibria, and contact angles, electrochemical double layers at interfaces, theory, and applications.</span><br />
+ <a href="" class="btn-readmore"><span>Surface Properties of Materials:</span> Read More [+]</a></p>
+<div id="848" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Salmeron</p><p><strong>Formerly known as:</strong> Mineral Engineering 260</p></div>
+<p><a href="" class="btn-readless"><span>Surface Properties of Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c261" data-toggle="#cb_matsci&#160;c261">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C261</span> 
+<span class="title">Introduction to Nano-Science and Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c261">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2015, Spring 2013, Spring 2012<br/>
+A three-module introduction to the fundamental topics of Nano-Science and Engineering (NSE) theory and research within chemistry, physics, biology, and engineering. This course includes quantum and solid-state physics; chemical synthesis, growth fabrication, and characterization techniques; structures and properties of semiconductors, polymer, and biomedical materials on nanoscales; and devices based on nanostructures. Students must take</span><span class="deschide"> this course to satisfy the NSE Designated Emphasis core requirement.</span><br />
+ <a href="" class="btn-readmore"><span>Introduction to Nano-Science and Engineering:</span> Read More [+]</a></p>
+<div id="888" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Major in physical science such as chemistry, physics, etc., or engineering; consent of advisor or instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructors:</strong> Gronsky, S.W. Lee, Wu</p><p><strong>Also listed as:</strong> BIO&#160;ENG&#160;C280/NSE&#160;C201/PHYSICS&#160;C201</p></div>
+<p><a href="" class="btn-readless"><span>Introduction to Nano-Science and Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c286" data-toggle="#cb_matsci&#160;c286">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C286</span> 
+<span class="title">Modeling and Simulation of Advanced Manufacturing Processes</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c286">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+This course provides the student with a modern introduction to the basic industrial practices, modeling techniques, theoretical background, and computational methods to treat classical and cutting edge manufacturing processes in a coherent and self-consistent manner.</span><br />
+ <a href="" class="btn-readmore"><span>Modeling and Simulation of Advanced Manufacturing Processes:</span> Read More [+]</a></p>
+<div id="478" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives & Outcomes</strong></p><p><strong>Course Objectives:</strong> An introduction to modeling and simulation of modern manufacturing processes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> An undergraduate course in strength of materials or 122</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and one hour of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Zohdi</p><p><strong>Also listed as:</strong> MEC&#160;ENG&#160;C201/NUC&#160;ENG&#160;C226</p></div>
+<p><a href="" class="btn-readless"><span>Modeling and Simulation of Advanced Manufacturing Processes:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;c287" data-toggle="#cb_matsci&#160;c287">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;C287</span> 
+<span class="title">Computational Design of Multifunctional/Multiphysical Composite Materials</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;c287">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2012<br/>
+The course is self-contained and is designed in an interdisciplinary manner for graduate students in engineering, materials science, physics, and applied mathematics who are interested in methods to accelerate the laboratory analysis and design of new materials. Examples draw primarily from various mechanical, thermal, diffusive, and electromagnetic applications.</span><br />
+ <a href="" class="btn-readmore"><span>Computational Design of Multifunctional/Multiphysical Composite Materials:</span> Read More [+]</a></p>
+<div id="767" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> An undergraduate degree in the applied sciences or engineering</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-3 hours of lecture and 0-1 hours of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture and zero to one hours of discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Zohdi</p><p><strong>Also listed as:</strong> MEC&#160;ENG&#160;C202</p></div>
+<p><a href="" class="btn-readless"><span>Computational Design of Multifunctional/Multiphysical Composite Materials:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;290a" data-toggle="#cb_matsci&#160;290a">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;290A</span> 
+<span class="title">Special Topics in Materials Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;290a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+Lectures and appropriate assignments on fundatmental or applied topics of current interest in materials science and engineering.</span><br />
+ <a href="" class="btn-readmore"><span>Special Topics in Materials Science:</span> Read More [+]</a></p>
+<div id="910" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> 290M</p></div>
+<p><a href="" class="btn-readless"><span>Special Topics in Materials Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;290m" data-toggle="#cb_matsci&#160;290m">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;290M</span> 
+<span class="title">Special Problems in Materials Science</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;290m">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2009, Spring 2008, Spring 2006<br/>
+Selected topics in the thermodynamic, kinetic or phase transformation behavior of solid materials. Topics will generally be selected based on student interest in Mat Sci 201A-201B. The course provides an opportunity to explore subjects of particular interest in greater depth.</span><br />
+ <a href="" class="btn-readmore"><span>Special Problems in Materials Science:</span> Read More [+]</a></p>
+<div id="211" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 201A-201B or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Morris</p></div>
+<p><a href="" class="btn-readless"><span>Special Problems in Materials Science:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;296a" data-toggle="#cb_matsci&#160;296a">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;296A</span> 
+<span class="title">Independent Research for Five-Year BS/MS Program</span> 
+<span class="hours">1 - 2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;296a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+This is the first semester of a two-course sequence for those majors in the five year BS/MS program. Students are expected to formulate, develop and initiate an independent research project under the supervision of a research advisor. This course will meet once at the beginning of the semester to outline the expectations of the course. Periodic meetings covering topics such as maintaining a lab notebook, effective oral communication, and writing</span><span class="deschide"> a journal publication will be scheduled. Students will be expected to keep a laboratory notebook outlining their progress during the semester. A progress report will be due at the end of Materials Science and Engineering 296A. Students will also be expected to give an oral presentation, describing their research project and progress toward their goals in front of their peers at the end of the semester.</span><br />
+ <a href="" class="btn-readmore"><span>Independent Research for Five-Year BS/MS Program:</span> Read More [+]</a></p>
+<div id="175" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Acceptance into the five year BS/MS program</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-2 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Two hour of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Independent Research for Five-Year BS/MS Program:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;296b" data-toggle="#cb_matsci&#160;296b">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;296B</span> 
+<span class="title">Independent Research for Five-Year BS/MS Program</span> 
+<span class="hours">1 - 2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;296b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+This is the second semester of a two-course sequence for those majors in the five year BS/MS program. Students are expected to complete an independent research project under the supervision of a research advisor initiated in Materials Science and Engineering 296A. This course will meet once at the beginning of the semester to outline the expectations of the course. Periodic meetings covering topics such as data analysis and design of experiment</span><span class="deschide"> will be scheduled. Students will be expected to keep a laboratory notebook outlining their progress during the semester. A final report in journal publication form will be due at the end of the semester. Each student will also give a final presentation on his/her research project at the end of the semester.</span><br />
+ <a href="" class="btn-readmore"><span>Independent Research for Five-Year BS/MS Program:</span> Read More [+]</a></p>
+<div id="338" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 296A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-2 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Two hour of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Independent Research for Five-Year BS/MS Program:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;298" data-toggle="#cb_matsci&#160;298">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;298</span> 
+<span class="title">Group Studies, Seminars, or Group Research</span> 
+<span class="hours">1 - 8 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;298">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Advanced study in various subjects through special seminars on topics to be selected each year, informal group studies of special problems, group participation in comprehensive design problems or group research on complete problems for analysis and experimentation.</span><br />
+ <a href="" class="btn-readmore"><span>Group Studies, Seminars, or Group Research:</span> Read More [+]</a></p>
+<div id="416" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-8 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to Eight hour of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Group Studies, Seminars, or Group Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;299" data-toggle="#cb_matsci&#160;299">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;299</span> 
+<span class="title">Individual Study or Research</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;299">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2020 3 Week Session, Spring 2020, Fall 2019<br/>
+Individual investigation of advanced materials science problems.</span><br />
+ <a href="" class="btn-readmore"><span>Individual Study or Research:</span> Read More [+]</a></p>
+<div id="736" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in engineering</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-12 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-12 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-12 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Twelve hour of Independent study per week for 15 weeks. One to Twelve hour of Independent study per week for 8 weeks. One to Twelve hour of Independent study per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Study or Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;375a" data-toggle="#cb_matsci&#160;375a">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;375A</span> 
+<span class="title">Science and Engineering Pedagogy</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;375a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2016, Fall 2015, Fall 2014<br/>
+Discussion and research of pedagogical issues. Supervised practice teaching in materials science and engineering.</span><br />
+ <a href="" class="btn-readmore"><span>Science and Engineering Pedagogy:</span> Read More [+]</a></p>
+<div id="850" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing and appointment, or interest in appointment, as a graduate student instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One to two hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Professional course for teachers or prospective teachers</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p><p><strong>Instructor:</strong> Gronsky</p><p><strong>Formerly known as:</strong> Material Science and Engineering 300</p></div>
+<p><a href="" class="btn-readless"><span>Science and Engineering Pedagogy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;375b" data-toggle="#cb_matsci&#160;375b">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;375B</span> 
+<span class="title">Supervised Teaching of Materials Science and Engineering</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;375b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+Disucssion and research of pedagogical issues. Supervised practice teaching in Materials and Science and Engineering.</span><br />
+ <a href="" class="btn-readmore"><span>Supervised Teaching of Materials Science and Engineering:</span> Read More [+]</a></p>
+<div id="706" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing and appointment, or interest in appointment, as a graduate student instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> One hour of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Professional course for teachers or prospective teachers</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p><p><strong>Formerly known as:</strong> Material Science and Engineering 300</p></div>
+<p><a href="" class="btn-readless"><span>Supervised Teaching of Materials Science and Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;601" data-toggle="#cb_matsci&#160;601">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;601</span> 
+<span class="title">Individual Study for Master's Students</span> 
+<span class="hours">1 - 8 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;601">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Fall 2018<br/>
+Individual study for the comprehensive or language requirements in consultation with the field adviser.</span><br />
+ <a href="" class="btn-readmore"><span>Individual Study for Master's Students:</span> Read More [+]</a></p>
+<div id="459" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in engineering</p><p><strong>Credit Restrictions:</strong> Course does not satisfy unit or residence requirements for master's degree.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-8 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Eight hour of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate examination preparation</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Study for Master's Students:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_matsci&#160;602" data-toggle="#cb_matsci&#160;602">
+<h3 class="courseblocktitle">
+<span class="code">MAT&#160;SCI&#160;602</span> 
+<span class="title">Individual Study for Doctoral Students</span> 
+<span class="hours">1 - 8 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_matsci&#160;602">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Fall 2018<br/>
+Individual study in consultation with the major field adviser, intended to provide an opportunity for qualified students to prepare themselves for the various examinations required of candidates for the Ph.D. (and other doctoral degrees).</span><br />
+ <a href="" class="btn-readmore"><span>Individual Study for Doctoral Students:</span> Read More [+]</a></p>
+<div id="778" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing in engineering</p><p><strong>Credit Restrictions:</strong> Course does not satisfy unit or residence requirements for doctoral degree.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Zero hours of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Materials Science and Engineering/Graduate examination preparation</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Study for Doctoral Students:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

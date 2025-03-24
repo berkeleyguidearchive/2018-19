@@ -1,0 +1,57 @@
+
+print_doc('<?xml version="1.0"?>\n<courseinfo>\n');
+
+var fsdb = "fsinjector";
+var dbtable = "fsi";
+// ATTACH DATABASE version of the bubbles, no ribbit.cfg entries needed
+if(http["edition"]) {
+	// first, try to attach the edition specific database
+	var httpedition = dbesc("fsinjector", decodeURIComponent(http["edition"]));
+	var filename = dbesc("fsinjector", fsdb) + httpedition + ".sqlite";
+	var res = finfo(filename);
+	if (res) {
+		res = dbexec("pagedb", "ATTACH DATABASE '" + filename + "' AS fs");
+		res = dbquery("pagedb", "SELECT * FROM fsi LIMIT 1");
+	}
+	if(res && res.length) {
+		dbtable = "fs.fsi";
+		fsdb = "pagedb";
+	} else {
+		// if can't attach, just use db by name from ribbit.cfg
+		fsdb += httpedition;
+	}
+}
+
+for(var i in http)
+	http[i] = http[i].replace(/\+/g, " ");
+var code = "";
+if(http["code"])
+	code = decodeURIComponent(http["code"]);
+var subject = "";
+if(http["subject"])
+	subject = decodeURIComponent(http["subject"]);
+else if(http["department"])
+	subject = decodeURIComponent(http["department"]);
+
+if(subject.length || code.length) {
+	var sql = "";
+	var params = [];
+	if(code.length) {
+		sql = "SELECT * FROM " + dbtable + " WHERE path = ?";
+		params = ["course:" + code.replace(/&amp;/g, "&")];
+	} else {
+		sql = "SELECT * FROM " + dbtable + " WHERE path LIKE ?";
+		params = ["course:" + subject.replace(/&amp;/g, "&") + "%"];
+	}
+	var res = dbquery(fsdb, sql, params);
+
+	for(var i=0; res && i < res.length; i++) {
+		var code = res[i].path.replace(/course:/, "");
+		print_doc('<course code="' + escxml(code) + '">\n');
+		print_doc('<![CDATA[\n')
+		print_doc(res[i].description + "\n");
+		print_doc(']]>\n');
+		print_doc("</course>\n");
+	}
+}
+print_doc("</courseinfo>\n");

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="biophycourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_biophyh196" data-toggle="#cb_biophyh196">
+<h3 class="courseblocktitle">
+<span class="code">BIOPHY&#160;H196</span> 
+<span class="title">Honors Research in Biophysics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_biophyh196">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Supervised independent honors research on topics specific to biophysics, followed by brief written report and presentation at year-end student research colloquium.</span><br />
+ <a href="" class="btn-readmore"><span>Honors Research in Biophysics:</span> Read More [+]</a></p>
+<div id="93" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Upper division standing; minimum GPA 3.2; consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit up to a total of 12 units.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Biophysics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Honors Research in Biophysics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_biophy292" data-toggle="#cb_biophy292">
+<h3 class="courseblocktitle">
+<span class="code">BIOPHY&#160;292</span> 
+<span class="title">Research</span> 
+<span class="hours">3 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_biophy292">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2020 10 Week Session, Spring 2020, Fall 2019<br/>
+Individual research under the supervision of a faculty member.</span><br />
+ <a href="" class="btn-readmore"><span>Research:</span> Read More [+]</a></p>
+<div id="995" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-12 hours of independent study per week</p><p><strong>Summer:</strong> 10 weeks - 3-12 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three to twelve hours of independent study per week. Three to twelve hours of independent study per week for 10 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Biophysics/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. </p></div>
+<p><a href="" class="btn-readless"><span>Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_biophy293a" data-toggle="#cb_biophy293a">
+<h3 class="courseblocktitle">
+<span class="code">BIOPHY&#160;293A</span> 
+<span class="title">Research Seminar: Faculty Evening Research Presentations (FERPS) and Student Evening Research Presentations (SERPS)</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_biophy293a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Seminar on presentation and evaluation of results in area of student's individual research interests.</span><br />
+ <a href="" class="btn-readmore"><span>Research Seminar: Faculty Evening Research Presentations (FERPS) and Student Evening Research Presentations (SERPS):</span> Read More [+]</a></p>
+<div id="873" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 292</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Biophysics/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. This is part one of a year long series course. A provisional grade of IP (in progress) will be applied and later replaced with the final grade after completing part two of the series. </p></div>
+<p><a href="" class="btn-readless"><span>Research Seminar: Faculty Evening Research Presentations (FERPS) and Student Evening Research Presentations (SERPS):</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_biophy293b" data-toggle="#cb_biophy293b">
+<h3 class="courseblocktitle">
+<span class="code">BIOPHY&#160;293B</span> 
+<span class="title">Research Seminar: Faculty Evening Research Presentations (FERPS) and Student Evening Research Presentations (SERPS)</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_biophy293b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Seminar on presentation and evaluation of results in area of student's individual research interests.</span><br />
+ <a href="" class="btn-readmore"><span>Research Seminar: Faculty Evening Research Presentations (FERPS) and Student Evening Research Presentations (SERPS):</span> Read More [+]</a></p>
+<div id="413" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 293A, and 292</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Biophysics/Graduate</p><p><strong>Grading:</strong> Offered for satisfactory/unsatisfactory grade only. This is part two of a year long series course. Upon completion, the final grade will be applied to both parts of the series. </p></div>
+<p><a href="" class="btn-readless"><span>Research Seminar: Faculty Evening Research Presentations (FERPS) and Student Evening Research Presentations (SERPS):</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

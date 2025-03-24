@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<h3>Please note: CYBER courses are only available for Information and Cybersecurity (MICS) students.</h3>
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw200" data-toggle="#cb_cyberw200">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W200</span> 
+<span class="title">Beyond the Code: Cybersecurity in Context</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw200">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+This course explores the most important elements beyond technology that shape the playing field on which cybersecurity problems emerge and are managed. The course emphasizes how ethical, legal, and economic frameworks enable and constrain security technologies and policies. It introduces some of the most important macro-elements (such as national security considerations and interests of nation-states) and micro-elements (such as behavioral</span><span class="deschide"> economic insights into how people understand and interact with security features). Specific topics include policymaking, business models, legal frameworks, national security considerations, ethical issues, standards making, and the roles of users, government, and industry.</span><br/>
+ <a href="" class="btn-readmore"><span>Beyond the Code: Cybersecurity in Context:</span> Read More [+]</a></p>
+<div id="310" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Hoofnagle</p></div>
+<p><a href="" class="btn-readless"><span>Beyond the Code: Cybersecurity in Context:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw202" data-toggle="#cb_cyberw202">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W202</span> 
+<span class="title">Cryptography for Cyber and Network Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw202">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+This course focuses on both mathematical and practical foundations of cryptography. The course discusses asymmetric and symmetric cryptography, Kerchkoff’s Principle, chosen and known plaintext attacks, public key infrastructure, X.509, SSL/TLS (https), and authentication protocols. The course will include an in-depth discussion of many different cryptosystems including the RSA, Rabin, DES, AES, Elliptic Curve, and SHA family cryptosystems.</span><span class="deschide"> This course also introduces advanced topics of applied cryptography, including a brief introduction to homomorphic encrypted computation and secure multi-party computation to protect sensitive data during arbitrary computation, cryptocurrency and its cryptographic building blocks, and quantum computing.</span><br/>
+ <a href="" class="btn-readmore"><span>Cryptography for Cyber and Network Security:</span> Read More [+]</a></p>
+<div id="600" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Tygar</p></div>
+<p><a href="" class="btn-readless"><span>Cryptography for Cyber and Network Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw204" data-toggle="#cb_cyberw204">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W204</span> 
+<span class="title">Software Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw204">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+The course presents the challenges, principles, mechanisms and tools to make software secure. We will discuss the main causes of vulnerabilities and the means to avoid and defend against them. The focus is on secure programming practice, including specifics for various languages, but also covering system-level defenses (architectural approaches and run-time enforcement). We will also apply software analysis and vulnerability detection tools</span><span class="deschide"> in different scenarios.</span><br/>
+ <a href="" class="btn-readmore"><span>Software Security:</span> Read More [+]</a></p>
+<div id="279" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> *Apply and manage secure coding practices throughout software project development<br/>
+<br/>*Gain a good comprehension of the landscape of software security vulnerabilities, with specifics for various programming languages and types of software applications<br/>
+<br/>*Gain the ability to analyze the security of a software system and convincingly advocate about the significance of vulnerabilities<br/>
+<br/>*Know representative tools for software security analysis and testing, use them in practice and understand their capabilities and limitations<br/>
+<br/>*Recognize insecure programming patterns and know how to replace them with secure alternatives<br/></p><p><strong>Student Learning Outcomes:</strong> Students will be able to apply and manage secure coding practices throughout software project development<br/>
+Students will be able to recognize insecure programming patterns and know how to replace them with secure alternatives<br/>
+Students will gain a good comprehension of the landscape of software security vulnerabilities, with specifics for various programming languages and types of software applications<br/>
+Students will gain the ability to analyze the security of a software system and convincingly advocate about the significance of vulnerabilities<br/>
+Students will know representative tools for software security analysis and testing, use them in practice and understand their capabilities and limitations</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> CYBER W202 must be taken prior to or concurrently with CYBER W204. Knowledge of at least one non-scripting programming language (e.g. C, C++, or Java); fundamental knowledge of information systems (review of operating systems notions). MICS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Software Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw207" data-toggle="#cb_cyberw207">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W207</span> 
+<span class="title">Applied Machine Learning for Cybersecurity</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw207">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Machine learning is a rapidly growing field at the intersection of computer science and statistics concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones. This course provides a broad introduction to the key ideas in machine learning, with a focus on applications and concepts relevant to cybersecurity. The emphasis will</span><span class="deschide"> be on intuition and practical examples rather than theoretical results, though some experience with probability, statistics, and linear algebra will be important.</span><br/>
+ <a href="" class="btn-readmore"><span>Applied Machine Learning for Cybersecurity:</span> Read More [+]</a></p>
+<div id="95" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Cybersecurity students only. Experience with probability and statistics. Intermediate competency in Python, C, or Java, and competency in Linux, GitHub, and relevant Python libraries; or permission of instructor. Linear algebra is recommended</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Gillick</p></div>
+<p><a href="" class="btn-readless"><span>Applied Machine Learning for Cybersecurity:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw210" data-toggle="#cb_cyberw210">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W210</span> 
+<span class="title">Network Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw210">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2019, Summer 2019<br/>
+Introduction to networking and security as applied to networks. Exercises cover network programming in a language of the student's choice, understanding and analyzing packet traces using tools like wireshark and mitmproxy, as well as applying security principles to analyze and determine network security. After this course, the student will have a fundamental understanding of networking, TLS and security as it applies to networked systems.</span><br/>
+ <a href="" class="btn-readmore"><span>Network Security:</span> Read More [+]</a></p>
+<div id="637" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. Basic understanding of internet network protocols</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Network Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw211" data-toggle="#cb_cyberw211">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W211</span> 
+<span class="title">Operating System Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw211">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019<br/>
+This survey of operating system security compares approaches to security taken among several modern operating systems. The course will teach how to conceptualize design issues, principles, and good practices in securing systems in today’s increasingly diverse and complex computing ecosystem, which extends from things and personal devices to enterprises, with processing increasingly in the cloud. We will approach operating systems individually and then build</span><span class="deschide"> on them so that students learn techniques for establishing trust across a set of interoperating systems.</span><br/>
+ <a href="" class="btn-readmore"><span>Operating System Security:</span> Read More [+]</a></p>
+<div id="791" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> CYBER W200, CYBER W202, CYBER W204, and CYBER W210. Working knowledge of at least one object-oriented programming language and computer architecture (e.g. Intel x86-64bit). MICS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Operating System Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw215" data-toggle="#cb_cyberw215">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W215</span> 
+<span class="title">Usable Privacy and Security</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw215">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019<br/>
+Security and privacy systems can be made more usable by designing them with the user in mind, from the ground up. In this course, you will learn many of the common pitfalls of designing usable privacy and security systems, techniques for designing more usable systems, and how to evaluate privacy and security systems for usability. Through this course, you will learn methods for designing software systems that are more secure because they minimize the potential</span><span class="deschide"> for human error.</span><br/>
+ <a href="" class="btn-readmore"><span>Usable Privacy and Security:</span> Read More [+]</a></p>
+<div id="129" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. CYBER W200, CYBER W202</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Usable Privacy and Security:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw220" data-toggle="#cb_cyberw220">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W220</span> 
+<span class="title">Managing Cyber Risk</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw220">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2019, Spring 2019<br/>
+This course offers valuable perspective for both the non-technical business manager and the technical cybersecurity or IT manager. It is the vital connector between the technical world of threats, vulnerabilities, and exploits, and the business world of board-level objectives, enterprise risk management, and organizational leadership. Now more than ever, managers have a need and responsibility to understand cyber risk. Just as financial risks and other</span><span class="deschide"> operational risks have to be effectively managed within an organization, cyber risk has to be managed. It spans far beyond information technology, with broad implications in the areas of organizational behavior, financial risk modeling, legal issues, and executive leadership.</span><br/>
+ <a href="" class="btn-readmore"><span>Managing Cyber Risk:</span> Read More [+]</a></p>
+<div id="512" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Compare and employ approaches to cyber risk management and measurement.<br/>
+Develop a basic cybersecurity strategic plan and understand how it aligns with the core business value of the company.<br/>
+Navigate corporate structures to create a strong cyber security program and obtain senior leadership buy-in.<br/>
+Understand security product verticals, identify common use cases for those products, and define requirements for acquiring solutions relevant to a business use case.<br/>
+Understand the basic principles and best practices of responding to a cybersecurity incident<br/></p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Managing Cyber Risk:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw233" data-toggle="#cb_cyberw233">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W233</span> 
+<span class="title">Privacy Engineering</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw233">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Summer 2019, Spring 2019<br/>
+This course surveys privacy mechanisms applicable to systems engineering, with a particular focus on the inference threat arising due to advancements in artificial intelligence and machine learning. We will briefly discuss the history of privacy and compare two major examples of general legal frameworks for privacy from the United States and the European Union. We then survey three design frameworks of privacy that may be used to guide the</span><span class="deschide"> design of privacy-aware information systems. Finally, we survey threat-specific technical privacy frameworks and discuss their applicability in different settings, including statistical privacy with randomized responses, anonymization techniques, semantic privacy models, and technical privacy mechanisms.</span><br/>
+ <a href="" class="btn-readmore"><span>Privacy Engineering:</span> Read More [+]</a></p>
+<div id="258" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Students should be able to implement such privacy paradigms, and embed them in information systems during the design process and the implementation phase.<br/>
+Students should be familiar with the different technical paradigms of privacy that are applicable for systems engineering.<br/>
+Students should develop critical thinking about the strengths and weaknesses of the different privacy paradigms.<br/>
+Students should possess the ability to read literature in the field to stay updated about the state of the art.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only; or, permission of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Privacy Engineering:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw242" data-toggle="#cb_cyberw242">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W242</span> 
+<span class="title">Government, National Security, and the Fifth Domain</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw242">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2019<br/>
+A variety of actors exploit government and private networks, systems, and data. Perpetrators target these systems to engage in cybercrime, espionage, disinformation campaigns, disruption of essential services, destruction of critical infrastructure, and the deletion, theft, or alteration of data. The government, military, and private sector have various roles and responsibilities with regard to the protection of the cyber domain. In this course, students critically</span><span class="deschide"> evaluate these roles and responsibilities, the manner in which government networks, systems, and data are secured, and the ability of national and international cybersecurity strategies and partnerships to provide effective and efficient protection of the fifth domain.</span><br/>
+ <a href="" class="btn-readmore"><span>Government, National Security, and the Fifth Domain:</span> Read More [+]</a></p>
+<div id="900" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Critically assess national and international cybersecurity strategies<br/>
+Describe and evaluate national and international public-private partnerships.<br/>
+Discuss the fifth domain and its protection within the context of national security.<br/>
+Identify lessons learned and recommend ways to improve national and international approaches to cybersecurity.<br/>
+Identify the roles and responsibilities of the military, government, and the private sector in cybersecurity.<br/>
+Utilize an evidence-based approach to analyze the security of government networks and systems and privacy of retained data.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> MICS students only. CYBER W200, CYBER W202</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 3 hours of web-based lecture per week</p><p><strong>Summer:</strong> 14 weeks - 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of web-based lecture per week for fourteen weeks. Three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Government, National Security, and the Fifth Domain:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw289" data-toggle="#cb_cyberw289">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W289</span> 
+<span class="title">Public Interest Cybersecurity: The Citizen Clinic Practicum</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw289">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Summer 2019<br/>
+This course provides students with real-world experience assisting politically vulnerable organizations and persons around the world to develop and implement sound cybersecurity practices. In the classroom, students study basic theories and practices of digital security, intricacies of protecting largely under-resourced organizations, and tools needed to manage risk in complex political, sociological, legal, and ethical contexts. In the clinic, students work in teams</span><span class="deschide"> supervised by Clinic staff to provide direct cybersecurity assistance to civil society organizations. We emphasize pragmatic, workable solutions that take into account the unique needs of each partner organization.</span><br/>
+ <a href="" class="btn-readmore"><span>Public Interest Cybersecurity: The Citizen Clinic Practicum:</span> Read More [+]</a></p>
+<div id="122" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Cybersecurity students only</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 14 weeks - 6 hours of clinic and 3 hours of web-based lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Six hours of clinic and three hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Weber</p></div>
+<p><a href="" class="btn-readless"><span>Public Interest Cybersecurity: The Citizen Clinic Practicum:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyberw295" data-toggle="#cb_cyberw295">
+<h3 class="courseblocktitle">
+<span class="code">CYBER W295</span> 
+<span class="title">Capstone</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyberw295">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 2020, Fall 2019<br/>
+This capstone course will cement skills and knowledge learned throughout the Master of Information and Cybersecurity program: core cybersecurity technical skills, understanding of the societal factors that impact the cybersecurity domain and how cybersecurity issues impact humans, and professional skills such as problem-solving, communication, influencing, collaboration, and group management – to prepare students for success in the field. The centerpiece</span><span class="deschide"> is a semester-long group project in which teams of students propose and select a complex cybersecurity issue and apply multi-faceted analysis and problem-solving to identify, assess, and manage risk and deliver impact.</span><br/>
+ <a href="" class="btn-readmore"><span>Capstone:</span> Read More [+]</a></p>
+<div id="483" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Student Learning Outcomes:</strong> Engage in a highly collaborative process of idea generation, information sharing, and feedback that replicates key aspects of managing cybersecurity in an organizational setting.<br/>
+Learn or reinforce communication, influencing, and management skills.<br/>
+Practice using multi-faceted problem-solving skills to address complex cybersecurity issues.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> CYBER W200, CYBER W202, and CYBER W204. MICS students only. Must be taken in final term of the MICS program</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 1.5 hours of web-based lecture and 1.5 hours of web-based discussion per week</p><p><strong>Summer:</strong> 14 weeks - 1.5 hours of web-based lecture and 1.5 hours of web-based discussion per week</p><!--<p class=""><strong>Additional Format:</strong> One and one-half hours of web-based discussion and one and one-half hours of web-based lecture per week for fourteen weeks. One and one-half hours of web-based discussion and one and one-half hours of web-based lecture per week for fourteen weeks.</p>--><p><strong>Online:</strong>  This is an online course.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Capstone:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber298" data-toggle="#cb_cyber298">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 298</span> 
+<span class="title">Directed Group Study in Cybersecurity</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber298">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+This course provides an opportunity for graduate students to work on group projects in special topics in cybersecurity under the direction of an instructor. Students meet regularly with the instructor to scope the project, define final deliverables, identify relevant readings, identify content areas necessary to master in order to complete the project, and discuss progress.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Directed Group Study in Cybersecurity:</span> Read More [+]</a></p>
+<div id="907" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Cybersecurity students only; consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Students may enroll in multiple sections of this course within the same semester.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 2-5 hours of directed group study per week</p><p><strong>Summer:</strong> 14 weeks - 2-5 hours of directed group study per week</p><!--<p class=""><strong>Additional Format:</strong> Two to five hours of directed group study per week for fourteen weeks. Two to five hours of directed group study per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Directed Group Study in Cybersecurity:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_cyber299" data-toggle="#cb_cyber299">
+<h3 class="courseblocktitle">
+<span class="code">CYBER 299</span> 
+<span class="title">Individual Study in Cybersecurity</span> 
+<span class="hours">1 - 12 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_cyber299">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+This course provides an opportunity for graduate students to work individually on special topics in cybersecurity under the direction of an instructor. Students meet regularly with the instructor to scope the project, define final deliverables, identify relevant readings, identify content areas necessary to master in order to complete the project, and discuss progress.<br/></span><br/>
+ <a href="" class="btn-readmore"><span>Individual Study in Cybersecurity:</span> Read More [+]</a></p>
+<div id="616" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Master of Information and Cybersecurity students only; consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes. Students may enroll in multiple sections of this course within the same semester.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 14 weeks - 2-13 hours of independent study per week</p><p><strong>Summer:</strong> 14 weeks - 2-13 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Two to thirteen hours of independent study per week for fourteen weeks. Two to thirteen hours of independent study per week for fourteen weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Information and Cybersecurity/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Individual Study in Cybersecurity:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="hungaricourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_hungari1a" data-toggle="#cb_hungari1a">
+<h3 class="courseblocktitle">
+<span class="code">HUNGARI&#160;1A</span> 
+<span class="title">Introductory Hungarian</span> 
+<span class="hours">3 or 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_hungari1a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Slavic Languages and Literatures<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Practical instruction in the Hungarian language. The course can be taken for either 3 or 4 units; the additional unit involves language laboratory work and additional written reading assignments.</span><br />
+ <a href="" class="btn-readmore"><span>Introductory Hungarian:</span> Read More [+]</a></p>
+<div id="946" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A is prerequisite to 1B; consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> unit(s):three hours of lecture per week; 4 unit(s):three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Hungarian/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> East European Studies 1A</p></div>
+<p><a href="" class="btn-readless"><span>Introductory Hungarian:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_hungari1b" data-toggle="#cb_hungari1b">
+<h3 class="courseblocktitle">
+<span class="code">HUNGARI&#160;1B</span> 
+<span class="title">Introductory Hungarian</span> 
+<span class="hours">3 or 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_hungari1b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Slavic Languages and Literatures<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Practical instruction in the Hungarian language. The course can be taken for either 3 or 4 units; the additional unit involves language laboratory work and additional written reading assignments.</span><br />
+ <a href="" class="btn-readmore"><span>Introductory Hungarian:</span> Read More [+]</a></p>
+<div id="843" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A is prerequisite to 1B; consent of instructor</p><p><strong>Credit Restrictions:</strong> Students who have taken 5 units of 10A will receive no credit for 1A. Students who have taken 10 units of 10A will receive no credit for 1B.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> unit(s):three hours of lecture per week; 4 unit(s):three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Hungarian/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> East European Studies 1B</p></div>
+<p><a href="" class="btn-readless"><span>Introductory Hungarian:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_hungari100" data-toggle="#cb_hungari100">
+<h3 class="courseblocktitle">
+<span class="code">HUNGARI&#160;100</span> 
+<span class="title">Readings in Hungarian</span> 
+<span class="hours">2 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_hungari100">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Slavic Languages and Literatures<br/>
+Terms offered: Spring 2020, Fall 2019, Fall 2017<br/>
+The purpose of this course is to further develop the student's language proficiency in reading, speaking and writing by using interpersonal, interpretive, and presentational communicative modes. Exploration of fascinating aspects of Hungarian culture including elements of literature, contemporary and historical events, pop-culture, and folklore. Students will be able to influence topic selections</span><span class="deschide"> according to their personal goals and interests.</span><br />
+ <a href="" class="btn-readmore"><span>Readings in Hungarian:</span> Read More [+]</a></p>
+<div id="334" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Hungarian 1A and 1B or consent of instructor, based on in-person assessment</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 2 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two hours of lecture/discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Hungarian/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Alternative to final exam. </p><p><strong>Formerly known as:</strong> East European Studies 100</p></div>
+<p><a href="" class="btn-readless"><span>Readings in Hungarian:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

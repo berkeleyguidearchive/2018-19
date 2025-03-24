@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="telugucourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_telugu1a" data-toggle="#cb_telugu1a">
+<h3 class="courseblocktitle">
+<span class="code">TELUGU&#160;1A</span> 
+<span class="title">Elementary Telugu</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_telugu1a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: South and Southeast Asian Studies<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+The focus of this course will be on systematic grammar, essential vocabulary, and conversations. The goal is to achieve basic reading, writing, and conversational competence as well as exposure to Telugu culture and traditions through language learning. Students will be able to read short stories by the end of this course with some facility.</span><br />
+ <a href="" class="btn-readmore"><span>Elementary Telugu:</span> Read More [+]</a></p>
+<div id="585" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A is prerequisite to 1B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Telugu/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Sunkari</p></div>
+<p><a href="" class="btn-readless"><span>Elementary Telugu:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_telugu1b" data-toggle="#cb_telugu1b">
+<h3 class="courseblocktitle">
+<span class="code">TELUGU&#160;1B</span> 
+<span class="title">Elementary Telugu</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_telugu1b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: South and Southeast Asian Studies<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+The focus of this course will be on systematic grammar, essential vocabulary, and conversations. The goal is to achieve basic reading, writing, and conversational competence as well as exposure to Telugu culture and traditions through language learning. Students will be able to read short stories by the end of this course with some facility.</span><br />
+ <a href="" class="btn-readmore"><span>Elementary Telugu:</span> Read More [+]</a></p>
+<div id="717" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A is a prerequisite for 1B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture and 2 hours of laboratory per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of lecture and two hours of laboratory per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Telugu/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Sunkari</p></div>
+<p><a href="" class="btn-readless"><span>Elementary Telugu:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

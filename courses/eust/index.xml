@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eust200" data-toggle="#cb_eust200">
+<h3 class="courseblocktitle">
+<span class="code">EUST 200</span> 
+<span class="title">Ideas of Europe and European Identities</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eust200">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Ideas of Europe and European Identities engages with a critical reflection on the notion of Europe and European identities, either from a historical and/or a contemporary perspective. It provides a critical explanatory analysis of issues relating to European history, European borders, integration and disintegration, migration, transnational Europe, postcolonial Europe, and/or the position of Europe in a globalized world.</span><br/>
+ <a href="" class="btn-readmore"><span>Ideas of Europe and European Identities:</span> Read More [+]</a></p>
+<div id="327" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> This course has been specifically created for graduate students enrolled in the Designated Emphasis in European Studies. The course can be offered by any faculty member of the Graduate Group in the D.E. in European Studies. European Studies 200 will serve as one of the two integrative courses for the program regarding methodology and research skills. The course topics may vary in accordance with the specific expertise of the faculty member(s) teaching the course. Members of the Graduate Group will be encouraged to co-teach this course or to invite other members as guest professors to their seminar.</p><p><strong>Student Learning Outcomes:</strong> The goal of this course is to provide the necessary intellectual background for top quality scholarship in the field of European Studies as well as to provide cohort cohesion and intellectual exchange across disciplines.</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> European Studies/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Ideas of Europe and European Identities:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_eust201" data-toggle="#cb_eust201">
+<h3 class="courseblocktitle">
+<span class="code">EUST 201</span> 
+<span class="title">European Institutions and Social Conflicts</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_eust201">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Fall 2019, Fall 2018, Fall 2016<br/>
+This course engages with a reflection on European institutions and social conflicts, either from a historical and/or contemporary perspective. It provides a critical explanatory analysis of issues relating to European Institutions such as the EU Commission, Council, Parliament and Court of Justice, the European Central Bank, the European Investment Bank, the Organization for Security and Co-operation in Europe, as well as general issues relating</span><span class="deschide"> to the European economy and/or social and political conflicts within Europe.</span><br/>
+ <a href="" class="btn-readmore"><span>European Institutions and Social Conflicts:</span> Read More [+]</a></p>
+<div id="288" class="coursedetails" aria-expanded="false">
+<div class="course-section"><p class="course-heading"><strong>Objectives  Outcomes</strong></p><p><strong>Course Objectives:</strong> This course has been specifically created for graduate students enrolled in the Designated Emphasis in European Studies. The course can be offered by any faculty member of the Graduate Group in the D.E. in European Studies. European Studies 201 will serve as one of the two integrative courses for the program regarding methodology and research skills. The course topics may vary in accordance with the specific expertise of the faculty member(s) teaching the course. Members of the Graduate Group will be encouraged to co-teach this course or to invite other members as guest professors to their seminar.</p><p><strong>Student Learning Outcomes:</strong> The goal of this course is to provide the necessary intellectual background for top quality scholarship in the field of European Studies as well as to provide cohort cohesion and intellectual exchange across disciplines.</p></div>
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> European Studies/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>European Institutions and Social Conflicts:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

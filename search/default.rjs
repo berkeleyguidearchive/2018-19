@@ -1,0 +1,265 @@
+%pragma format=text/html
+// By default, Ribbit outputs XML. This pragma overrides that.
+
+// Query & print search results
+// FocusSearch Injector 4.0
+// by Lee, May 2016
+//
+// TODO: search logging. On public, a print_debug from this file won't actually
+// go anywhere unless someone creates a /search/wizdebug.out, but I don't know
+// where else search logging should go.
+
+(function(){
+'use strict';
+
+// don't show more than this many results
+var reslimit = 1024;
+// don't show more than this many characters of each summary (TODO)
+var summarylimit = 200;
+
+var url_prefix = "http://guide.berkeley.edu".replace(/\/?$/, '');
+var departmentre = new RegExp('([A-Z]{1,7}[\\W\\,\\&]{0,3}[A-Z]{1,7}[\\W]{0,1}[A-Z]{0,7})\\s([A-Z]{0,2}[\\d]{1,3}[A-Z]{0,2})');
+var archivepath = (http["archivepath"] || '').replace(/\/+$/, '');
+
+
+// replace <catsearch> element with search results
+//
+// TODO: SC GUI support
+//
+// At rollover time, Support will start installing config for
+// the catsearch SC element once we have the GUI & draw in the core:
+// 	structuredcontent:catsearch|...|hidden=true
+// Before they do, this .rjs will ALSO need to start looking for that draw's
+// output, which should have one div for the not-found message, and one div per
+// tag attr.
+// 
+// This TCF data:
+// <catsearch foo='value of attr foo'>
+// <p>Results are totally not found, dude.</p>
+// </catsearch>
+//
+// ...should draw to results.html like this:
+// <div class='searchresults'>
+// <div class='searchresults-notfoundmsg'>
+// <p>Results are totally not found, dude.</p>
+// </div>
+// <div class='searchresults-foo'>
+// value of attr foo
+// </div>
+// </div>
+//
+// The use case for the attribute divs ("foo") is probably providing an SC
+// control for choosing what types of results to display, e.g., <catsearch
+// programs="No programs found"> so that contents of <div
+// class='searchresults-programs"> can be replaced with program results.
+
+
+// parse /search/results.html in case it's customized
+var results = fopen("results.html");
+var notfoundstr = '';
+var work_str;
+while (work_str = fgets(results), !feof(results)) {
+	if (work_str.indexOf('<catsearch') == 0) {
+		print_doc("<div class='searchresults'>");
+		while (work_str = fgets(results), !feof(results)) {
+			if (/<\/catsearch>/.test(work_str)) {
+				notfoundstr += RegExp.leftContext;
+				var text_after_closing_tag = RegExp.rightContext;
+				searchResults(notfoundstr ? notfoundstr : 'No results found');
+				print_doc("</div>");
+				print_doc(text_after_closing_tag);
+				break;
+			} else {
+				notfoundstr += work_str;
+			}
+		}
+	} else {
+		print_doc(work_str + '\n');
+	}
+}
+
+function searchResults(notfoundstr) {
+	var args = {};
+	var queryStr = (getenv("QUERY_STRING") || '');
+	queryStr.split('&').forEach(function(term) {
+			var a = term.split('=');
+			args[a[0].toLowerCase()] = decodeURIComponent(a[1]);
+		});
+	// some old standard/templates name the input something other than 'search'
+	if (!args.search)
+		args.search = args.p || args.q || args.keyword;
+	var edition = args["edition"] || '';
+	// check to see if it's an FSI4 DB
+	var dbinfo = findFsi4(edition);
+	if (!dbinfo) {
+		// invoke FSI3 and return
+		var ribbiturl = '/ribbit/index.cgi?format=html&page=fsinjector.rjs&' + 
+			queryStr;
+		print_doc('<script>\n' +
+			// timestamp param to prevent caching
+			'var ts = new Date().getTime();\n' +
+			'var _ribbiturl="' + ribbiturl + '&ts=" + ts;\n' +
+			'document.write("\\x3Cscript src=" +_ribbiturl+ ">\\x3C/script>");\n' +
+			'</script>\n' +
+			'<noscript>JavaScript is disabled.  To view the search results, ' +
+				'visit <a href="' + ribbiturl + '&fullpage="true">' +
+				ribbiturl + '</a></noscript>\n');
+		return;
+	}
+	if (!args.search)
+		return;
+	print_doc('<div id="fssearchresults" class="searchresults">');
+	args.search = iconv(args.search, "ASCII//TRANSLIT");
+	var sql = 
+		"SELECT code, path, fsearch.title, summary,\n" +
+				"offsets(fsearchtext) as offsets,\n" +
+				"snippet(fsearchtext) as snippet,\n" +
+				"CASE WHEN length(path) = 0 OR path IS NULL THEN 1 ELSE 0 END " +
+					"AS is_course\n" +
+		"FROM " + dbinfo.prefix + "fsearchtext JOIN " + 
+			dbinfo.prefix + "fsearch ON docid = key\n" +
+			"WHERE fsearchtext MATCH ?\n";
+	if (args.scontext == "programs")
+		sql += " AND is_program = 'Y'";
+	if (args.scontext == "courses")
+		sql += " AND is_course = 1";
+	if (!args.caturl)
+		args.caturl = args.fscaturl || args.gscaturl;
+	if (args.caturl) {
+		args.caturl = args.caturl.replace(/\/$/, '') + '/';
+		args.caturl = dbesc(dbinfo.db, args.caturl);
+		sql += " AND (path LIKE '" + args.caturl + "%' OR is_course = 1)\n";
+	}
+	// list pages before courses...
+	sql += " ORDER BY is_course ASC, " +
+		// ...but otherwise trust leeprank
+		"leeprank(matchinfo(fsearchtext)) DESC\n";
+	sql += "LIMIT " + reslimit;
+	var results = dbquery(dbinfo.db, sql, [args.search]);
+	if (results && results.length) {
+		if (results.length === reslimit) {
+			print_debug("Results for '" + args.search + "' limited to " +
+				reslimit + " -- there may have been more\n");
+		}
+		buildRanks(results);
+		results.forEach(function(res) {
+			if (res.rank.cols[0])
+				showResult(res, true);
+			else
+				showResult(res);
+		});
+	}
+	else {
+		print_doc(notfoundstr);
+		print_debug(dberr(dbinfo.db) + '\n');
+	}
+	print_doc('</div>');
+}
+
+function buildRanks(results) {
+	// Do any additional sorting needed.
+	// Add a rank object to each result, containing:
+	// 	hits - how many times any of the words in the search param were found
+	// 	words - how many of the words in the search param were found
+	// 	cols[] - an array of three integers indicating how many of the hits
+	// 		were found in the title, headlines, and body (in that order)
+	results.forEach(function(res) {
+		var words = { };
+		var cols = [ ];
+		// See https://www.sqlite.org/fts3.html#offsets
+		var terms = res.offsets.split(' ');
+		for (var i=0; i < terms.length; i+= 4) {
+			if (words[terms[i+1]])
+				words[terms[i+1]]++;
+			else
+				words[terms[i+1]] = 1;
+			if (cols[terms[i]])
+				cols[+(terms[i])]++;
+			else
+				cols[+(terms[i])] = 1;
+		}
+		res.rank = { hits: Math.floor(terms.length / 4),
+				words:Object.keys(words).length, cols: cols };
+	});
+	// If there's only one course result, list it at the top.
+	if (results.length > 1 && 
+			results[results.length-1].code && 
+			!results[results.length-2].code) {
+		var theOneCourse = results.pop();
+		results.unshift(theOneCourse);
+	}
+}
+
+function showResult(res, summary) {
+	print_doc('<div class="searchresult">');
+	if (!res.summary)
+		summary = false;
+	if (res.path) {
+		// page result
+		print_doc('<h2><a href="' + escattr(archivepath + res.path) + '">' +
+				escxml(res.title) + '</a></h2>' +
+				'<p class="search-url"><a href="' + 
+				escattr(archivepath + res.path) + '">' +
+				escxml(url_prefix + archivepath + res.path) + '</a></p>');
+		if (summary && res.summary) {
+			res.summary = eschtml(res.summary);
+		}
+	} else {
+		// course result
+		print_doc('<h2>' + res.title + '</h2>');
+	}
+	if (summary)
+		print_doc('<p class="search-summary">' + res.summary + '</p>');
+	else
+		print_doc('<p class="search-snippet">' + res.snippet + '</p>');
+	print_doc('</div>');
+}
+
+function findFsi4(edition){
+	// Examine (and if edition is passed in, attach) fsinjector.sqlite and
+	// 	ensure it supports FSI4.
+	// On failure return false.
+	// On success, return object with properties:
+	// 	db			db name
+	// 	prefix	string to add to beginning of all table names in the db
+	var res;
+	var retObj = {
+		db: "fsinjector",
+		prefix: ""
+	}
+	var dbFile = "";
+	if (edition) {
+		// attach edition-specific DB
+		var dbFile = "/ribbit/fsinjector" + edition + ".sqlite";
+		if (!finfo(dbFile)) {
+			ribbit_debug("WARNING: " + dbFile + " not found");
+			return false;
+		}
+		res = dbattach('pagedb', dbFile, 'fs');
+		if (!res) {
+			ribbit_debug('FATAL: cannot attach ' + dbFile + ': ' +
+				dberr("pagedb"));
+			return false;
+		}
+		retObj.db = "pagedb";
+		retObj.prefix = "fs.";
+	}
+	// see if DB supports FSI4
+	res = dbquery(retObj.db,
+		"select * from " + retObj.prefix + "sqlite_master " +
+			"where type='table' and name='fsearch'");
+	if (!res || !res.length) {
+		ribbit_debug((dbFile || retObj.db) + 
+			" does not support FSI4. Falling back to FSI3.");
+		return false;
+	}
+	return retObj;
+}
+
+function ribbit_debug(msg) {
+	msg = "CAT SiteSearch: " + msg;
+	print_debug(msg + '\n');
+	print_doc("<!-- " + escxml(msg) + " -->\n");
+}
+
+})();

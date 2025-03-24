@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="semiticcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_semitic100a" data-toggle="#cb_semitic100a">
+<h3 class="courseblocktitle">
+<span class="code">SEMITIC&#160;100A</span> 
+<span class="title">Aramaic</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_semitic100a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Near Eastern Studies<br/>
+Terms offered: Fall 2017, Fall 2016, Fall 2013<br/>
+Biblical and Ancient Aramaic, including study of the Aramaic parts of Daniel and Ezra and the inscriptions and papyri from Syria, Egypt, Mesopotamia, and the Persian Empire. Sequence begins Fall.</span><br />
+ <a href="" class="btn-readmore"><span>Aramaic:</span> Read More [+]</a></p>
+<div id="313" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Hebrew 100A-100B</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Semitics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Aramaic:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_semitic100b" data-toggle="#cb_semitic100b">
+<h3 class="courseblocktitle">
+<span class="code">SEMITIC&#160;100B</span> 
+<span class="title">Aramaic</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_semitic100b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Near Eastern Studies<br/>
+Terms offered: Spring 2018, Spring 2017, Spring 2014<br/>
+Biblical and Ancient Aramaic, including study of the Aramaic parts of Daniel and Ezra and the inscriptions and papyri from Syria, Egypt, Mesopotamia, and the Persian Empire. Sequence begins Fall.</span><br />
+ <a href="" class="btn-readmore"><span>Aramaic:</span> Read More [+]</a></p>
+<div id="144" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Hebrew 100A-100B</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Semitics/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Aramaic:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_semitic205a" data-toggle="#cb_semitic205a">
+<h3 class="courseblocktitle">
+<span class="code">SEMITIC&#160;205A</span> 
+<span class="title">Ugaritic</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_semitic205a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Near Eastern Studies<br/>
+Terms offered: Fall 2014, Fall 2009, Fall 2006<br/>
+Ugarit language and literature with stress on comparative morphology and lexicography. Sequence begins Fall.</span><br />
+ <a href="" class="btn-readmore"><span>Ugaritic:</span> Read More [+]</a></p>
+<div id="144" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101A-101B or 100A-100B or equivalent</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Semitics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Ugaritic:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_semitic205b" data-toggle="#cb_semitic205b">
+<h3 class="courseblocktitle">
+<span class="code">SEMITIC&#160;205B</span> 
+<span class="title">Ugaritic</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_semitic205b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Near Eastern Studies<br/>
+Terms offered: Spring 2015, Spring 2010, Spring 2007<br/>
+Ugarit language and literature with stress on comparative morphology and lexicography. Sequence begins Fall.</span><br />
+ <a href="" class="btn-readmore"><span>Ugaritic:</span> Read More [+]</a></p>
+<div id="668" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101A-101B or 100A-100B or equivalent</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Semitics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Ugaritic:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_semitic209a" data-toggle="#cb_semitic209a">
+<h3 class="courseblocktitle">
+<span class="code">SEMITIC&#160;209A</span> 
+<span class="title">Northwest Semitic Epigraphy</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_semitic209a">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Near Eastern Studies<br/>
+Terms offered: Fall 2015, Fall 2008, Fall 2005<br/>
+This two course sequence will study the epigraphic remains of the Northwest Semitic languages. First semester will study inscriptions in Hebrew. Second semester topics will vary from year to year. Possible topics include: Canaanite dialects; El-Amarna Akkadian; Eblaite. The inscriptions will be studied both from the perspective of the comparative history of the Northwest Semitic languages and also for</span><span class="deschide"> their relevance in illuminating contemporaneous history and culture.</span><br />
+ <a href="" class="btn-readmore"><span>Northwest Semitic Epigraphy:</span> Read More [+]</a></p>
+<div id="782" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Reading knowledge of Biblical Hebrew</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Semitics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Northwest Semitic Epigraphy:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_semitic209b" data-toggle="#cb_semitic209b">
+<h3 class="courseblocktitle">
+<span class="code">SEMITIC&#160;209B</span> 
+<span class="title">Northwest Semitic Epigraphy</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_semitic209b">
+
+<p class="courseblockdesc"><span class="descshow overflow">Offered through: Near Eastern Studies<br/>
+Terms offered: Spring 2018, Spring 2016, Spring 2009<br/>
+This two course sequence will study the epigraphic remains of the Northwest Semitic languages. First semester will study inscriptions in Hebrew. Second semester topics will vary from year to year. Possible topics include: Canaanite dialects; El-Amarna Akkadian; Eblaite. The inscriptions will be studied both from the perspective of the comparative history of the Northwest Semitic languages and also</span><span class="deschide"> for their relevance in illuminating contemporaneous history and culture.</span><br />
+ <a href="" class="btn-readmore"><span>Northwest Semitic Epigraphy:</span> Read More [+]</a></p>
+<div id="824" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Reading knowledge of Biblical Hebrew</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Semitics/Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Northwest Semitic Epigraphy:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

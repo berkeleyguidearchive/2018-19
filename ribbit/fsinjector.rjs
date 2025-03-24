@@ -1,0 +1,964 @@
+/**
+* FSInjector & Google Search
+* TODO: Handle possible timeouts,
+*		Format results with missing descriptions
+*		Handle TCF attribute -> POST -> GET chain better, esp. getParams function
+*		Don't rely on globals
+*		Continue implementing searchoptions step to customize (on hold, Lee doesn't want too much site-based customization)
+*/
+
+/////////////////////////////////////
+// Global
+/////////////////////////////////////
+
+var searchversion 	= "3.3.3";
+
+var dosearch 			= true;
+var keyword 			= null;
+var page 				= 1;
+var start 				= 0;
+var hasFocusResults 	= false;
+var googletype 		= null;
+var googleCount	 	= 0;
+var searchtype 		= 'fs';
+var fullpage 			= false;
+var highestweight 	= 0;
+var refer_str 			= getenv("HTTP_REFERER");
+var hostname 			= getenv("HTTP_HOST");
+var fsEdition 			= false;
+var fsArchivePath 	= false;
+
+var isDev 		= /.*dev[0-9]\.leepfrog.com/g.test(hostname) ? true : false;
+var isPublic 	= "true" ? true : false;
+//////////////////////////////////////////
+// SENSITIVITY & DISPLAY METRICS
+
+// categories of returned results
+//		A results => same keyword count, high weight
+// 		B results => same keyword count, low weight
+// 		C results => lower keyword count
+//
+//	* if more than one keyword, no A or B results,
+//		and C results are at least c_minCount,
+//		then lower keyword count and treat C results as A or B results
+//
+// types of display
+// 		big => medium + sublinks
+// 		medium => small + descriptions
+//		small => title + breadcrumbs
+
+// categories of display
+//		display1 => big display of A, medium display of B
+//		display2 => big display of A, no B
+//		display3 => medium display of A
+//		display4 => small display of A
+//		* if no A or B, apply same rules to C
+//		* do not display C if under c_minCount results (skip to google search)
+
+var a_minWeight = 10; 	// min weight to be considered an A result
+var b_minWeight = 0;		// min weight to be considered B results
+var c_minWeight = 0;		// min weight to be considered a C result
+var c_minCount  = 10;	// min count of C results to show C results
+
+var a_disp1 = 2;	// max A results for display 1
+var a_disp2 = 4;	// max A results for display 2
+var a_disp3 = 20;	// max A results for display 3
+					// anything over 20 A results will be display 4
+//////////////////////////////////////////
+
+
+var fsdb = "fsinjector";
+var fscaturl = "";
+var gslimit = "0";
+var gsnum = "10";
+var gspagination = "9";
+var gscathost = "http://guide.berkeley.edu";
+var gscaturl = "";
+var gsfilter = "1";
+var gsprotocol = "http";
+var searchdebug = "";
+var skipfs = "";
+var searchshowurl = "";
+var catalogs = [];
+fsArchivePath = '/archive/2018-19';
+
+
+
+// get post/get parameters (overrides globals set by tcf attributes)
+getParams();
+
+gsfilter = (gsfilter == "0") ? false : true;
+
+dosearch = dosearch && keyword && keyword.length > 0;
+if (dosearch) {
+	keyword = keyword.replace(/\+/g, " ");
+	// if page is over 1 or searchskipfs attribute set to true, search type is google
+	searchtype = (page > 1 || skipfs) ? "gs" : searchtype;
+	if (searchtype === 'fs') {
+		focusSearch();
+	}
+    // we only want google results showing if on a public or a dev site, and not on archived sites
+	if (googletype && (isDev || isPublic) && !fsEdition) {
+		if (page != 1 || !hasFocusResults) {
+			googleSearch();
+			buildPagination(googleCount,gsnum);
+		} else {
+			// if googletype initialized, assume there will be results to build pagination
+			// this prevents google from being pinged for a result count everytime focus search is used
+			// if they select a page that doesn't actually contain results, will drop to last page
+			buildPagination(50,gsnum);
+		}
+	} else if (!hasFocusResults) {
+			printOut("<i>No results found for '" + keyword + "'.</i>");
+	}
+} else {
+	printOut("<i>You must supply a search term to return results.</i>");
+}
+
+
+
+
+/////////////////////////////////////
+// Focus Search
+/////////////////////////////////////
+
+function focusSearch() {
+
+	var outstr 			= "";
+	var cattitle 		= "";
+	var table 			= "fsi";
+	var fsAttachedMsg = false;
+	var inclause 		= [];
+	var servername 	= getenv('HTTP_HOST');
+	var exactmatch 	= /^".*"$/.test(keyword);
+	keyword 				= keyword.replace(/['"]/g, "");
+	var words 			= keyword.match(/\b[A-Z_0-9\-]+\b/gi);
+	//if the keyword is a single string with no spaces or commas, add it as a keyword.  This will support non-standard separators in
+	//  course code searches
+	if(/^[^ ,]+$/.test(keyword))
+		words.push(keyword);
+	var wordcnt 		= words.length;
+	if(getenv("HTTPS") == 'on')
+		servername = 'https://'+servername;
+	else
+		servername = 'http://'+servername;
+
+	// if edition set, try to attach database
+	if (fsEdition) {
+		var fsFilename = dbesc("fsinjector", fsdb) + fsEdition + ".sqlite";
+		// if attach doesn't work rely on courseleaf.cfg entry
+		fsdb += fsEdition;
+		if (finfo(fsFilename)) {
+			if (dbexec("pagedb", "ATTACH DATABASE '" + fsFilename + "' AS fs")) {
+				table = "fs.fsi";
+				fsdb = "pagedb";
+				fsAttachedMsg = "Successfully attached " + fsFilename + " to database: " + fsdb;
+			} else {
+				fsAttachedMsg = "Error attaching database: " + fsFilename + " - " + dbquery("pagedb", "DBERRORMSG");
+			}
+		} else {
+			// TODO: test if defined in courseleaf.cfg, if not use fsinjector.sqlite
+			fsAttachedMsg = "Can't find file: " + fsFilename + ", relying on ribbit.cfg.";
+		}
+		print_debug(fsAttachedMsg + "\n");
+
+		// display Archive message
+		outstr += '<div class="archive-message">\n<p>' +
+			'Results shown are from the ' + fsEdition + ' archive.' +
+			'</p>\n</div>\n';
+	}
+
+	// construct in clause string for multiple keywords with different keyword length combinations
+	// i.e. searching for "1 2 3" will search for combinations "1 2 3", "1 2", "2 3", "1","2","3"
+	while (wordcnt > 0) {
+		var offset = 0;
+
+		while (offset + wordcnt <= words.length) {
+			var word = "";
+			for (var i = 0; i < wordcnt; i++) {
+				word += (word.length != 0 ? " " : "") + words[i + offset].toLowerCase();
+			}
+			inclause.push(word);
+			offset++;
+		}
+		wordcnt--;
+	}
+
+	if(words.length > 0) {
+	  	var sql = [
+	  				"SELECT",
+	  					"fsi.path,",
+	  					"fsi.title,",
+	  					"fsi.description,",
+	  					"group_concat(keyword) as keyword,",
+	  					"count(keyword) AS cnt,",
+	  					"SUM(weight) AS sweight",
+					"FROM fsi",
+						"JOIN fsi_keywords ON fsi.path = fsi_keywords.path",
+					"WHERE keyword IN (" + Array(inclause.length + 1).join("?").split("").join(",") + ")"
+				].join(' ');
+
+		if(fscaturl.length) {
+			sql += "AND (fsi.path LIKE '%" + dbesc(fsdb, fscaturl) + "%' OR fsi.path LIKE 'course:%') ";
+		}
+		sql += " GROUP BY 1 ORDER BY 5 DESC, 6 DESC";
+
+		var res = dbquery(fsdb, sql, inclause);
+		if (res == null) {
+			print_debug("\nError querying fsinjector database: " + dbquery(fsdb, "DBERRORMSG") + "\n");
+			return false;
+		}
+		var fsResults 		= false;
+		var ordersplice 	= 0;
+		if(res !== null && res.length > 0) {
+			// if hasquotes, presort to ensure only exact keyword match
+			if (exactmatch) {
+				for (var i = 0; i < res.length; i++) {
+					if (res[i].cnt != words.length) {
+						res.splice(i,1);
+						i--;
+					}
+				}
+			}
+			// determine layout by return of results
+			fsResults = sortFS(res, keyword, words.length);
+		}
+		// determine layout by return of results
+		if (fsResults) {
+			hasFocusResults = true;
+			var disp = "1";
+			if (fsResults["A"].length > a_disp1)
+				disp = "2";
+			if(fsResults["A"].length > a_disp2)
+				disp = "3";
+			if (fsResults["A"].length > a_disp3)
+				disp = "4";
+
+	  		outstr += "<div id=\"fssearchresults\">";
+
+	  		// A (top scoring) results, depending on number of results show different formats
+	  		for(var i = 0; i < fsResults["A"].length; i++) {
+				var curr 			= fsResults["A"][i];
+				var currpath 		= curr.path;
+				cattitle 			= getCatTitle(curr.path, curr.title);
+				var dbglabel 		= '';
+				var description 	= '';
+				if (fsEdition && fsArchivePath && curr.path.indexOf('course') !== 0)
+					currpath = fsArchivePath.replace(/\/$/,"") + currpath;
+				if (isDev  && !isPublic && searchdebug)
+					dbglabel = "A: ";
+				if (currpath.indexOf('course') == 0)
+					outstr += "<h3>" + dbglabel  + curr.title + cattitle + "</h3>";
+				else{
+					outstr += '<h3><a href="' + escurl(currpath) + '">';
+					outstr += dbglabel  + curr.title + cattitle + "</a></h3>";
+				}
+
+				// only include description if not empty, should we display if it's the same as title?
+				// assume html is safe, can't escape to allow javascript bubbles
+				if (curr.description.replace(/^\s+|\s+$/g,'').length > 0 /*	&& curr.description != curr.title*/)
+					description = "<p>" + curr.description + "</p>";
+				if (disp == "1" || disp == "2") {
+					// get large A results if display is 1 or 2
+					var subsql = "SELECT * FROM fsi_sublinks WHERE path = '" + curr.path + "'";
+					var slres  = dbquery(fsdb, subsql);
+					if(slres.length) {
+						outstr += description;
+						outstr += '<table class="fsinjectorlinks" cellpadding="4" cellspacing="0" border="0">';
+						var out_n = 0;
+						for(var j=0; j < slres.length; j++) {
+							var slcurr = slres[j];
+							if (slcurr.title.replace('&#160;','').replace(/^\s+|\s+$/g,'').length > 0)	{
+								if(out_n % 2 === 0) {
+									if(out_n !== 0) { outstr += '</tr>'; }
+									outstr += '<tr>';
+								}
+								outstr += '<td><a style="text-decoration: none;" href="';
+								if (fsArchivePath)
+									outstr += fsArchivePath.replace(/\/$/g, "");
+								outstr += slcurr.href + '"><strong>';
+								outstr += slcurr.title + '</strong></td>';
+								out_n++;
+							}
+						}
+						// if odd number of links, add empty cell to last row
+						if (out_n.length % 2 != 0) {
+								outstr += "<td>&#160;</td>";
+						}
+						outstr += '</tr></table>';
+					} else {
+						outstr += '<p>' + description;
+					}
+				} else if(disp == "3") {
+					// get medium A results if display is 3
+					outstr += '<p>' + description + "</p>";
+				}
+				// display 4 only gets title
+				if(searchshowurl){
+					outstr += '<div class ="fsshowurl">';
+					outstr += '<a href="'+ escurl(currpath) +'">';
+					outstr += servername + eschtml(currpath);
+					outstr += '</a></div>';
+				}
+				if (disp == "1" || disp == "2") {
+					outstr += '<hr>';
+				}
+			}
+
+			// B (lower scoring) results, only show title & description if display type 1
+			for (var i = 0; i < fsResults["B"].length; i++) {
+				var curr 			= fsResults["B"][i];
+				var description 	= '';
+				var dbglabel 		= "";
+				cattitle 			= getCatTitle(curr.path, curr.title);
+				var currpath 		= curr.path;
+				if (fsEdition && fsArchivePath && curr.path.indexOf('course') !== 0)
+					currpath = fsArchivePath.replace(/\/$/,"") + currpath;
+				if (isDev && !isPublic && searchdebug)
+					dbglabel = "B: ";
+				// only include description if not empty, should we display if it's the same as title?
+				if (curr.description.replace(/^\s+|\s+$/g,'').length > 0 /*	&& curr.description != curr.title*/)
+					description = "<p>" + safehtml(curr.description) + "</p>";
+				if (disp == "1") {
+					outstr += "<h3><a href=\"" + escurl(currpath) + "\">";
+					outstr += dbglabel +  curr.title + cattitle + "</a></h3>";
+					outstr += description;
+				}
+				if(searchshowurl){
+					outstr += '<div class ="fsshowurl">';
+					outstr += '<a href="'+ escurl(currpath) +'">';
+					outstr += servername + eschtml(currpath);
+					outstr += '</a></div>';
+				}
+			}
+			outstr += '</div>\n';
+		}
+	} else if(!googletype) {
+		outstr += "<p>No results found.</p>";
+	}
+
+	/////////////////////////////////
+	// DIAGNOSTIC INFO
+	if (searchdebug == "true" && !isPublic) {
+		var sql_keywords = "SELECT COUNT(*) AS cnt, keyword FROM fsi_keywords GROUP BY keyword ORDER BY cnt DESC LIMIT 10";
+		var resKeywords = dbquery(fsdb, sql_keywords);
+		var keylist = "";
+		for (var j = 0; j < resKeywords.length; j++) {
+			keylist += resKeywords[j].keyword + "(" + resKeywords[j].cnt + "), ";
+		}
+		if (isDev) {
+			// html output
+			printOut("<p><strong>Focus Search Diagnostics</strong></p>");
+			printOut("<p><strong>Version: </strong>" + searchversion + "</p>");
+			if (fsEdition) {
+				printOut("<p><strong>Edition: </strong> " + fsEdition + "<br />" + fsAttachedMsg + "<br />" +
+					fsArchivePath ? "Archive Path: " + fsArchivePath: "No archive path set.");
+			}
+			printOut("<p><strong>SQL: </strong> " + sql + "<br />(" + inclause + ")</p>");
+			if (typeof subsql != "undefined")
+				printOut("<p><strong>Sublinks SQL:</strong> " + subsql + "</p>");
+			printOut("<p><strong>Total: " + "</strong> " + res.length + "<br />");
+			if (fsResults) {
+				printOut("<strong>A: " + fsResults["A"].length + "</strong> (minimum weight " + a_minWeight + ")<br />");
+				printOut("<strong>B: " + fsResults["B"].length + "</strong> (minimum weight  " + b_minWeight + ")<br />");
+				printOut("<strong>Display Type: " + disp + "</strong></p>");
+			} else if (res.length > 0) {
+				printOut("<p><strong>Skipping FS results: </strong>" + res.length
+					+ " results found but did not match minimum weight criteria. Highest weight was "
+					+ highestweight +  "</p>");
+			}
+			if (resKeywords && resKeywords.length > 0) {
+				printOut("<p><strong>Top Keywords:</strong> " + keylist + "</p>");
+			}
+			printOut ("<hr />");
+		}
+
+		// console output
+		print_doc("console.group('Focus Search Diagnostics');");
+		consoleOut("Version: " + searchversion);
+		if (res.length == 0)
+			consoleOut("Skipping FS results: no results returned");
+		consoleOut("Total: " + res.length);
+		if (fsEdition) {
+			consoleOut("Edition: " + fsEdition);
+			consoleOut(fsAttachedMsg);
+			consoleOut("Archive Path: " + fsArchivePath);
+		}
+		consoleOut('SQL: ' + sql);
+		consoleOut('Params: ' + inclause);
+		if (typeof subsql != "undefined")
+			consoleOut("Sublinks SQL: " + subsql);
+		if (fsResults) {
+			consoleOut("A: " + fsResults['A'].length + " (minimum weight " + a_minWeight + ")");
+			consoleOut("B: " + fsResults['B'].length + " (minimum weight " + b_minWeight + ")");
+			consoleOut("Display Type:  " + disp);
+		} else {
+			consoleOut("Skipping FS results: " + res.length + " results found but did not match "
+				+ "minimum weight crieteria.  Highest weight was " + highestweight);
+		}
+		 if (resKeywords && resKeywords.length > 0) {
+			consoleOut("Top Keywords:" + keylist);
+		}
+		print_doc("console.groupEnd();");
+	}
+	////////////////////////////////
+
+	printOut(outstr);
+	return (!fsResults ? false : true);
+}
+
+function sortFS(res, keysearch, keycnt) {
+	var sortres = {
+		"A" : [],
+	 	"B" : [],
+	 	"C" : []
+	};
+	res.forEach(function(r) {
+		// regular keywords will be grouped with ",", courses will most likely be separated by ' '
+		// TODO: read what courseseparator should be from coursesql
+		var num_words = r.path.indexOf('course') == 0 ? r.keyword.split(' ').length : r.keyword.split(',').length;
+		var multimatch = false;
+		r.keyword.split(',').forEach(function(kw) {
+				if (keycnt > 1 && kw.toLowerCase() === keysearch.toLowerCase()) {
+					multimatch = true;
+				}
+		});
+		if (r.cnt == keycnt || num_words == keycnt || multimatch) {
+			var weight = r.sweight / keycnt;
+			highestweight = weight > highestweight ? weight : highestweight;
+			if (weight >= a_minWeight)
+				sortres["A"].push(r);
+			else if(weight >= b_minWeight) {
+				sortres["B"].push(r);
+			}
+		} else {
+			sortres["C"].push(r);
+		}
+	});
+	if (sortres["A"].length > 0 || sortres["B"].length > 0) {
+		// if we have top-tier results (same keyword count or matching multi-keyword), return as is
+		return sortres;
+	} else if(keycnt > 1 && sortres["C"].length > c_minCount) {
+		// if no top-tier results with multiple keywords, and next-tier minimum reached,
+		return sortFS(res, keysearch, --keycnt);
+	} else {
+		return false;
+	}
+}
+
+/////////////////////////////////////
+// Google Search
+/////////////////////////////////////
+
+
+function googleSearch() {
+
+	// if focus search results present (page 1), decrease actual page to show gs results
+	start = hasFocusResults ? (page - 2) * gsnum : (page - 1) * gsnum;
+	// Google CSE JSON API starts index at 1 not 0
+	start = (googletype === 'cse-json') ? ++start : start;
+
+	// Build general parameters
+	var params = [];
+	params.push('q=' + encodeURIComponent(keyword));
+	params.push('num=' + encodeURIComponent(gsnum));
+	params.push('start=' + encodeURIComponent(start));
+
+	// Filter by directory if cat_url is set
+	if (gscaturl && gscaturl.length > 0)  { params.push('as_sitesearch=' + gscathost + gscaturl.replace(/\/$/,"")); }
+	else if (gscathost && gscathost.length > 0) { params.push('as_sitesearch=' + gscathost); }
+
+	// Duplicate file filtering
+	if (!gsfilter) { params.push('filter=0');	}
+
+
+	// assign url based on type of google access
+	if (googletype == "gsa") {
+		var getUrl = gsprotocol + '://' + gsdomain + '/search?' + params.join('&');
+	} else if (googletype == "cse-xml") {
+		var getUrl = 'http://www.google.com/search?' + params.join('&');
+	} else {
+		// cse-json
+		var getUrl = 'https://www.googleapis.com/customsearch/v1?' + params.join('&');
+	}
+
+	// 	Fetch results and process based on googletype
+	var results = http_get(getUrl);
+	// empty string return means http_get error which usually means a problem with a gsa
+	if (results === "") {
+		print_debug("\nERROR accessing " + getUrl
+			+ "\nEnsure configuration is correct and if necessary SSL certificates are authenticated\n");
+	}
+	googleCount = (googletype == "cse-json") ? results.length : getXmlResultCount(results);
+
+	/////////////////////////////////
+	// DIAGNOSTIC INFO
+	if (searchdebug == "true") {
+		if (isDev) {
+			printOut("<p><strong>Google Search Diagnostics</strong></p>");
+			if (results === "") {
+			   printOut("<p><strong>ERROR accessing " + getUrl + "</strong></p>");
+			   printOut("<p>Ensure configuration is correct and if necessary SSL certificates are authenticated</p>");
+			}
+			printOut("<p><strong>Version: </strong>" + searchversion + "</p>");
+			printOut("<p><strong>Type: </strong>" + googletype + "</p>");
+			printOut("<p><strong>URL: </strong><a href='" + getUrl + "'>" + getUrl + "</a></p>");
+			printOut("<p><strong>Total Results: " + "</strong> " + googleCount + "</p>");
+			printOut ("<hr />");
+		}
+		print_doc("console.group('Google Search Diagnostics');");
+		if (results === "") {
+			   consoleOut("ERROR accessing " + getUrl);
+			   consoleOut("Ensure configuration is correct and if necessary SSL certificates are authenticated");
+		}
+		consoleOut("Version: " + searchversion);
+		consoleOut("Google Type: " + googletype);
+		consoleOut("Total Results: " + googleCount);
+		consoleOut('URL: ' + getUrl);
+		print_doc("console.groupEnd();");
+	}
+	////////////////////////////
+
+	if (googleCount > 0) {
+		if (googletype == "gsa" || googletype == "cse-xml")
+			outputXmlResults(results);
+		else
+			outputJsonResults(results);
+	} else {
+		printOut("<h3>No Results Found</h3>");
+	}
+
+	return true;
+}
+
+/////////////////////////////////////
+// JSON Helper functions
+/////////////////////////////////////
+
+function outputJsonResults(results) {
+	// parse JSON to html and output to browser
+
+	// First make sure we are getting valid JSON (better way to escape this?)
+	if (! testJson(results)) {
+		printOut("<h3>No Results Found (Parsing Error)</h3>");
+		return;
+	}
+
+	// Parse JSON and generate HTML (courseleaf.cgi must be 9.2 or greater to support JSON.parse())
+	var resultsObj 	= JSON.parse(results);
+	var resultsList 	= resultsObj['items'];
+	if (! resultsList || ! resultsList.length) {
+		printOut("<h3>No Results Found</h3>");
+		return;
+	}
+
+	// Get total results and figure out pages
+	googleCount 					= resultsObj['searchInformation']['totalResults'];
+	var resultCountFormatted 	= resultsObj['searchInformation']['formattedTotalResults'];
+	var resultTime 				= resultsObj['searchInformation']['formattedSearchTime'];
+	var searchTotal = googleCount && googleCount > 0 ? ' out of an estimated ' + resultCountFormatted + ' results.' : '.';
+
+	// google search summary, suppress for now
+	var resultsStr = "";
+	//var resultsStr = '<div class="gcs-total">Showing ' +  (start) + '-' + googleCount
+	//	+ ' results' + searchTotal + ' (' + resultTime + 's)</div>';
+
+	// Reset page number if exceeded available results (total results does not include filtered duplicates)
+	var oldPage 	= page;
+
+	for (var i = 0; i < resultsList.length; i++) {
+		var res = resultsList[i];
+		resultsStr += '<div class="gcs-result">';
+		resultsStr += '<h3><a class="gcs-title" href="' + escxml(res.link) + '">' + escxml(res.title) + '</a></h3>';
+		resultsStr += '<p>' + safehtml(res.snippet) + '<br />';
+		//always showing url; no need for `showurl` check
+		resultsStr += '<a class="gcs-url" href="' + escxml(res.link) + '">' + safehtml(res.formattedUrl) + '</a></p>';
+		resultsStr += '</div>';
+	}
+
+	// Print out the results
+	if(resultsStr.length) {
+		printOut(resultsStr);
+	}
+
+	// If last page, print duplicate page warning (with link if it can be turned off)
+	if ((oldPage * gsnum >= googleCount) && gsfilter) {
+		var dupMessage = [
+			'<div class="gcs-dupwarning">',
+				'In order to show you the most relevant results, duplicate content may have been omitted from your search results.',
+				'If you like, you can <a href="?page=1&P=' + keyword + '&filter=0">',
+				'repeat the search with the duplicate filtering turned off.</a>',
+			'</div>'
+		].join('');
+		printOut(dupMessage);
+	}
+
+
+	return true;
+}
+
+function testJson(results) {
+	var rvalidchars  = /^[\],:{}\s]*$/;
+	var rvalidescape = /\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g;
+	var rvalidtokens = /"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g;
+	var rvalidbraces = /(?:^|:|,)(?:\s*\[)+/g;
+
+	var escaped = results
+					.replace( rvalidescape, "@" )
+					.replace( rvalidtokens, "]" )
+					.replace( rvalidbraces, "");
+
+	if ( ! rvalidchars.test(escaped)) { return false; }
+	else { return true; }
+}
+
+/////////////////////////////////////
+// XML Helper functions
+/////////////////////////////////////
+function getXmlResultCount(results) {
+	// return the count of XML results
+	resultsObj = processXmlResults(results);
+	if (resultsObj && resultsObj.results && resultsObj.results.length > 0) {
+		return resultsObj.count;
+	} else {
+		return 0;
+	}
+}
+
+function outputXmlResults(results) {
+	// parse XML results and output to browser
+
+	// Check for 403 error
+	if (results.indexOf("<ERROR>403</ERROR>") != -1) {
+		printOut("<h3>403</h3>");
+		printOut("<p>There was a problem accessing google search results.<br />");
+		printOut("This is most likely due to a limit on the number of queries submitted daily.</p>");
+		return;
+	}
+
+	// Process xml file
+	var resultsObj = processXmlResults(results);
+	// Do we have results?
+	if (resultsObj && resultsObj.results && resultsObj.results.length) {
+		// google search summary, suppress for now
+		var searchTotal = googleCount && googleCount > 0 ? ' out of an estimated ' + googleCount
+			+ ' results (' + Math.round(resultsObj.searchTime * 100) / 100 + ' s).' : '.';
+		//var resultsStr = '<div class="gcs-total">Showing ' +  resultsObj.start + '-' + resultsObj.end + ' results' + searchTotal + '</div>';
+		var resultsStr = "";
+
+		for (var i = 0; i < resultsObj.results.length; i++) {
+			var res = resultsObj.results[i];
+			resultsStr += '<div class="gcs-result">';
+			resultsStr += '<h3><a class="gcs-title" href="' + escurl(res.url) + '">' + res.title + '</a></h3>';
+			resultsStr += '<p>' + unescape(escape(res.content).replace("%u2022","&#8226;")) + '<br />';
+			//resultsStr += '<a class="gcs-url" href="' + escxml(res.url) + '">' + escurl(res.url) + '</a></p>';
+			if(searchshowurl){
+				resultsStr += '<div class ="gcs-showurl">'
+				resultsStr += '<a class="gcs-url" href="';
+				resultsStr += escurl(res.url) +'">'+ escxml(res.url);
+				resultsStr += '</a></div>';
+			}
+			resultsStr += '</div>';
+		}//end for
+
+		// Reset page number if exceeded available results (total results does not include filtered duplicates)
+		var oldPage = page;
+
+		// Print out the results
+		if(resultsStr.length) {
+			printOut(resultsStr);
+		}
+
+		// If last page, print duplicate page warning (with link if it can be turned off)
+		if ((oldPage * gsnum >= googleCount) && gsfilter) {
+			var dupMessage = [
+				'<div class="gcs-dupwarning">',
+					'In order to show you the most relevant results, duplicate content may have been omitted from your search results.',
+					'If you like, you can <a href="?page=1&P=' + keyword + '&filter=0">',
+					'repeat the search with the duplicate filtering turned off.</a>',
+				'</div>'
+			].join('');
+			// If last page, print duplicate page warning (with link if it can be turned off)
+			printOut(dupMessage);
+		}
+		return true;
+	} else {
+		printOut("<h3>No Results Found</h3>");
+	}
+}
+
+function processXmlResults(xmlstring) {
+	var resultsObj = {};
+	var node 		= new docXML(xmlstring);
+	if (!node.good()) {
+		printOut(node.error);
+		return false;
+	}
+	if (node.getNode().toLowerCase() != "gsp") {
+		// Did not get root node - error.
+		printOut('<h3>XML Parse Error</h3>');
+		return false;
+	}
+
+	resultsObj.searchTime = node.getNode().toLowerCase();
+
+	// Loop until find "res" node
+	node 		= node.firstChild();
+	var res 	= null;
+	while(node.good()) {
+		if (node.getNode().toLowerCase() == 'res') {
+			res 					= node;
+			resultsObj.start 	= res.getAttribute('SN');
+			resultsObj.end 	= res.getAttribute('EN');
+			break;
+		} else if (node.getNode().toLowerCase() == 'tm') {
+			resultsObj.searchTime = node.getText();
+		}
+		node = node.nextSibling();
+	}
+	if (res === null || !res.good()) {
+		//Never found res
+		return false;
+	}
+
+	// Found res node, process results elements
+	var results = [];
+	var resNode = res.firstChild();
+
+	while(resNode.good()) {
+		var nodeType = resNode.getNode().toLowerCase();
+		switch (nodeType) {
+			case 'r':
+				results.push(processResultNode(resNode));
+				break;
+			case 'm':
+				resultsObj.count = resNode.getText();
+				break;
+			//Ignore these entries...
+			case 'fi': //FI - ignore - (filtered results)
+			case 'pu': //PU - ignore (previous page)
+			case 'nb': //NB - ignore (link to next page)
+				break;
+			default:
+				break;
+		}
+
+		// Move to the next sibling
+		resNode = resNode.nextSibling();
+	}
+	resultsObj.results = results;
+	return resultsObj;
+}
+
+function processResultNode(node) {
+	var resultObj = {};
+
+	// Move to the children of the r node - these are the values we want.
+	node = node.firstChild();
+	if (!node.good()) {
+		printOut(xmlnode.error);
+		return;
+	}
+	while (node.good()) {
+		var nodeType = node.getNode().toLowerCase();
+		var text = node.getText();
+		switch(nodeType) {
+			case 'u':
+				resultObj['url'] = text;
+				break;
+			case 'ue':
+				resultObj['url_enc'] = text;
+				break;
+			case 't':
+				resultObj['title'] = text;
+				break;
+			case 's':
+				resultObj['content'] = text;
+				break;
+			case 'start':
+				resultObj['start'] = text;
+				break;
+			//Skip all these
+			case 'crawldate':
+			case 'label':
+			case 'lang':
+			case 'has':
+				break;
+			default: break;
+
+		}
+		node = node.nextSibling();
+	}
+	return resultObj;
+}
+
+
+/////////////////////////////////////
+// Other Helper Functions
+/////////////////////////////////////
+
+function printOut(outstr) {
+	// format and output string to browser
+	str = outstr ? outstr : "";
+	if (!fullpage) {
+		print_doc('document.write("'
+			+ str
+				.replace(/(\n|\r)/g, "")
+				.replace(/\"/g, '\\"')
+			+ '");');
+	} else {
+		print_doc(str);
+	}
+}
+
+function consoleStr(str) {
+	// format string for output to browser console
+	return str.replace(/(\n|\r)/g, "").replace(/\"/g, '\\"');
+}
+function consoleOut(outstr) {
+	// output string to browser console
+	if (typeof outstr != "string")
+	outstr = outstr.toSource();
+		print_doc('console.log("' + consoleStr(outstr) + '");');
+}
+
+function buildPagination(resultCount, resultPage) {
+	// How many paginated links should we show?
+	// (Should be a low odd number, total results can drastically changes from page to page)
+	var pageCount = Math.ceil(resultCount / resultPage);
+	pageCount = pageCount > page ? pageCount : (hasFocusResults ? page - 1 : page);
+	if (pageCount <= 1 && !hasFocusResults) {
+		return false;
+	}
+
+	// Referrer might have already been set
+	if (!refer_str && !refer_str.length) { refer_str = getenv("HTTP_REFERER");	}
+
+	// Append page to query string for link building if not present
+	if (refer_str.indexOf('page=') === -1)
+		refer_str += '&page=1';
+
+	// Build pagination string
+	var pages = '<div class="gcs-pagination">';
+
+	// Previous page link
+ 	if (page != 1) {
+	 	pages += '<span class="prev">';
+	 	pages += '<a href="'+ refer_str.replace(/page=[0-9]*/, 'page=' + (page - 1)) + '">&laquo;</a></span>';
+	 }
+	var pageStart = page - ((gspagination - 1) / 2) <= 1  ? 1 : page - ((gspagination - 1) / 2);
+	if ((page + ((resultPage - 1) / 2) >= pageCount)) {
+		var pageEnd =  hasFocusResults && page != 1 ? pageCount + 1 : pageCount;
+	} else if ((page + ((resultPage - 1) / 2) < resultPage)) {
+		 var pageEnd =  resultPage - 1;
+	} else {
+		 var pageEnd =  page + ((resultPage - 1) / 2);
+	}
+
+	pages += '<span class="pages">';
+	pages += pageStart != 1 ? ' ... ' : '     ';
+
+	new_refer = refer_str.replace(/&?page=[0-9]*/, "");
+	for (var i = pageStart; i <= pageEnd; i++) {
+		if (page === i) {
+			pages += '<span class="current">' + i + '</span> ';
+		} else {
+			new_refer += new_refer.indexOf("?") == new_refer.length - 1 ? "?" : "";
+			new_refer += (new_refer.indexOf("hasfs=1") == -1 && hasFocusResults)	? "&hasfs=1" : "";
+			pages += '<a href="' + new_refer + '&page=' + i;
+			pages += '">' + i + '</a> ';
+		}
+	}
+	pages += pageEnd != (hasFocusResults ? pageCount + 1 : pageCount) ? ' ... ' : '     ';
+	pages += '</span>';
+
+	// Next link and last page
+	if (page !== (hasFocusResults ? pageCount + 1 : pageCount)) {
+		pages += '<span class="last">' + '<a href="'
+			+ refer_str.replace(/page=[0-9]*/,'page=' + (page + 1)) + '">&raquo;</a></span>';
+	}
+	pages += '</div>';
+	printOut(pages);
+}
+
+function getCatTitle(pagepath, pagetitle) {
+	// append catalog title to results if set
+	var cattitle = "";
+	catalogs.forEach(function(cat) {
+		if (pagepath.indexOf(cat.basepath) == 0
+			&& pagetitle.indexOf(cat.desc) == -1)
+			cattitle = " (" + cat.desc + ")";
+	});
+	return cattitle;
+}
+
+function getParams() {
+
+	// Apply POST parameters to globals, overrides any TCF attributes
+	if(http["cathost"] && http["cathost"].length > 0) {
+		gscathost = http["cathost"];
+	}
+	if(http["caturl"] && http["caturl"].length > 0) {
+		gscaturl = http["caturl"];
+		fscaturl = http["caturl"];
+	}
+	if(http["gscaturl"] && http["gscaturl"].length > 0) { gscaturl = http["gscaturl"]; }
+	if(http["fscaturl"] && http["fscaturl"].length > 0) { fscaturl = http["fscaturl"]; }
+	if(http["gscathost"] && http["gscathost"].length > 0) { gscathost = http["gscathost"]; }
+	if(http["page"]  && http["page"].length > 0) { page = http["page"]; }
+	if(http["type"] && http["type"].length > 0) {
+		searchtype = (http["type"] === 'fs' || http["type"] === 'gs')
+			? http["type"] : searchtype;
+	}
+	if(http["filter"] && http["filter"].length) {
+		gsfilter = decodeURIComponent(http["filter"]);
+	}
+
+	// Apply parameters from initial referrer (search page), overrides any TCF attributes or POST parameters
+	if (refer_str && refer_str.indexOf('?') > 0) {
+		var param_arr = refer_str.substr(refer_str.indexOf('?') + 1).split('&');
+		for (var i=0; i < param_arr.length; i++) {
+			if (param_arr[i].toLowerCase().indexOf("q=") === 0 ||
+				param_arr[i].toLowerCase().indexOf("search=") === 0 ||
+				param_arr[i].toLowerCase().indexOf("p=") === 0 ||
+				param_arr[i].toLowerCase().indexOf("keyword=") === 0) {
+				keyword = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=")+1).replace(/\+/g, " "));
+			} else if (/\%5B=[2-9]/i.test(param_arr[i])) {
+				dosearch = false;
+			} else if (param_arr[i].indexOf("page=") === 0) {
+				page = parseInt(decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " ")));
+			} else if (param_arr[i].indexOf("caturl=") === 0) {
+				gscaturl = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+				fscaturl = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+			} else if (param_arr[i].indexOf("gscaturl=") === 0) {
+				gscaturl = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+			} else if (param_arr[i].indexOf("fscaturl=") === 0) {
+				fscaturl = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+			} else if (param_arr[i].indexOf("cathost=") === 0) {
+				gscathost = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+			} else if (param_arr[i].indexOf("gscathost=") === 0) {
+				gscathost = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+			} else if (param_arr[i].indexOf("type=") === 0) {
+				var type = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+				searchtype = (type === 'fs' || type === 'gs') ? type : searchtype;
+			} else if (param_arr[i].indexOf("fullpage=true") === 0) {
+				fullpage = true;
+			} else if (param_arr[i].indexOf("filter=") === 0) {
+				gsfilter = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+			} else if (param_arr[i].indexOf("hasfs=") === 0) {
+				hasFocusResults = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+			} else if (param_arr[i].indexOf("edition=") === 0) {
+				fsEdition = dbesc("fsinjector", decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " ")));
+			} else if (param_arr[i].indexOf("archivepath=") === 0) {
+				fsArchivePath = decodeURIComponent(param_arr[i].substr(param_arr[i].indexOf("=") + 1).replace(/\+/g, " "));
+			}
+		}
+	}
+
+	// Ensure cathost has nothing but hostname and caturl has beginning slash
+	gscathost = gscathost.replace(/^.*:\/\//,'').replace(/\/.*$/,'');
+
+	if (fscaturl.length > 0 && fscaturl.indexOf('/') !== 0) { fscaturl = '/' + fscaturl; }
+	if (gscaturl.length > 0 && gscaturl.indexOf('/') !== 0) { gscaturl = '/' + gscaturl; }
+}
+

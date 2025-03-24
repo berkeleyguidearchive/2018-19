@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="bibliogcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_bibliog1" data-toggle="#cb_bibliog1">
+<h3 class="courseblocktitle">
+<span class="code">BIBLIOG&#160;1</span> 
+<span class="title">Information Resource: Effectively Utilizing the Berkeley Campus libraries and Beyond</span> 
+<span class="hours">1 Unit</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_bibliog1">
+
+<p class="courseblockdesc"><span class="descshow overflow">Terms offered: Spring 1983, Spring 1975<br/>
+In this course, you will learn how to exploit the resources of one of the richest information treasure in the world. Upon completion of the course, you will: understand how the complex UC Berkeley and University of California libraries are configured and how their collections are interrelated: learn how to create a search strategy that can be used to conduct research in any field: learn to take best advantage of the online public catalogs, Gladis and</span><span class="deschide"> Melvyl to uncover a wealth of information: use both print resources and electronic sources, such as the Internet, to find materials in the Berkeley Libraries and beyond: Be a confident, critical researcher.</span><br />
+ <a href="" class="btn-readmore"><span>Information Resource: Effectively Utilizing the Berkeley Campus libraries and Beyond:</span> Read More [+]</a></p>
+<div id="226" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> 3 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Two 1-hour lectures per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Bibliography/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Information Resource: Effectively Utilizing the Berkeley Campus libraries and Beyond:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

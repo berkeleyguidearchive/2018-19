@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="finnishcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_finnish1a" data-toggle="#cb_finnish1a">
+<h3 class="courseblocktitle">
+<span class="code">FINNISH&#160;1A</span> 
+<span class="title">Beginning Finnish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_finnish1a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Students will develop the basic elements of communicative competence in both the spoken and written language within a cultural context.</span><br />
+ <a href="" class="btn-readmore"><span>Beginning Finnish:</span> Read More [+]</a></p>
+<div id="886" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Finnish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Scandinavian 2A</p></div>
+<p><a href="" class="btn-readless"><span>Beginning Finnish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_finnish1b" data-toggle="#cb_finnish1b">
+<h3 class="courseblocktitle">
+<span class="code">FINNISH&#160;1B</span> 
+<span class="title">Beginning Finnish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_finnish1b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Students will develop the basic elements of communicative competence in both the spoken and written language within a cultural context.</span><br />
+ <a href="" class="btn-readmore"><span>Beginning Finnish:</span> Read More [+]</a></p>
+<div id="963" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 2A or consent of instructor</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Finnish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Scandinavian 2B</p></div>
+<p><a href="" class="btn-readless"><span>Beginning Finnish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_finnish102a" data-toggle="#cb_finnish102a">
+<h3 class="courseblocktitle">
+<span class="code">FINNISH&#160;102A</span> 
+<span class="title">Intermediate Finnish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_finnish102a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2016<br/>
+Students will focus on acquiring communicative competence necessary to function in authentic situations of language use in terms of grammatical, functional, and sociolinguistic skills. Students will read and interpret literary and nonliterary texts from a cultural perspective. The course uses a flexible group-work and independent project approach to advanced language study.</span><br />
+ <a href="" class="btn-readmore"><span>Intermediate Finnish:</span> Read More [+]</a></p>
+<div id="999" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 102A: 2B or consent of instructor; 102B: 102A or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of language instruction per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Finnish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Scandinavian 102A</p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Finnish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_finnish102b" data-toggle="#cb_finnish102b">
+<h3 class="courseblocktitle">
+<span class="code">FINNISH&#160;102B</span> 
+<span class="title">Intermediate Finnish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_finnish102b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Scandinavian<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2017<br/>
+Students will focus on acquiring communicative competence necessary to function in authentic situations of language use in terms of grammatical, functional, and sociolinguistic skills. Students will read and interpret literary and nonliterary texts from a cultural perspective. The course uses a flexible group-work and independent project approach to advanced language study.</span><br />
+ <a href="" class="btn-readmore"><span>Intermediate Finnish:</span> Read More [+]</a></p>
+<div id="369" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 102A or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of language instruction per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Finnish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Scandinavian 102B</p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Finnish:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

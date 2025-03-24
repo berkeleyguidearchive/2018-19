@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="polishcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_polish25a" data-toggle="#cb_polish25a">
+<h3 class="courseblocktitle">
+<span class="code">POLISH&#160;25A</span> 
+<span class="title">Introductory Polish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_polish25a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Slavic Languages and Literatures<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Beginner's course. Sequence beginning fall.</span><br />
+ <a href="" class="btn-readmore"><span>Introductory Polish:</span> Read More [+]</a></p>
+<div id="868" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 25A is prerequisite to 25B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Polish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introductory Polish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_polish25b" data-toggle="#cb_polish25b">
+<h3 class="courseblocktitle">
+<span class="code">POLISH&#160;25B</span> 
+<span class="title">Introductory Polish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_polish25b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Slavic Languages and Literatures<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Beginner's course. Sequence beginning fall.</span><br />
+ <a href="" class="btn-readmore"><span>Introductory Polish:</span> Read More [+]</a></p>
+<div id="408" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 25A is prerequisite to 25B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Polish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Introductory Polish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_polish115a" data-toggle="#cb_polish115a">
+<h3 class="courseblocktitle">
+<span class="code">POLISH&#160;115A</span> 
+<span class="title">Continuing Polish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_polish115a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Slavic Languages and Literatures<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Sequence begins fall semester.</span><br />
+ <a href="" class="btn-readmore"><span>Continuing Polish:</span> Read More [+]</a></p>
+<div id="839" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 25B is prerequisite to 115A; 115A is prerequisite to 115B</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Polish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Frick</p><p><strong>Formerly known as:</strong> Slavic Languages and Literatures 115A</p></div>
+<p><a href="" class="btn-readless"><span>Continuing Polish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_polish115b" data-toggle="#cb_polish115b">
+<h3 class="courseblocktitle">
+<span class="code">POLISH&#160;115B</span> 
+<span class="title">Continuing Polish</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_polish115b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Slavic Languages and Literatures<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Sequence begins fall semester.</span><br />
+ <a href="" class="btn-readmore"><span>Continuing Polish:</span> Read More [+]</a></p>
+<div id="587" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 25B is prerequisite to 115A; 115A is prerequisite to 115B</p><p><strong>Repeat rules:</strong> Course may be repeated for credit when topic changes.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Polish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Frick</p><p><strong>Formerly known as:</strong> Slavic Languages and Literatures 115B</p></div>
+<p><a href="" class="btn-readless"><span>Continuing Polish:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

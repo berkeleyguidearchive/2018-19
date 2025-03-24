@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="greekcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek1" data-toggle="#cb_greek1">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;1</span> 
+<span class="title">Elementary Greek</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek1">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Beginners' course.</span><br />
+ <a href="" class="btn-readmore"><span>Elementary Greek:</span> Read More [+]</a></p>
+<div id="876" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Elementary Greek:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek2" data-toggle="#cb_greek2">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;2</span> 
+<span class="title">Elementary Greek</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek2">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Beginners' course.</span><br />
+ <a href="" class="btn-readmore"><span>Elementary Greek:</span> Read More [+]</a></p>
+<div id="515" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1 or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Elementary Greek:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek15" data-toggle="#cb_greek15">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;15</span> 
+<span class="title">The Greek Workshop</span> 
+<span class="hours">10 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek15">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Summer 2020 10 Week Session, Summer 2019 10 Week Session, Summer 2018 10 Week Session<br/>
+Designed for anyone who wishes to acquire reading knowledge of ancient Greek; replaces 2+ semesters of traditional study. Lectures, discussions, drills and tutorial sessions on grammar and vocabulary; readings in prose and poetry (e.g., Homer, Plato, Greek Tragedy, the Gospels).<br/></span><br />
+ <a href="" class="btn-readmore"><span>The Greek Workshop:</span> Read More [+]</a></p>
+<div id="372" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Senior or graduate standing, or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students will receive five units of credit for Greek 15 after taking Greek 1 Students will receive no credit for Greek 15 after taking Greek 2 Students will receive no credit for Greek 15 after taking Greek 10</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 10 weeks - 15 hours of lecture and 15 hours of recitation per week</p><!--<p class=""><strong>Additional Format:</strong> Six hours of instruction per day, five days per week, for ten weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p><p><strong>Instructor:</strong> Chairman</p></div>
+<p><a href="" class="btn-readless"><span>The Greek Workshop:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek99" data-toggle="#cb_greek99">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;99</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek99">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2014, Spring 2014, Fall 2013<br/></span><br />
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research:</span> Read More [+]</a></p>
+<div id="380" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Restricted to freshmen and sophomores; consent of instructor; 3.3 overall GPA</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Zero hours of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek100" data-toggle="#cb_greek100">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;100</span> 
+<span class="title">Plato and Attic Prose</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek100">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2017<br/>
+Readings from Plato's or , and from other Attic prose authors (e.g., Xenophon, Lysias); some review of grammar.</span><br />
+ <a href="" class="btn-readmore"><span>Plato and Attic Prose:</span> Read More [+]</a></p>
+<div id="871" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 2, 10, or 15</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Plato and Attic Prose:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek101" data-toggle="#cb_greek101">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;101</span> 
+<span class="title">Homer</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek101">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2017<br/>
+Selected readings in the or .</span><br />
+ <a href="" class="btn-readmore"><span>Homer:</span> Read More [+]</a></p>
+<div id="592" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1-2, 10, or 15</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Homer:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek102" data-toggle="#cb_greek102">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;102</span> 
+<span class="title">Drama and Society</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek102">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2019, Fall 2017, Fall 2016<br/>
+Reading of one Greek tragedy, and of further selections from the dramatists and/or prose literature of fifth century Athens.</span><br />
+ <a href="" class="btn-readmore"><span>Drama and Society:</span> Read More [+]</a></p>
+<div id="541" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Drama and Society:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek105" data-toggle="#cb_greek105">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;105</span> 
+<span class="title">The Greek New Testament</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek105">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020, Spring 2016, Spring 2015<br/>
+Readings in the Gospels and/or Acts and/or Epistles.</span><br />
+ <a href="" class="btn-readmore"><span>The Greek New Testament:</span> Read More [+]</a></p>
+<div id="915" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Successful completion of Greek 100</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> 125</p></div>
+<p><a href="" class="btn-readless"><span>The Greek New Testament:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek115" data-toggle="#cb_greek115">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;115</span> 
+<span class="title">Archaic Poetry</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek115">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2018, Spring 2015, Spring 2014<br/>
+Readings in various Greek poets.</span><br />
+ <a href="" class="btn-readmore"><span>Archaic Poetry:</span> Read More [+]</a></p>
+<div id="760" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Greek 101 or 102</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Archaic Poetry:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek116" data-toggle="#cb_greek116">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;116</span> 
+<span class="title">Greek Drama</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek116">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2015, Spring 2013, Spring 2012<br/>
+Selected readings from Greek tragedy and/or comedy.</span><br />
+ <a href="" class="btn-readmore"><span>Greek Drama:</span> Read More [+]</a></p>
+<div id="862" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Greek 101 or 102</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Greek Drama:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek117" data-toggle="#cb_greek117">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;117</span> 
+<span class="title">Hellenistic Poets</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek117">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2009, Fall 2002, Fall 2000<br/>
+Readings in various Hellenistic poets.</span><br />
+ <a href="" class="btn-readmore"><span>Hellenistic Poets:</span> Read More [+]</a></p>
+<div id="597" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Greek 101 or 102</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Hellenistic Poets:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek120" data-toggle="#cb_greek120">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;120</span> 
+<span class="title">Herodotus</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek120">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2017, Spring 2012, Spring 2006<br/>
+Readings in Herodotus.</span><br />
+ <a href="" class="btn-readmore"><span>Herodotus:</span> Read More [+]</a></p>
+<div id="913" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Greek 100 and either 101 or 102 or 105</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Herodotus:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek121" data-toggle="#cb_greek121">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;121</span> 
+<span class="title">Thucydides</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek121">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2019, Fall 2014, Spring 2011<br/>
+Readings in Thucydides.</span><br />
+ <a href="" class="btn-readmore"><span>Thucydides:</span> Read More [+]</a></p>
+<div id="378" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Greek 100 and either 101 or 102 or 105</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Thucydides:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek122" data-toggle="#cb_greek122">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;122</span> 
+<span class="title">Attic Oratory</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek122">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2017, Fall 2013, Fall 2006<br/>
+Readings in oratory.</span><br />
+ <a href="" class="btn-readmore"><span>Attic Oratory:</span> Read More [+]</a></p>
+<div id="162" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Greek 100 and either 101 or 102 or 105</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Attic Oratory:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek123" data-toggle="#cb_greek123">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;123</span> 
+<span class="title">Plato and Aristotle</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek123">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2019, Spring 2018, Spring 2016<br/>
+Readings in Plato and Aristotle.</span><br />
+ <a href="" class="btn-readmore"><span>Plato and Aristotle:</span> Read More [+]</a></p>
+<div id="717" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Greek 100 and either 101 or 102 or 105</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Plato and Aristotle:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek125" data-toggle="#cb_greek125">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;125</span> 
+<span class="title">Greek Literature of the Hellenistic and Imperial Periods</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek125">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2016, Spring 2014, Fall 2011<br/>
+Selected readings in Greek prose or poetry written by authors active during the Hellenistic Age and the Roman Empire (3rd century BCE to 6th century CE).</span><br />
+ <a href="" class="btn-readmore"><span>Greek Literature of the Hellenistic and Imperial Periods:</span> Read More [+]</a></p>
+<div id="212" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100, and either 101, 102, or 105</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Hickey</p></div>
+<p><a href="" class="btn-readless"><span>Greek Literature of the Hellenistic and Imperial Periods:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek160" data-toggle="#cb_greek160">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;160</span> 
+<span class="title">Greek Prose Syntax and Stylistics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek160">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2019<br/>
+The goal of this course is to improve your understanding of Greek prose, its basic syntactical principles and the stylistic variation we see across the corpus. To this end, the course will comprise several components: review of grammar (especially syntax), vocabulary, and idiom; composition exercises; and reading passages (prepared and at sight) from Greek authors.</span><br />
+ <a href="" class="btn-readmore"><span>Greek Prose Syntax and Stylistics:</span> Read More [+]</a></p>
+<div id="542" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Greek Prose Syntax and Stylistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greekh195a" data-toggle="#cb_greekh195a">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;H195A</span> 
+<span class="title">Honors Course in Greek</span> 
+<span class="hours">2 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greekh195a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 1998<br/>
+This is a two-semester Honors course [H195A-B]. The work for the Honors course may either build on work in a previous upper division course used in fulfillment of the Greek major or may be a newly conceived project. The work will result in the writing of a thesis, to be evaluated by an Honors committee of three members. Written thesis due the Monday of the 13th week of the semester in which the course is taken.</span><br />
+ <a href="" class="btn-readmore"><span>Honors Course in Greek:</span> Read More [+]</a></p>
+<div id="464" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> A student must be a declared major in the Classics Department and in the subject in which Honors is done. A student must have a 3.6 overall GPA and a 3.6 GPA in the major courses</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-3 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of independent study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. This is part one of a year long series course. A provisional grade of IP (in progress) will be applied and later replaced with the final grade after completing part two of the series. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Honors Course in Greek:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greekh195b" data-toggle="#cb_greekh195b">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;H195B</span> 
+<span class="title">Honors Course in Greek</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greekh195b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Prior to 2007<br/>
+The work for the Honors course may either build on work in a previous upper division course used in fulfillment of the Greek major or may be a newly conceived project. The work will result in the writing of a thesis, to be evaluated by an Honors committee of three members. Written thesis due the Monday of the 13th week of the semester in which the course is taken.</span><br />
+ <a href="" class="btn-readmore"><span>Honors Course in Greek:</span> Read More [+]</a></p>
+<div id="524" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> A student must be a declared major in the Classics Department and in the subject in which Honors is done. A student must have a 3.6 overall GPA and a 3.6 GPA in the major courses</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of independent study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. This is part two of a year long series course. Upon completion, the final grade will be applied to both parts of the series. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Honors Course in Greek:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_greek199" data-toggle="#cb_greek199">
+<h3 class="courseblocktitle">
+<span class="code">GREEK&#160;199</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_greek199">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2015, Fall 2014, Spring 2014<br/></span><br />
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research:</span> Read More [+]</a></p>
+<div id="516" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Restricted to senior honors students</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 1-5 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 1-4 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Zero hours of Independent study per week for 15 weeks. One to Four hour of Independent study per week for 8 weeks. One to Five hour of Independent study per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Greek/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

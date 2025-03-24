@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="yiddishcourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_yiddish101" data-toggle="#cb_yiddish101">
+<h3 class="courseblocktitle">
+<span class="code">YIDDISH&#160;101</span> 
+<span class="title">Elementary Yiddish</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_yiddish101">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: German<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2016<br/>
+Introduction to Yiddish language and literature. Attention to reading, writing, and speaking in the context of the historic Yiddish cultural environment.</span><br />
+ <a href="" class="btn-readmore"><span>Elementary Yiddish:</span> Read More [+]</a></p>
+<div id="50" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Yiddish 101 after passing Yiddish 1.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture/discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Yiddish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Elementary Yiddish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_yiddish102" data-toggle="#cb_yiddish102">
+<h3 class="courseblocktitle">
+<span class="code">YIDDISH&#160;102</span> 
+<span class="title">Intermediate Yiddish</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_yiddish102">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: German<br/>
+Terms offered: Spring 2020, Spring 2019, Spring 2018<br/>
+Further intensive study of Yiddish, building on the foundation established in 101. Advanced grammar and introduction to the reading of original texts.</span><br />
+ <a href="" class="btn-readmore"><span>Intermediate Yiddish:</span> Read More [+]</a></p>
+<div id="682" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Yiddish 101 or equivalent</p><p><strong>Credit Restrictions:</strong> Students will receive no credit for Yiddish 102 after passing Yiddish 2.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture/discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Yiddish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Yiddish:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_yiddish103" data-toggle="#cb_yiddish103">
+<h3 class="courseblocktitle">
+<span class="code">YIDDISH&#160;103</span> 
+<span class="title">Readings in Yiddish</span> 
+<span class="hours">3 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_yiddish103">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: German<br/>
+Terms offered: Fall 2019, Fall 2018, Fall 2016<br/>
+Study of selected Yiddish texts including prose, poetry, and drama, from various periods and geographic areas, in the context of time and place. Review of relevant grammatical topics. Increased attention to the Hebrew/Aramaic component. Selections may vary from semester to semester.</span><br />
+ <a href="" class="btn-readmore"><span>Readings in Yiddish:</span> Read More [+]</a></p>
+<div id="658" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 102 or equivalent, or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture/discussion per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Yiddish/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Readings in Yiddish:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

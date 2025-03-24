@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<abouttheprogramtext>
+<![CDATA[
+<h3><span id="docs-internal-guid-7d57c02e-74ec-7e8f-fbf2-86fb60d9ee6f">Bachelor of Arts (BA)</span></h3>
+<p><span id="docs-internal-guid-7d57c02e-74ec-7e8f-fbf2-86fb60d9ee6f">The Data Science Major degree program combines computational and inferential reasoning to draw conclusions based on data about some aspect of the real world. Data scientists come from all walks of life, all areas of study, and all backgrounds. They share an appreciation for the practical use of mathematical and scientific thinking and the power of computing to understand and solve problems for business, research, and societal impact.</span></p>
+<p><span id="docs-internal-guid-7d57c02e-74ec-7e8f-fbf2-86fb60d9ee6f">The Data Science Major will equip students to draw sound conclusions from data in context, using knowledge of statistical inference, computational processes, data management strategies, domain knowledge, and theory. Students will learn to carry out analyses of data through the full cycle of the investigative process in scientific and practical contexts. Students will gain an understanding of the human and ethical implications of data analytics and integrate that knowledge in designing and carrying out their work.</span></p>
+<p><span id="docs-internal-guid-7d57c02e-74ec-7e8f-fbf2-86fb60d9ee6f">The Data Science major requirements include one lower-division course (<span class="sc_courseinline">STAT C8</span></span> {DATA 8}) and upper-division course (<span class="sc_courseinline">COMPSCI C100</span> {DATA 100}), along with required courses from each of the following groups:</p>
+<ul>
+	<li>Foundations in Mathematics and Computing</li>
+	<li>Computational and Inferential Depth</li>
+	<li> Modeling, Learning and Decision Making</li>
+	<li>Probability</li>
+	<li>Human Contexts and Ethics</li>
+	<li><span id="docs-internal-guid-7d57c02e-74ec-7e8f-fbf2-86fb60d9ee6f">Domain Emphasis</span></li>
+</ul>
+<p><span id="docs-internal-guid-7d57c02e-74ec-7e8f-fbf2-86fb60d9ee6f">Students will select a Domain Emphasis, a cluster of one lower division course and two upper division courses, that brings them into the context of a domain and allows them </span>to build bridges with data science.</p>
+<h3><span id="docs-internal-guid-7d57c02e-74ec-7e8f-fbf2-86fb60d9ee6f">Declaring the Major</span></h3>
+<p>For prerequisites required before declaring the major, please see the Major Requirements tab. Students interested in the major should <a href=" http://data.berkeley.edu/degrees">consult the program website</a>, for up-to-date information about declaration, petitions, and deadlines.</p>
+<h3><span id="docs-internal-guid-7d57c02e-74ec-7e8f-fbf2-86fb60d9ee6f">Minor Program</span></h3>
+<p>We expect that a minor in Data Science will be available to students from all Colleges, except for students with a Data Science major. The proposal for the minor program is currently in development. <a href="http://data.berkeley.edu">Check the program website</a> for details and status updates.</p>
+]]>
+</abouttheprogramtext>
+<majorrequirementstext>
+<![CDATA[
+<p><span id="docs-internal-guid-b98acf1b-83c5-06d4-2cec-e031beb79bde">In addition to the University, campus, and college requirements, listed on the College Requirements tab, students must fulfill the below requirements specific to their major program. <span>As the program is new, these requirements may undergo changes. Please check the</span></span> <a href="http://data.berkeley.edu/degrees" target="_blank">Data Science program website</a> for updates.</p>
+<h3>General Guidelines</h3>
+<ul>
+	<li>All courses taken to fulfill the major requirements below must be taken for graded credit, other than courses listed which are offered on a Pass/No Pass basis only. Other exceptions to this requirement are noted as applicable.</li>
+	<li>No more than one upper division course may be used to simultaneously fulfill requirements for a student's major and minor programs, with the exception of minors offered outside of the College of Letters &amp; Science.</li>
+	<li><span>A minimum grade point average (GPA) of 2.0 must be maintained in both upper and lower division courses used to fulfill the major requirements.</span></li>
+</ul>
+<h3><span id="docs-internal-guid-2ba1e668-83c5-b8ce-4b29-ecd94cddd22c">Lower Division Prerequisites</span></h3>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol">STAT/COMPSCI/INFO C8</td><td>Foundations of Data Science</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">MATH 1A<br/><span style="margin-left:20px;" class="blockindent">&amp; MATH 1B</span></td><td>Calculus<br/><span style="margin-left:20px;" class="blockindent">and Calculus</span></td><td class="hourscol">8</td></tr>
+<tr class="even"><td class="codecol">MATH 54</td><td>Linear Algebra and Differential Equations <sup>2</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or STAT 89A</td><td colspan="2"> Linear Algebra for Data Science</td></tr>
+<tr class="orclass even"><td class="codecol orclass">or EL ENG 16A<br/><span style="margin-left:20px;" class="blockindent">&amp; EL ENG 16B</span></td><td colspan="2"> Course Not Available<br/><span style="margin-left:20px;" class="blockindent">and Course Not Available</span></td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 61A</td><td>The Structure and Interpretation of Computer Programs <sup>3</sup></td><td class="hourscol">4</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or COMPSCI 88</td><td colspan="2"> Computational Structures in Data Science</td></tr>
+<tr class="orclass odd"><td class="codecol orclass">or ENGIN 7</td><td colspan="2"> Introduction to Computer Programming for Scientists and Engineers</td></tr>
+<tr class="even lastrow"><td class="codecol">COMPSCI 61B</td><td>Data Structures</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<table border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol"><sup>1</sup></td><td class="notecol"><p><span id="docs-internal-guid-56a1cd87-83cb-8916-89f6-e22ec5393270">For a transitional period through Fall 2018, students may substitute <span class="sc_courseinline">STAT C8 Foundations of Data Science</span> (DATA 8) with <span class="sc_courseinline">STAT 20</span>, <span class="sc_courseinline">STAT 21</span>, or <span class="sc_courseinline">STAT 135</span> when they have previously taken CS 61A. More details about this “grandfathering” policy available on our website: </span><a href="http://data.berkeley.edu/degrees">http://data.berkeley.edu/degrees</a>.</p></td></tr><tr><td valign="top" class="symcol"><sup>2</sup></td><td class="notecol"><p> <span id="docs-internal-guid-8a4846f0-83cc-b23a-b6ea-94e66a44fff7"><span class="sc_courseinline">STAT 89A</span> in its 4-unit version will be accepted.</span></p></td></tr><tr><td valign="top" class="symcol"><sup>3</sup></td><td class="notecol"><p><span id="docs-internal-guid-aec73fd0-83cd-207f-57d5-92af17d53b1d"><span class="sc_courseinline">COMPSCI 88</span> (2 units) will be accepted only for students that have taken INFO C8 (DATA 8), but this is not applicable for students utilizing the “grandfathering” policy.</span></p></td></tr></table>
+<p><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">In some cases, students may complete alternative courses to satisfy the above prerequisites. See the lower-division requirements page on the <a href="http://data.berkeley.edu/degrees" target="_blank">Data Science program website</a> for more details.</span></p>
+<h3><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Lower Division Requirements</span></h3>
+<p><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Students will also be required to take one lower division course towards their choice of Domain Emphasis. See the Domain Emphasis tab for more information.</span></p>
+<h3><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Upper Division Requirements</span></h3>
+<p><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Students will be required to complete <span class="sc_courseinline">COMPSCI C100 Principles &amp; Techniques of Data Science</span></span><span> (DATA 100) for 4 units. </span><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Students will also be required to take two upper division course towards their choice of Domain Emphasis. </span>See the Domain Emphasis tab for more information.</p>
+<h5><strong><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Computational and Inferential Depth</span>  </strong></h5>
+<p><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Students will be required to take two upper division courses comprising 7 or more units that provide computational and inferential depth beyond that provided in <span class="sc_courseinline">COMPSCI C100</span></span> (DATA 100) and their lower division courses. </p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Choose two courses comprising 7+ units from the following:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 161</td><td>Computer Security</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 162</td><td>Operating Systems and System Programming</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 164</td><td>Programming Languages and Compilers</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 168</td><td>Introduction to the Internet: Architecture and Protocols</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 169</td><td>Software Engineering</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 170</td><td>Efficient Algorithms and Intractable Problems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 186</td><td>Introduction to Database Systems</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">COMPSCI 188</td><td>Introduction to Artificial Intelligence</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EECS 127</td><td>Optimization Models in Engineering</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 120</td><td>Signals and Systems</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">EL ENG 123</td><td>Digital Signal Processing</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">EL ENG 129</td><td>Course Not Available</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">ESPM 174</td><td>Design and Analysis of Ecological Research</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">IND ENG 115</td><td>Industrial and Commercial Data Systems</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">IND ENG 135</td><td>Applied Data Science with Venture Applications</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">INFO 159</td><td>Natural Language Processing</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INFO 190</td><td>Special Topics in Information (Introduction to Data Visualization)</td><td class="hourscol">1-3</td></tr>
+<tr class="even"><td class="codecol">NUC ENG 175</td><td>Methods of Risk Analysis</td><td class="hourscol">3</td></tr>
+<tr class="odd"><td class="codecol">STAT 135</td><td>Concepts of Statistics</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 151A</td><td>Linear Modelling: Theory and Applications</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">STAT 152</td><td>Sampling Surveys</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 153</td><td>Introduction to Time Series</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">STAT 158</td><td>The Design and Analysis of Experiments</td><td class="hourscol">4</td></tr>
+<tr class="even lastrow"><td class="codecol">STAT 159</td><td>Reproducible and Collaborative Statistical Data Science</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<h5><strong><span>Probability</span></strong></h5>
+<p><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Students will be required to take one upper division course on probability. </span></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Choose one of the following:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">STAT 134</td><td>Concepts of Probability</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">STAT 140</td><td>Probability for Data Science</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">IND ENG 172</td><td>Probability and Risk Analysis for Engineers</td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td class="codecol">EL ENG 126</td><td>Probability and Random Processes</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<h5><strong>Modeling, Learning, and Decision-Making</strong></h5>
+<p><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Students will be required to take one upper division course on modeling, learning, and decision-making.</span></p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even areaheader  firstrow"><td colspan="2"><span class="courselistcomment areaheader ">Choose one of the following:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol">COMPSCI 189</td><td>Introduction to Machine Learning</td><td class="hourscol">4</td></tr>
+<tr class="even"><td class="codecol">IND ENG 142</td><td>Introduction to Machine Learning and Data Analytics</td><td class="hourscol">3</td></tr>
+<tr class="odd lastrow"><td class="codecol">STAT 154</td><td>Modern Statistical Prediction and Machine Learning</td><td class="hourscol">4</td></tr>
+</tbody></table>
+
+<h5><strong><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Human Contexts and Ethics </span></strong></h5>
+<p><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">S</span>tudents will be required to take one course from a curated list of courses that establish a human, social, and ethical context in which data analytics and computational inference play a central role. </p>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup><col class="codecol"/><col class="titlecol"/><col align="char" char="." class="hourscol"/></colgroup><thead><tr class="hidden noscript"><th scope="col">Code</th><th scope="col">Title</th><th scope="col" class="hourscol">Units</th></tr></thead><tbody><tr class="even firstrow"><td class="codecol">AMERSTD/AFRICAM C134</td><td>Information Technology and Society</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">INFO 188</td><td>Behind the Data: Humans and Values</td><td class="hourscol">3</td></tr>
+<tr class="even"><td class="codecol">ISF 100J</td><td>The Social Life of Computing</td><td class="hourscol">4</td></tr>
+<tr class="odd"><td class="codecol">ISF C100G/STS C100/HISTORY C182C</td><td>Introduction to Science, Technology, and Society</td><td class="hourscol">4</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">For certain Domain Emphases, additional HCE options are available:</span></td><td class="hourscol"></td></tr>
+<tr class="odd"><td class="codecol"><div style="margin-left:20px;" class="blockindent">BIO ENG 100</div></td><td>Ethics in Science and Engineering [3]</td><td class="hourscol"></td></tr>
+<tr class="even"><td class="codecol"><div style="margin-left:20px;" class="blockindent">CY PLAN 101</div></td><td>Introduction to Urban Data Analytics [4]</td><td class="hourscol"></td></tr>
+<tr class="odd lastrow"><td class="codecol"><div style="margin-left:20px;" class="blockindent">ESPM C167/PB HLTH C160</div></td><td>Environmental Health and Development [4]</td><td class="hourscol"></td></tr>
+</tbody></table>
+
+<h4><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Domain Emphasis</span></h4>
+<p><span id="docs-internal-guid-ffc2b5b0-83cd-db28-0ce5-66efa59cd7f2">Students will also be required to take two upper division course towards their choice of Domain Emphasis. </span>See the Domain Emphasis tab for more information.</p>
+]]>
+</majorrequirementstext>
+<domainemphasistext>
+<![CDATA[
+<p>Domain Emphases give students a grounded understanding of a particular domain of data-intensive research, relevant theory, or an integrative intellectual thread. A Domain Emphasis is comprised of three courses chosen from a list. Each Domain Emphasis is rooted in a lower division course, which is typically also a prerequisite for the upper division courses. </p>
+<div>
+<p>A Domain Emphasis is not limited to courses that are intended to be specifically for data science. Rather, they should bring the data science student into the context of a domain. That may involve understanding the vocabulary, methods of study, theoretical foundations, or cultural outlook of the domain. The student needs to become able to build the bridges with data science in carrying out the emphasis, rather than expecting each course to do it for them.</p>
+<p><strong><span id="docs-internal-guid-cfc44e51-0196-89fb-acce-70cd59eccbc7"><strong>Students</strong></span><strong><span> will select one course from a short list of lower-division prerequisites, and two courses from a list of upper-division courses. The lower division course is a required element of the Domain Emphasis.</span></strong></strong></p>
+<h3><span>What to think about when selecting a domain emphasis:</span></h3>
+<div>
+<ul>
+	<li>
+	<p>Courses you take for the 7-course L&amp;S Breadth requirement may fulfill the lower-division course for a domain. Even if you don’t yet know which domain to choose, your breadths may work for you for the major as well.</p>
+	</li>
+	<li>
+	<p>Allow yourself some flexibility—choose three or four upper-division courses from the <a href="https://data.berkeley.edu/degrees/domain-emphasis">course list</a> that you’d like to take, rather than two, so you can make sure you continue making progress if you are unable to take a particular course.</p>
+	</li>
+	<li>
+	<p>Be advised that it is important to examine whether seats are typically available in the courses for the domain you select—many courses in other departments have priority enrollment groups.</p>
+	</li>
+</ul>
+<p><span id="docs-internal-guid-091097ae-0197-5735-2227-6c42b68ac383">The domain emphases are currently undergoing revision and are subject to change. </span>Course lists for the designated emphases will be available soon on the <a href="https://data.berkeley.edu/degrees/domain-emphasis">Data Science program website.</a></p>
+</div>
+</div>
+<h3>List of Domain Emphases</h3>
+<ul>
+	<li>Applied Mathematics and Modeling</li>
+	<li>Business Analytics</li>
+	<li>Cognition and Artificial Intelligence</li>
+	<li>Computational Biology Methods</li>
+	<li>Computational Imaging</li>
+	<li>Computational Linguistics &amp; Natural Language Processing</li>
+	<li>Computational Molecular Biology</li>
+	<li>Digital Humanities and Data Arts</li>
+	<li>Ecology and the Environment</li>
+	<li>Econometrics</li>
+	<li>Environmental Economics</li>
+	<li>Evolution and Biodiversity</li>
+	<li>Geospatial Information and Technology</li>
+	<li>Human Biology</li>
+	<li>Industrial Analytics</li>
+	<li>Inequalities in Society</li>
+	<li>Psychology and Cognition</li>
+	<li>Quantitative Social Science</li>
+	<li>Robotics</li>
+	<li>Social Policy and Law</li>
+	<li>Social Welfare, Health, and Poverty</li>
+	<li>Toxicology and Disease</li>
+	<li>Urban Planning and Sustainable Development &amp; Engineering</li>
+</ul>
+]]>
+</domainemphasistext>
+<collegerequirementstext>
+<![CDATA[
+ <p>Undergraduate students must fulfill the following requirements in addition to those required by their major program.</p> <p>For detailed lists of courses that fulfill college requirements, please review the <a href="/2018-19/undergraduate/colleges-schools/letters-science/">College of Letters &amp; Sciences</a> page in this Guide. For College advising appointments, please visit the <a href="https://ls.berkeley.edu/advising/about-undergraduate-advising-services">L&amp;S Advising</a> Pages. </p> <h3>University of California Requirements</h3> <h5><a href="http://writing.berkeley.edu/node/78"><span id="docs-internal-guid-82322469-d403-b6fc-99fe-5be6e0865dad">Entry Level Writing</span></a></h5> <p><span id="docs-internal-guid-82322469-d403-c602-c395-1fb0f53c604b">All students who will enter the University of California as freshmen must demonstrate their command of the English language by fulfilling the Entry Level Writing requirement. Fulfillment of this requirement is also a prerequisite to enrollment in all reading and composition courses at UC Berkeley. </span></p> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/american-history-institutions-requirement/"><span id="docs-internal-guid-82322469-d403-ed90-bc30-8e7c7e9092f7">American History and American Institutions</span></a></h5> <p><span id="docs-internal-guid-82322469-d403-fe3e-933e-7102e097ef4b">The American History and Institutions requirements are based on the principle that a US resident graduated from an American university, should have an understanding of the history and governmental institutions of the United States.</span></p> <h3><span>Berkeley Campus Requirement</span></h3> <h5><a href="http://americancultures.berkeley.edu/students/courses"><span id="docs-internal-guid-82322469-d404-3abc-dc51-fc563caacff1">American Cultures</span></a></h5> <p><span id="docs-internal-guid-82322469-d404-47e1-1ad4-b918d33461cf">All undergraduate students at Cal need to take and pass this course in order to graduate. The requirement offers an exciting intellectual environment centered on the study of race, ethnicity and culture of the United States. AC courses offer students opportunities to be part of research-led, highly accomplished teaching environments, grappling with the complexity of American Culture.</span></p> <h3><span>College of Letters &amp; Science Essential Skills Requirements</span></h3> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/quantitative-reasoning-requirement/"><span id="docs-internal-guid-82322469-d404-a7b1-d295-ee03b476bcfe">Quantitative Reasoning</span></a></h5> <p><span id="docs-internal-guid-82322469-d404-cbac-1c7a-d74abefae398">The Quantitative Reasoning requirement is designed to ensure that students graduate with basic understanding and competency in math, statistics, or computer science. The requirement may be satisfied by exam or by taking an approved course.</span></p> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/foreign-language-requirement/"><span id="docs-internal-guid-82322469-d404-ff23-6ff3-47abec092456">Foreign Language</span></a></h5> <p><span id="docs-internal-guid-82322469-d405-12d9-db19-1b37f6639ef7">The Foreign Language requirement may be satisfied by demonstrating proficiency in reading comprehension, writing, and conversation in a foreign language equivalent to the second semester college level, either by passing an exam or by completing approved course work.</span></p> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/reading-composition-requirement/"><span id="docs-internal-guid-82322469-d405-3e15-2491-27223f91e87d">Reading and Composit</span>ion</a></h5> <p><span id="docs-internal-guid-82322469-d405-4ef4-4b87-0d26195a0d3c">In order to provide </span>a solid foundation in reading, writing, and critical thinking the College requires two semesters of lower division work in composition in sequence. Students must complete parts A &amp; B reading and composition courses by the end of their second semester and a second-level course by the end of their fourth semester.</p> <h3>College of Letters &amp; Science 7 Course Breadth Requirements</h3> <h5><a href="/2018-19/undergraduate/colleges-schools/letters-science/#breadthrequirementstext"><span id="docs-internal-guid-79a9fe70-d405-7c7e-e34f-837b91cc1d58">Breadth Requirements</span></a></h5> <p><span id="docs-internal-guid-82322469-d405-9db4-c30e-bca05ecf44f3">The undergraduate breadth requirements provide Berkeley students with a rich and varied educational experience outside of their major program. As the foundation of a liberal arts education, breadth courses give students a view into the intellectual life of the University while introducing them to a multitude of perspectives and approaches to research and scholarship. Engaging students in new disciplines and with peers from other majors, the breadth experience strengthens interdisciplinary connections and context that prepares Berkeley graduates to understand and solve the complex issues of their day.</span></p> <h3><span id="docs-internal-guid-abca8c8f-d405-c4ad-0be7-1638c654345c">Unit Requirements</span></h3> <ul> 	<li> 	<p>120 total units</p> 	</li> 	<li> 	<p>Of the 120 units, 36 must be upper division units</p> 	</li> 	<li>Of the 36 upper division units, 6 must be taken in courses offered outside your major department</li> </ul> <h5><span id="docs-internal-guid-2bb674c5-d406-43a4-39ed-40d6e86d6760">Residence Requirements</span></h5> <p><span id="docs-internal-guid-82322469-d406-8d38-492a-067b2e0bac2d">For units to be considered in &quot;residence,&quot; you must be registered in courses on the Berkeley campus as a student in the College of Letters &amp; Science. Most students automatically fulfill the residence requirement by attending classes here for four years. In general, there is no need to be concerned about this requirement, unless you go abroad for a semester or year or want to take courses at another institution or through UC Extension during your senior year. In these cases, you should make an appointment to meet an adviser to determine how you can meet the Senior Residence Requirement.</span></p> <p><span id="docs-internal-guid-82322469-d406-a2e5-35d5-82895d287218">Note: Courses taken through UC Extension do not count toward residence.</span></p> <h5><span id="docs-internal-guid-44b2bced-d406-cb13-a0f5-0c6f75ed8972">Senior Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d406-e3bd-f620-e9bef1331f97">After you become a senior (with 90 semester units earned toward your BA degree), you must complete at least 24 of the remaining 30 units in residence in at least two semesters. To count as residence, a semester must consist of at least 6 passed units. Intercampus Visitor, EAP, and UC Berkeley-Washington Program (UCDC) units are excluded.</span></p> <p><span id="docs-internal-guid-82322469-d406-f7f7-c9da-c2732368bc4e">You may use a Berkeley Summer Session to satisfy one semester of the Senior Residence requirement, provided that you successfully complete 6 units of course work in the Summer Session and that you have been enrolled previously in the college.</span></p> <h5><span id="docs-internal-guid-abb18f5b-d407-0e0f-9d41-83c0ea3c3c7b">Modified Senior Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d407-3956-aeef-b67b71969fca">Participants in the UC Education Abroad Program (EAP), Berkeley Summer Abroad, or the UC Berkeley Washington Program (UCDC) may meet a Modified Senior Residence requirement by completing 24 (excluding EAP) of their final 60 semester units in residence. At least 12 of these 24 units must be completed after you have completed 90 units.</span></p> <h5><span id="docs-internal-guid-62f287bf-d407-4ca6-5bbd-2d1393418d66">Upper Division Residence Requirement</span></h5> <p><span id="docs-internal-guid-82322469-d407-6060-9575-98782777275a">You must complete in residence a minimum of 18 units of upper division courses (excluding UCEAP units), 12 of which must satisfy the requirements for your major.</span></p>
+]]>
+</collegerequirementstext>
+<academicopportunitiestext>
+<![CDATA[
+<h3>Student Teams</h3>
+<p><span id="docs-internal-guid-2abe14f6-83ff-6056-93dd-139c5c87b842">Student teams support many aspects of the efforts of the Division of Data Sciences, including Peer Advising for the major and minor, analysis of student experience data to help shape future policies and programs, and development of curriculum that is integrated into courses from many departments all across campus. More details about these opportunities and how to get involved are available on the <a href="https://data.berkeley.edu/about/student-teams">Data Science program website</a>.</span></p>
+]]>
+</academicopportunitiestext>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

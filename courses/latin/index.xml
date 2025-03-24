@@ -1,0 +1,424 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="latincourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin1" data-toggle="#cb_latin1">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;1</span> 
+<span class="title">Elementary Latin</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin1">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Beginners' course.</span><br />
+ <a href="" class="btn-readmore"><span>Elementary Latin:</span> Read More [+]</a></p>
+<div id="169" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-4 hours of lecture per week</p><p><strong>Summer:</strong> 8 weeks - 6 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three or four hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Elementary Latin:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin2" data-toggle="#cb_latin2">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;2</span> 
+<span class="title">Elementary Latin</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin2">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Beginners' course.</span><br />
+ <a href="" class="btn-readmore"><span>Elementary Latin:</span> Read More [+]</a></p>
+<div id="847" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1 or equivalent</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-4 hours of lecture per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 8 hours of lecture per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 8 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three to Four hours of Lecture per week for 15 weeks. Eight hours of Lecture per week for 8 weeks. Eight hours of Lecture per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Elementary Latin:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin15" data-toggle="#cb_latin15">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;15</span> 
+<span class="title">The Latin Workshop</span> 
+<span class="hours">10 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin15">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Summer 2020 10 Week Session, Summer 2019 10 Week Session, Summer 2018 10 Week Session<br/>
+Designed for anyone who wishes to acquire reading knowledge of Latin; replaces 2+ semesters of traditional study. Lectures, discussions, drills and tutorial sessions on grammar and vocabulary; readings in Latin prose and poetry (e.g., Cicero and Ovid).</span><br />
+ <a href="" class="btn-readmore"><span>The Latin Workshop:</span> Read More [+]</a></p>
+<div id="76" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Senior or graduate standing, or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students will receive five units of credit for Latin 15 after completing Latin 1, five units after completing Latin 2, and no credit after completing Latin 10.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Summer:</strong> 10 weeks - 15 hours of lecture and 15 hours of recitation per week</p><!--<p class=""><strong>Additional Format:</strong> Six hours of instruction per day for ten weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>The Latin Workshop:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin99" data-toggle="#cb_latin99">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;99</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin99">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2014, Spring 2014, Fall 2013<br/></span><br />
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research:</span> Read More [+]</a></p>
+<div id="436" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Consent of instructor and 3.3 overall GPA; restricted to freshmen and sophomores</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 0 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Zero hours of Independent study per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin100" data-toggle="#cb_latin100">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;100</span> 
+<span class="title">Republican Prose</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin100">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020, Fall 2019, Spring 2019<br/>
+Selected readings in Caesar, Sallust, and Cicero; some review of grammar.</span><br />
+ <a href="" class="btn-readmore"><span>Republican Prose:</span> Read More [+]</a></p>
+<div id="50" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 2, 10, or 15</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 7.5 hours of lecture per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 6 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks. Six hours of Lecture per week for 8 weeks. Seven and one-half hours of Lecture per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Republican Prose:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin101" data-toggle="#cb_latin101">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;101</span> 
+<span class="title">Vergil</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin101">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2019, Spring 2019, Fall 2018<br/>
+Selected readings from Vergil.</span><br />
+ <a href="" class="btn-readmore"><span>Vergil:</span> Read More [+]</a></p>
+<div id="373" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Vergil:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin102" data-toggle="#cb_latin102">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;102</span> 
+<span class="title">Lyric and Society</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin102">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020, Spring 2018, Spring 2017<br/>
+Reading in Catullus and Horace, and of short selections from prose literature of their periods.</span><br />
+ <a href="" class="btn-readmore"><span>Lyric and Society:</span> Read More [+]</a></p>
+<div id="865" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Lyric and Society:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin115" data-toggle="#cb_latin115">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;115</span> 
+<span class="title">Roman Drama</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin115">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2019, Fall 2009, Fall 2008<br/>
+Readings in Comedy (Plautus and/or Terence) and Tragedy (Seneca).</span><br />
+ <a href="" class="btn-readmore"><span>Roman Drama:</span> Read More [+]</a></p>
+<div id="599" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101 or 102</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Roman Drama:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin116" data-toggle="#cb_latin116">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;116</span> 
+<span class="title">Lucretius, Vergil's Georgics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin116">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2016, Spring 2013, Fall 2011<br/>
+Readings in the De Rerum Natura and the Georgics.</span><br />
+ <a href="" class="btn-readmore"><span>Lucretius, Vergil's Georgics:</span> Read More [+]</a></p>
+<div id="926" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101 or 102</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Lucretius, Vergil's Georgics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin119" data-toggle="#cb_latin119">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;119</span> 
+<span class="title">Latin Epic</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin119">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2019, Fall 2017, Spring 2014<br/>
+Readings in Latin epic poetry.</span><br />
+ <a href="" class="btn-readmore"><span>Latin Epic:</span> Read More [+]</a></p>
+<div id="939" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 101 or 102</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Latin Epic:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin120" data-toggle="#cb_latin120">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;120</span> 
+<span class="title">Latin Prose to AD 14</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin120">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2014, Fall 2013, Spring 2009<br/>
+Readings in Latin prose authors such as Sallust, Cicero, Caesar, and Livy.</span><br />
+ <a href="" class="btn-readmore"><span>Latin Prose to AD 14:</span> Read More [+]</a></p>
+<div id="630" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100 and either 101 or 102 or 140</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Latin Prose to AD 14:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin121" data-toggle="#cb_latin121">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;121</span> 
+<span class="title">Tacitus</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin121">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2018, Spring 2012, Fall 2008<br/>
+Readings in Tacitus.</span><br />
+ <a href="" class="btn-readmore"><span>Tacitus:</span> Read More [+]</a></p>
+<div id="943" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100 and either 101 or 102 or 140</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Tacitus:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin122" data-toggle="#cb_latin122">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;122</span> 
+<span class="title">Post-Augustan Prose</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin122">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020, Spring 2018, Spring 2017<br/>
+Readings in Seneca, the younger Pliny, and other prose writers.</span><br />
+ <a href="" class="btn-readmore"><span>Post-Augustan Prose:</span> Read More [+]</a></p>
+<div id="725" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100 and either 101 or 102 or 140</p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Post-Augustan Prose:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin140" data-toggle="#cb_latin140">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;140</span> 
+<span class="title">Medieval Latin</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin140">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2019, Spring 2017, Spring 2016<br/>
+Introduction to medieval Latin: readings in prose and poetry from Cassiodorus to the Italian Renaissance, with emphasis on certain periods.</span><br />
+ <a href="" class="btn-readmore"><span>Medieval Latin:</span> Read More [+]</a></p>
+<div id="445" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Medieval Latin:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin155a" data-toggle="#cb_latin155a">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;155A</span> 
+<span class="title">Readings in Medieval Latin</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin155a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2015, Spring 2010, Spring 2006<br/>
+Study of texts selected from the early, high, or late medieval periods. Focuses on prose.</span><br />
+ <a href="" class="btn-readmore"><span>Readings in Medieval Latin:</span> Read More [+]</a></p>
+<div id="949" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 100 or 101 or 102 or 140, or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> 107.</p></div>
+<p><a href="" class="btn-readless"><span>Readings in Medieval Latin:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin160" data-toggle="#cb_latin160">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;160</span> 
+<span class="title">Latin Prose Syntax and Stylistics</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin160">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Spring 2020<br/>
+The goal of this course is to improve your understanding of Latin prose, its basic syntactical principles and the stylistic variation we see across the corpus. To this end, the course will comprise several components: review of grammar (especially syntax), vocabulary, and idiom; composition exercises; and reading passages (prepared and at sight) from Latin authors.</span><br />
+ <a href="" class="btn-readmore"><span>Latin Prose Syntax and Stylistics:</span> Read More [+]</a></p>
+<div id="66" class="coursedetails" aria-expanded="false">
+
+
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p></div>
+<p><a href="" class="btn-readless"><span>Latin Prose Syntax and Stylistics:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latinh195a" data-toggle="#cb_latinh195a">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;H195A</span> 
+<span class="title">Honors Course in Latin</span> 
+<span class="hours">2 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latinh195a">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Prior to 2007<br/>
+This is a two-semester Honors course [H195A-B]. The work for the Honors course may either build on work in a previous upper division course used in fulfillment of the Latin major or may be a newly conceived project. The work will result in the writing of a thesis, to be evaluated by an Honors committee of three members. Written thesis due the Monday of the 13th week of the semester in which the course is taken.</span><br />
+ <a href="" class="btn-readmore"><span>Honors Course in Latin:</span> Read More [+]</a></p>
+<div id="828" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> A student must be a declared major in the Classics Department and in the subject in which Honors is done. A student must have a 3.6 overall GPA and a 3.6 GPA in the major courses</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3-3 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of independent study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. This is part one of a year long series course. A provisional grade of IP (in progress) will be applied and later replaced with the final grade after completing part two of the series. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Honors Course in Latin:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latinh195b" data-toggle="#cb_latinh195b">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;H195B</span> 
+<span class="title">Honors Course in Latin</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latinh195b">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Prior to 2007<br/>
+This is a two-semester course [H195A-B]. The work for the Honors course may either build on work in a previous upper division course used in fulfillment of the Latin major or may be a newly conceived project. The work will result in the writing of a thesis, to be evaluated by an Honors committee of three members. Written thesis due the Monday of the 13th week of the semester in which the course is taken.</span><br />
+ <a href="" class="btn-readmore"><span>Honors Course in Latin:</span> Read More [+]</a></p>
+<div id="63" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> A student must be a declared major in the Classics Department and in the subject in which Honors is done. A student must have a 3.6 overall GPA and a 3.6 GPA in the major courses</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of independent study per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. This is part two of a year long series course. Upon completion, the final grade will be applied to both parts of the series. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Honors Course in Latin:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_latin199" data-toggle="#cb_latin199">
+<h3 class="courseblocktitle">
+<span class="code">LATIN&#160;199</span> 
+<span class="title">Supervised Independent Study and Research</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_latin199">
+
+<p class="courseblockdesc"><span class="descshow">Offered through: Classics<br/>
+Terms offered: Fall 2014, Spring 2014, Fall 2013<br/></span><br />
+ <a href="" class="btn-readmore"><span>Supervised Independent Study and Research:</span> Read More [+]</a></p>
+<div id="294" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Restricted to senior honor students</p><p><strong>Credit Restrictions:</strong> Enrollment is restricted; see the Introduction to Courses and Curricula section of this catalog.</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 1-4 hours of independent study per week</p><p><strong>Summer:</strong> <br /><span style="width: 15px; display: inline-block;"></span>6 weeks - 2.5-10 hours of independent study per week<br /><span style="width: 15px; display: inline-block;"></span>8 weeks - 2-7.5 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> One to Four hour of Independent study per week for 15 weeks. Two to Seven and one-half hours of Independent study per week for 8 weeks. Two and one-half to Ten hours of Independent study per week for 6 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Latin/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Offered for pass/not pass grade only. Final exam not required. </p></div>
+<p><a href="" class="btn-readless"><span>Supervised Independent Study and Research:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+

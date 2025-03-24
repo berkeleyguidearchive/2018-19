@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+<div id="sc_sccoursedescs">
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll">Expand all course descriptions [+]</button><button class="btn_collapseAll">Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indones1a" data-toggle="#cb_indones1a">
+<h3 class="courseblocktitle">
+<span class="code">INDONES 1A</span> 
+<span class="title">Introductory Indonesian</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indones1a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019<br/>
+Survey of grammar, graded exercises, and readings drawn from Indonesian texts, leading to a mastery of basic language patterns, essential vocabulary, and to achievement of basic reading, writing, and conversational competence. Emphasis on developing communicative skills.</span><br/>
+ <a href="" class="btn-readmore"><span>Introductory Indonesian:</span> Read More [+]</a></p>
+<div id="446" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Credit Restrictions:</strong> Students who have passed MALAY/I 1A will not get credit for INDONES 1A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Indonesian/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Lunde</p><p><strong>Formerly known as:</strong> Malay/Indonesian 1A</p></div>
+<p><a href="" class="btn-readless"><span>Introductory Indonesian:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indones1b" data-toggle="#cb_indones1b">
+<h3 class="courseblocktitle">
+<span class="code">INDONES 1B</span> 
+<span class="title">Introductory Indonesian</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indones1b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019<br/>
+Survey of grammar, graded exercises, and readings drawn from Indonesian texts, leading to a mastery of basic language patterns, essential vocabulary, and to achievement of basic reading, writing, and conversational competence. Emphasis on developing communicative skills.</span><br/>
+ <a href="" class="btn-readmore"><span>Introductory Indonesian:</span> Read More [+]</a></p>
+<div id="294" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Completion of INDONES 1A (formerly MALAYI 1A) or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students who have passed MALAY/I 1B do not get credit for INDONES 1B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Indonesian/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Lunde</p><p><strong>Formerly known as:</strong> Malay/Indonesian 1B</p></div>
+<p><a href="" class="btn-readless"><span>Introductory Indonesian:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indones100a" data-toggle="#cb_indones100a">
+<h3 class="courseblocktitle">
+<span class="code">INDONES 100A</span> 
+<span class="title">Intermediate Indonesian</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indones100a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019<br/>
+Readings in Indonesian texts, including newspapers, journals, and literature exploring a variety of styles. Systematic study of grammatical and lexical problems arising from these readings. Advanced exercises in composition, oral and written communicative skills, and cultural competence.</span><br/>
+ <a href="" class="btn-readmore"><span>Intermediate Indonesian:</span> Read More [+]</a></p>
+<div id="800" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> 1A-1B</p><p><strong>Credit Restrictions:</strong> Students who have passed MALAY/I 100A do not get credit for INDONES 100A</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Indonesian/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Instructor:</strong> Lunde</p><p><strong>Formerly known as:</strong> Malay/Indonesian 100A</p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Indonesian:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indones100b" data-toggle="#cb_indones100b">
+<h3 class="courseblocktitle">
+<span class="code">INDONES 100B</span> 
+<span class="title">Intermediate Indonesian</span> 
+<span class="hours">5 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indones100b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019<br/>
+Readings in Indonesian texts, including newspapers, journals, and literature exploring a variety of styles. Systematic study of grammatical and lexical problems arising from these readings. Advanced exercises in composition, oral and written communicative skills, and cultural competence.</span><br/>
+ <a href="" class="btn-readmore"><span>Intermediate Indonesian:</span> Read More [+]</a></p>
+<div id="313" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Successful completion of INDONES 1B (formerly MALAY/I 1B) or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students who have passed MALAY/I 100B do not get credit for INDONES 100B</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 5 hours of lecture per week</p><!--<p class=""><strong>Additional Format:</strong> Five hours of lecture per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Indonesian/Undergraduate</p><p><strong>Grading/Final exam status:</strong> Letter grade. Final exam required. </p><p><strong>Formerly known as:</strong> Malay/Indonesian 100B</p></div>
+<p><a href="" class="btn-readless"><span>Intermediate Indonesian:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indones210a" data-toggle="#cb_indones210a">
+<h3 class="courseblocktitle">
+<span class="code">INDONES 210A</span> 
+<span class="title">Seminar in Malay Letters and Oral Traditions</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indones210a">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Fall 2019<br/>
+Various aspects of Indonesian and Malay language, history and development of the language, classical literature, drama, oral literature, modern literature of Indonesia and Malaysia, and dialect studies. Applies various theoretical approaches to the study of the language and literature.</span><br/>
+ <a href="" class="btn-readmore"><span>Seminar in Malay Letters and Oral Traditions:</span> Read More [+]</a></p>
+<div id="731" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit with instructor consent.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Indonesian/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Tiwon</p><p><strong>Formerly known as:</strong> Malay/Indonesian 210A</p></div>
+<p><a href="" class="btn-readless"><span>Seminar in Malay Letters and Oral Traditions:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indones210b" data-toggle="#cb_indones210b">
+<h3 class="courseblocktitle">
+<span class="code">INDONES 210B</span> 
+<span class="title">Seminar in Malay Letters and Oral Traditions</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indones210b">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Spring 2019<br/>
+Various aspects of Malay language and literature, history and development of the language, classical literature, drama, oral literature, modern literature of Indonesia and Malaysia, and dialect studies. Applies various theoretical approaches to the study of the language and literature.</span><br/>
+ <a href="" class="btn-readmore"><span>Seminar in Malay Letters and Oral Traditions:</span> Read More [+]</a></p>
+<div id="737" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of seminar per week.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Indonesian/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Instructor:</strong> Tiwon</p><p><strong>Formerly known as:</strong> Malay/Indonesian 210B</p></div>
+<p><a href="" class="btn-readless"><span>Seminar in Malay Letters and Oral Traditions:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_indones232" data-toggle="#cb_indones232">
+<h3 class="courseblocktitle">
+<span class="code">INDONES 232</span> 
+<span class="title">Readings in Modern Indonesian and Malaysian Literature</span> 
+<span class="hours">4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_indones232">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Prior to 2007<br/>
+This course will focus on the 20th century literatures of Indonesia and Malaysia. Emphasis will be on the socio-cultural matrix of such modern genres as the novel, the short story, and poetry. Lectures and most course work in Indonesian.</span><br/>
+ <a href="" class="btn-readmore"><span>Readings in Modern Indonesian and Malaysian Literature:</span> Read More [+]</a></p>
+<div id="920" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Two years of Malay/Indonesian or consent of instructor</p><p><strong>Credit Restrictions:</strong> Students who have taken MAYALY/I 132 or MALAY/I 232 will not receive credit for INDONES 232</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of lecture and 1 hour of discussion per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Lecture and One hour of Discussion per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Indonesian/Graduate</p><p><strong>Grading:</strong> Letter grade. </p><p><strong>Formerly known as:</strong> Malay/Indonesian 232</p></div>
+<p><a href="" class="btn-readless"><span>Readings in Modern Indonesian and Malaysian Literature:</span> Read Less [-] </a></p></div>
+</div>
+</div></div>
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+</courseleaf>
+

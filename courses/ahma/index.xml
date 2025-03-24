@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<courseleaf>
+
+
+
+<text>
+<![CDATA[  
+
+  
+]]>
+</text>
+<faculty>
+<![CDATA[
+]]>
+</faculty>
+<coursestext>
+<![CDATA[
+<a name="courseinventory"></a><div class="courses">
+<a name="ahmacourses"></a>
+<h2>Courses</h2>
+<div class="coursedescs_toggleAll notinpdf"><button class="btn_expandAll" >Expand all course descriptions [+]</button><button class="btn_collapseAll" >Collapse all course descriptions [-]</button></div>
+<div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_ahma210" data-toggle="#cb_ahma210">
+<h3 class="courseblocktitle">
+<span class="code">AHMA&#160;210</span> 
+<span class="title">Ancient History and Mediterranean Archaeology Interdisciplinary Seminar</span> 
+<span class="hours">2 or 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_ahma210">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Spring 2020, Fall 2018, Spring 2018<br/>
+Team-taught by faculty from two different departments. The purpose is not only to expose students to a discipline other than their own, but to engage them directly in the application of that discipline to their own research interests. The topic and instructors will vary from year to year.</span><br />
+ <a href="" class="btn-readmore"><span>Ancient History and Mediterranean Archaeology Interdisciplinary Seminar:</span> Read More [+]</a></p>
+<div id="705" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 3 hours of seminar per week</p><!--<p class=""><strong>Additional Format:</strong> Three hours of Seminar per week for 15 weeks.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Ancient History and Med. Arch./Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Ancient History and Mediterranean Archaeology Interdisciplinary Seminar:</span> Read Less [-] </a></p></div>
+</div>
+</div><div class="courseblock">
+<button class="btn_toggleCoursebody" aria-expanded="false" aria-controls="cb_ahma299" data-toggle="#cb_ahma299">
+<h3 class="courseblocktitle">
+<span class="code">AHMA&#160;299</span> 
+<span class="title">Special Study</span> 
+<span class="hours">1 - 4 Units</span>
+</h3>
+</button>
+<div class="coursebody" aria-hidden="true" id="cb_ahma299">
+
+<p class="courseblockdesc"><span class="descshow">Terms offered: Summer 2019, Summer 2018 8 Week Session, Summer 2018 First 6 Week Session<br/>
+Topics and instructors will vary from year to year. Special individual study for qualified graduate students. Individual study and research, including archaeological fieldwork or laboratory projects, in consultation with instructor on subject matter not covered in scheduled course offerings.</span><br />
+ <a href="" class="btn-readmore"><span>Special Study:</span> Read More [+]</a></p>
+<div id="976" class="coursedetails" aria-expanded="false">
+
+<div class="course-section"><p class="course-heading"><strong>Rules &amp; Requirements</strong></p><p><strong>Prerequisites:</strong> Graduate standing or consent of instructor</p><p><strong>Repeat rules:</strong> Course may be repeated for credit without restriction.</p></div>
+<div class="course-section"><p class="course-heading"><strong>Hours &amp; Format</strong></p><p><strong>Fall and/or spring:</strong> 15 weeks - 4-16 hours of independent study per week</p><p><strong>Summer:</strong> 8 weeks - 7.5-30 hours of independent study per week</p><!--<p class=""><strong>Additional Format:</strong> Four hours of independent study per week per unit, including consultation. Seven and one-half to thirty hours of independent study per week, including consultation.</p>--></div>
+<div class="course-section"><p class="course-heading"><strong>Additional Details</strong></p><p><strong>Subject/Course Level:</strong> Ancient History and Med. Arch./Graduate</p><p><strong>Grading:</strong> Letter grade. </p></div>
+<p><a href="" class="btn-readless"><span>Special Study:</span> Read Less [-] </a></p></div>
+</div>
+</div>
+</div>
+]]>
+</coursestext>
+</courseleaf>
+
